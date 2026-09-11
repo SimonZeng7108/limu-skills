@@ -1,0 +1,16 @@
+Topic: Career and hiring
+Category: 05-career-hiring
+Dialog: 0049
+Asker: Momo7
+Comment ID: 6a9f9864000000001403bfe0
+Source: comments/0049_Momo7_1403bfe0.txt
+Title: Does BosonAI hire new PhDs
+
+About
+Asks if Boson hires PhD new grads and what profile clears the bar. Li Mu: yes, they interview every day. No bar details.
+
+Question
+沐神，bosonAI招PhD ng吗，需要怎样的profile大概才能过bar
+
+Li Mu
+我们有招啊！我们反正每天都在面试。

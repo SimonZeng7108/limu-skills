@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0001
+Asker: zzzzzz睡觉中勿扰
+Comment ID: 6a9f7be9000000001500f05d
+Source: comments/0001_zzzzzz睡觉中勿扰_1500f05d.txt
+Title: Programmer skills when code agents land
+
+About
+The asker wants to know what programmers should keep when coding agents write, review, and run code. Li Mu points at tech-lead skills: basic implementation is being eaten, but leading a technical effort is more than that.
+
+Question
+啊啊啊啊啊啊啊啊啊啊！！ 在code agent普遍落地的时候 对于程序员来说 最重要的技能是什么？ 是不把code当做自己的能力 更深入的理解 业务 技术 底层的赚钱逻辑吗
+
+Li Mu
+tech leader的能力吧，目前干掉了是基础的代码实现、review、运行。但tech leader干的活不止是这些

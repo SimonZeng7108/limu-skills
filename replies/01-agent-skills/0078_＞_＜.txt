@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0078
+Asker: ＞_＜
+Comment ID: 6a9f98d7000000000b011dea
+Source: comments/0078_＞_＜_0b011dea.txt
+Title: Retraining for AI compute / inference
+
+About
+Wants to jump from pure software to AI compute acceleration and doubts learning a language is useful. Li Mu: learning a language is useful, at least so you can read code and give agents good feedback.
+
+Question
+老师，以前读研的时候最喜欢你的论文精读系列了，现在想问一下，在AI时代我应该怎么学习呢？应该怎么转行呢？尤其是我现在想跨行业转行，想从纯软转到AI计算/推理加速，这里甚至我要重新学习编程语言，但是现在又觉得仔细学习编程语言是无用的
+
+Li Mu
+学编程语言是有用的。至少得看得懂代码吧, 能够给AI 好的反馈。

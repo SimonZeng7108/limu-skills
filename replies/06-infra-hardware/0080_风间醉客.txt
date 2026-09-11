@@ -1,0 +1,16 @@
+Topic: Infra and hardware
+Category: 06-infra-hardware
+Dialog: 0080
+Asker: 风间醉客
+Comment ID: 6a9f8bdb0000000014002796
+Source: comments/0080_风间醉客_14002796.txt
+Title: Will agents take over LLM training infra
+
+About
+Asks if training-infra work will be automated. Li Mu: agents already handle simple daily work; whole infrastructure design is still beyond them.
+
+Question
+请问您认为LLM训练infra的工作在未来会趋向于被越来越强的AI覆盖掉，还是会反而更依赖人类工程师呢？
+
+Li Mu
+一些简单日常工作，agent真的干的挺好的。但整个infrastructure的设计啊，这一块AI目前还不行吧

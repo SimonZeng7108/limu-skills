@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0079
+Asker: 小红薯6613EFF2
+Comment ID: 6a9f8e710000000015020553
+Source: comments/0079_小红薯6613EFF2_15020553.txt
+Title: Algorithm engineers vs humanities GPT users
+
+About
+Asks where algorithm engineers beat a humanities grad with GPT. Li Mu: AI multiplies your existing edge by about 10x.
+
+Question
+请问一下，Ai时代，算法工程师和 用gpt 的文科生比，优势在哪
+
+Li Mu
+AI能把人的优势放大十倍，你比别人厉害的地方，在利用AI之后，能够更厉害。

@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0100
+Asker: 参毛
+Comment ID: 6a9f8e62000000000a0272b6
+Source: comments/0100_参毛_0a0272b6.txt
+Title: Will CCF paper counts stay the academic scoreboard
+
+About
+Asks how long paper-count standards last when AI writes papers. Li Mu: standards are sticky, but judging people only by papers is now questionable.
+
+Question
+学界通常以ccfa论文的数量为个人能力的评价标准，以我自己的体感来说标准开始一年比一年高，那么这个标准还能继续维持多久？以后会有其他的衡量标准吗？
+
+Li Mu
+标准总是很难改的，但是确实大家都用AI来写论文的时代，所以是不是只看论文这件事情，有待商榷。

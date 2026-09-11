@@ -1,0 +1,16 @@
+Topic: Embodied AI and robotics
+Category: 03-embodied-robotics
+Dialog: 0016
+Asker: 贝林满满满
+Comment ID: 6aa0a6560000000015015d0c
+Source: comments/0016_贝林满满满_15015d0c.txt
+Title: Did Astra-style demos kill VLA research
+
+About
+A grad student doing on-device embodied algorithms asks if LLM scale will just solve robotics. Li Mu treats current robot demos as demo-level; quality, latency, and cost still have to prove out.
+
+Question
+李老师，我是一个在做端侧具身算法的小菜鸡研究生，这两天看到astra6已经可以直接操纵机械臂来执行任务了，这是不是说明现有的vla和wam已经没那么大研究的价值了?llm的力大砖飞未来就能解决具身的任务[皱眉R]
+
+Li Mu
+目前还是demo级别吧。这一块的效果，实时性，成本是不是够用，那还得再看一看。

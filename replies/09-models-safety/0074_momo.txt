@@ -1,0 +1,16 @@
+Topic: Models and safety
+Category: 09-models-safety
+Dialog: 0074
+Asker: momo
+Comment ID: 6a9f84570000000015015389
+Source: comments/0074_momo_15015389.txt
+Title: Are VLMs in a trough versus VLA
+
+About
+Fall recruiting seemed to ignore VLMs; asks if VLA is the better bet. Li Mu: from a practical angle vision is still heavily used in human-agent interaction.
+
+Question
+沐神你好，请问 vlm 现在看来是不是已经进入局部低谷了呢，今年的秋招看起来工业界完全不需要这块，是否 vla 会更值得探索呢
+
+Li Mu
+实用角度来讲，还挺多的吧？人与agent的交互之间，用vision还是挺多的。

@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 1012
+Asker: .wing
+Comment ID: 6a9f82b3000000001403a6b4
+Source: comments/1012_.wing_1403a6b4.txt
+Title: CV small models during a PhD
+
+About
+A PhD student still working on small CV models asks if that is hopeless. Li Mu: small models are fine; they work well in many small settings.
+
+Question
+读博期间还在研究cv小模型，还有前途吗
+
+Li Mu
+小模型也没什么问题吧？在很多小的场景上面，小模型做的挺好的。

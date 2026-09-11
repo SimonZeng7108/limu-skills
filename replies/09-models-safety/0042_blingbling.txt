@@ -1,0 +1,16 @@
+Topic: Models and safety
+Category: 09-models-safety
+Dialog: 0042
+Asker: blingbling
+Comment ID: 6a9fb84b00000000150152f5
+Source: comments/0042_blingbling_150152f5.txt
+Title: LoRA finetune made a VLM worse
+
+About
+Someone finetuned a multimodal model on hundreds/thousands of labels and got worse results. Li Mu: get more data, or switch models; some models are so over-trained that LoRA does not take well.
+
+Question
+大佬！我遇到的问题是，我想微调多模态模型去做垂直领域任务，准备了几百上千条标注数据，做lora微调，但是调完效果反而差了[捂脸R]。这方面比较缺乏经验，不知道怎么才能微调好。用的llamafactory框架微调的，loss函数没有改，没有微调视觉塔，只微调了映射层等。是不是应该设计一个垂直领域loss比较好，还是需要更多数据才好？[笑哭R] 现在一头雾水。希望您能指点迷津
+
+Li Mu
+用更多的数据，或者你换一个模型，一些模型好像可能训练的过于充分，导致做lora没那么好用。

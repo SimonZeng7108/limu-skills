@@ -1,0 +1,16 @@
+Topic: Embodied AI and robotics
+Category: 03-embodied-robotics
+Dialog: 0046
+Asker: 克里斯今天吃💊了没
+Comment ID: 6a9f9117000000001403aa92
+Source: comments/0046_克里斯今天吃💊了没_1403aa92.txt
+Title: When will robots and LLMs merge
+
+About
+Notes robots and LLMs should complete each other but have split into two tracks. Li Mu: robotics is still stuck on hardware and the cerebellum, not on the brain.
+
+Question
+机器人和大语言模型原本应该是互相成就的关系，现在却成了两条路线，您怎么看这两个行业的未来？或者也许该问，整合什么时候来临
+
+Li Mu
+因为机器人目前大家都还是在硬件和小脑上面吧，大家没有特别花时间在大脑上面。

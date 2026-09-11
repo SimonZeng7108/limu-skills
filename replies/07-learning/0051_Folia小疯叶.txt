@@ -1,0 +1,16 @@
+Topic: Learning AI
+Category: 07-learning
+Dialog: 0051
+Asker: Folia小疯叶
+Comment ID: 6a9f81b3000000001503d6b3
+Source: comments/0051_Folia小疯叶_1503d6b3.txt
+Title: Should you still learn old neural-net basics
+
+About
+Someone following Karpathy from scratch asks if pre-transformer material is wasted. Li Mu: learn it anyway, at least to know how the thing works.
+
+Question
+沐神好！我最近跟着karpathy在学习从零开始搭建神经网络，还没有学到transformer架构，老师认为现在还有必要去学习数年前的技术吗？如果个人想要训练自己专属的小模型，应该从哪些方向入手实践？
+
+Li Mu
+我觉得学习还是有必要的，至少自己要理解这个后面是怎么工作的。

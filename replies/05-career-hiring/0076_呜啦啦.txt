@@ -1,0 +1,16 @@
+Topic: Career and hiring
+Category: 05-career-hiring
+Dialog: 0076
+Asker: 呜啦啦
+Comment ID: 6a9f90180000000002028539
+Source: comments/0076_呜啦啦_02028539.txt
+Title: Using AI to talk to engineers
+
+About
+A tech-services person asks how to communicate with engineers, with AI's help. Li Mu: AI can draft and review, but human-to-human talk should stay human; many people hate AI replies.
+
+Question
+AI大公司的技术服务部门：该怎么加强和技术同学的沟通能力，怎么用 ai帮忙呢
+
+Li Mu
+你可以让AI来帮你提供一些建议，或者说帮你跟之前的跟别人的沟通做一些review。但人与人的交互，主要还是人上。我看很多人是讨厌别人用AI来回复的。

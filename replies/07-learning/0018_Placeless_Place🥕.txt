@@ -1,0 +1,16 @@
+Topic: Learning AI
+Category: 07-learning
+Dialog: 0018
+Asker: Placeless Place🥕
+Comment ID: 6a9f86f90000000002028ccc
+Source: comments/0018_Placeless_Place🥕_02028ccc.txt
+Title: When will paper club return
+
+About
+Another request for the old paper-reading sessions. Li Mu says those videos were handmade, and he has not figured out how to make them in an AI world.
+
+Question
+李沐老师你的论文阅读什么时候回归啊[哭惹R]，我硕士时期必听的组会，现在读博了都好久没更新了
+
+Li Mu
+以前都是古法做视频，还确实还没有想清楚，有了A I之后，这个怎么做？

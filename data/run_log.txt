@@ -1,0 +1,39 @@
+Xiaohongshu comment scrape log
+Note: https://www.xiaohongshu.com/explore/6a9f7b27000000000f039800
+Note ID: 6a9f7b27000000000f039800
+
+2026-09-11
+- Logged in as Simon.
+- Fast scrape was stopped at user request (ban risk).
+- Slow mode started: 3.5-5.5s between parent pages, 2.8-4.5s between replies, extra 8-12s rest every 8 requests.
+- Peak in-memory count before captcha: 600 parent comments, 354 replies, still paging replies (37/80).
+- Security Verification appeared: "Requests too frequent. Try again after 1 minute."
+- Scrape paused. Vue comment store was cleared by the verification overlay, so the 600 in-memory threads were wiped and not yet flushed to disk.
+- Next run must append to data/threads.json after EVERY successful page so a captcha cannot wipe progress.
+
+Captcha playbook
+1. Stop all requests immediately when the modal appears.
+2. Wait at least 2-3 minutes (longer than the 1 minute it asks for).
+3. User completes Refresh / slider manually. Do not auto-click through it.
+4. After it closes, wait another 2-3 minutes before any comment API call.
+5. Resume even slower: 8-12s between pages, 15-20s rest every 5 requests.
+6. If it appears twice in a row, stop the session for 30-60 minutes.
+
+2026-09-11 later
+- User confirmed login and that scrolling no longer shows verification.
+- Switched to UI-only collection: no extra comment API calls.
+- Saved currently loaded 150 parent threads + 97 replies to data/threads.json and comments/*.txt.
+- Started per-thread screenshots by scrolling .note-container, clipping below the 64px sticky author bar.
+- Screenshot 0001.png captured (parent + author reply; extra replies still collapsed as '展开 38 条回复' to avoid triggering verification).
+- Will screenshot already-loaded threads first, then load more only by slow scrolling with long pauses.
+
+2026-09-11 scroll+nested run
+- UI-only: click .show-more for nested replies, then scroll .note-container to load more parents.
+- Delays: 12-16s after each expand click, 14-18s after each parent load, extra 18-25s rest every 4 actions.
+- Auto-stop if Security Verification appears.
+- After ~6 min: first two threads fully expanded (39 and 33 replies), third in progress, still on first 10 parents, no captcha.
+- Continued UI-only run. Vue store is a sliding window; unique parents on disk keep growing beyond the live list.
+- Loop finished ~70 min: hasMore=false, no remaining 展开 buttons, no captcha.
+- Final merge: 1189 unique parent threads, 524 nested replies on disk (claimed 549).
+- 6 early threads still incomplete (25 missing replies) and are no longer in the live list, so UI expand cannot reach them without a reload/API call. Left them as preview-only to avoid captcha.
+- Page still shows 共 1898 条评论 (parents+replies). Saved 1713 comments. Gap is likely deleted/hidden comments plus those 25 unexpanded replies.

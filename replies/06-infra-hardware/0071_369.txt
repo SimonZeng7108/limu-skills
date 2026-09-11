@@ -1,0 +1,16 @@
+Topic: Infra and hardware
+Category: 06-infra-hardware
+Dialog: 0071
+Asker: 369
+Comment ID: 6a9f8a400000000014002750
+Source: comments/0071_369_14002750.txt
+Title: Embedded and on-device AI demand
+
+About
+Asks if embedded / edge AI is a real need. Li Mu: yes, in cars and phones, and hardware adaptation is a lot of work.
+
+Question
+李沐老师，非常希望听听您的建议，关于嵌入式ai这一块未来发展是真实需求吗，端侧ai这类
+
+Li Mu
+有吧。车载这一块啊，手机啊，肯定是有一些AI可以用在上面的。然后就涉及到不同的硬件上面做适配，工作量还是挺大的。

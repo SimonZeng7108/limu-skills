@@ -1,0 +1,6 @@
+对话 0996
+评论ID: 6a9f837b0000000014038358
+
+王杰JieWang
+时间: 2026-09-08 11:39 · 广东
+沐老师怎么看现在模型的language following能力？除了高质量synthetic data和RLHF，还有什么比较好的insights?

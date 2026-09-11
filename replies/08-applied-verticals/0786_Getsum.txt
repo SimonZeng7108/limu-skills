@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0786
+Asker: Getsum
+Comment ID: 6a9f902d000000000100a1b0
+Source: comments/0786_Getsum_0100a1b0.txt
+Title: Speech as a future interface
+
+About
+Asks about the speech field. Li Mu: Boson works on speech, and he sees it as a natural channel between people and agents.
+
+Question
+老师如何看待语音这一个方向，老师觉得未来发展和热点会怎么样[微笑R]
+
+Li Mu
+那我们创业公司有做语音这一块，我觉得是人与agent的交流的一个很自然的通道。

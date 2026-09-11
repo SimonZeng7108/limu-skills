@@ -1,0 +1,16 @@
+Topic: Models and safety
+Category: 09-models-safety
+Dialog: 0065
+Asker: 小樊不烦🥕
+Comment ID: 6a9f974d0000000002013762
+Source: comments/0065_小樊不烦🥕_02013762.txt
+Title: Keep doing multimodal when the market wants agents
+
+About
+Asks if multimodal is still worth it versus agents. Li Mu: multimodal is fine, because humans and agents interact through it.
+
+Question
+沐神，请问您如何看待未来多模态的发展趋势？目前市场更倾向agent，还要继续坚持做多模态吗
+
+Li Mu
+我觉得多模态没问题啊，人和agent的交互，是靠多模态。

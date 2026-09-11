@@ -1,0 +1,67 @@
+Agent skills
+How people should work with agents: coding, review, depth, and owning a whole project.
+Count: 16
+
+0001  zzzzzz睡觉中勿扰
+  Programmer skills when code agents land
+  The asker wants to know what programmers should keep when coding agents write, review, and run code. Li Mu points at tech-lead skills: basic implementation is being eaten, but leading a technical effort is more than that.
+
+0010  DJ使我平静
+  Agents multiply ability, they do not add it
+  The asker argues that agents shrink hard-skill gaps and raise the value of problem-finding and decomposition. Li Mu agrees in a sharper form: an agent is a multiplier (x10), not an adder (+10).
+
+0025  Alan
+  Do fundamentals still matter
+  Asks if low-level knowledge is still worth learning. Li Mu says yes: when he uses an agent on things he does not understand, the result is not good enough.
+
+0029  阿机在coding
+  Should a new grad student still learn to code
+  A first-year grad can finish projects with AI and wonders if coding practice is wasted. Li Mu: you may not write the code, but you still need to review it and understand what the model wrote.
+
+0034  方玄曦你今天运动了嘛～
+  Skills CS PhD students should train
+  Asks what computer-science PhDs should cultivate now. Li Mu: the ability to get things done, specifically to lead agents through work that used to need a 5-10 person team.
+
+0043  kafukabear
+  Go deep first, then go wide
+  Asks whether to specialize or stay broad, and whether traditional backend jobs survive as AI+. Li Mu's personal rule is depth first, then breadth.
+
+0061  Momo🥕
+  Where new CS grads should aim
+  A new CS graduate sees programming change in one year. Li Mu: first get fluent at using agents to maximize your own output.
+
+0064  AntOnTheMars
+  Do you still need a second programming language
+  The asker already reviews architecture with AI and wonders if learning C is still needed. Li Mu: one language is enough for now; the human job is reviewing AI code for dumb bugs and bad design detours.
+
+0070  言苏鲤
+  Where humans still beat agents at work
+  A new hire asks for the human-agent boundary as memory makes experience cheaper. Li Mu flips it: the more you use AI, the more you see its limits, and you learn when it is trustworthy.
+
+0078  ＞_＜
+  Retraining for AI compute / inference
+  Wants to jump from pure software to AI compute acceleration and doubts learning a language is useful. Li Mu: learning a language is useful, at least so you can read code and give agents good feedback.
+
+0079  小红薯6613EFF2
+  Algorithm engineers vs humanities GPT users
+  Asks where algorithm engineers beat a humanities grad with GPT. Li Mu: AI multiplies your existing edge by about 10x.
+
+0082  有思想的芦苇
+  Business-algorithm career in a fast-changing market
+  A third-year master's student on the fall recruiting market feels lost in applied algorithms. Li Mu's test: can you, plus agents, finish work that used to take five people.
+
+0197  111
+  What an AI application engineer must own in two years
+  Panic about AI coding: what the market will want later. Li Mu will not forecast two years, but today's signal is people who can own a large chunk of work, now with a pile of agents instead of a 5-10 person team.
+
+0790  杨老师
+  Generalists vs specialists after AI coding
+  Asks who survives if coding already beats ordinary humans: T-shaped generalists or deep specialists. Li Mu: AI has passed humans on implementation speed, not on design, taste, or covering the full problem.
+
+1188  #undef
+  Deleted question; reply is about reviewing AI code
+  The original comment was deleted. From Li Mu's reply: you do not have to write code yourself, but you still need to review it, and architecture plus design choices still need a human.
+
+1189  momo
+  Deleted question; reply is that junior programmers fade
+  The original comment was deleted. From Li Mu's reply: basic programmers are disappearing; the surviving path is senior work on complex, large projects.

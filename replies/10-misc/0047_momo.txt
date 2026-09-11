@@ -1,0 +1,16 @@
+Topic: Misc
+Category: 10-misc
+Dialog: 0047
+Asker: momo
+Comment ID: 6a9f9099000000000b01252c
+Source: comments/0047_momo_0b01252c.txt
+Title: When AGI arrives and whether to coast
+
+About
+A mix of AGI timelines, how a big-tech worker should invest, and whether to stop learning. Li Mu does not give a date; he trusts human adaptability, and that people will still find something to do.
+
+Question
+沐神，非常感谢你在b站的视频，是你3年老粉了[笑哭R] 想问下沐神如何看agi呢？比如agi 多久会到来(1年？)，agi 来之前，作为工作两年的大厂打工人应该做什么？(技术和资产上的投资) agi 来之后呢？ 另外，沐神如何看待 ，xx 现在不学，再过3个月也不用学了的现象？应该适当躺平，享受生活了吗？[捂脸R]
+
+Li Mu
+我比较相信人的对环境的适应性吧。就算A G I来了，人总是能找到自己能做的事情。

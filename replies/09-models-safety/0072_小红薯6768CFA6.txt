@@ -1,0 +1,16 @@
+Topic: Models and safety
+Category: 09-models-safety
+Dialog: 0072
+Asker: 小红薯6768CFA6
+Comment ID: 6a9f9216000000000a026cf8
+Source: comments/0072_小红薯6768CFA6_0a026cf8.txt
+Title: Will alignment drift away from practice
+
+About
+Asks how to think about alignment as models get stronger. Li Mu's feel: recent alignment work is mostly raising IQ, and the resulting reports are already hard for humans to read.
+
+Question
+沐神怎么看未来AI能力越来越强之后，alignment的研究是否会某种程度上脱离实际，我们可以用什么心态来准备
+
+Li Mu
+我的体感也是，最近几代模型的更新，它的alignment都是提升智商，所以它出的那些报告啊，人基本不太看得懂。

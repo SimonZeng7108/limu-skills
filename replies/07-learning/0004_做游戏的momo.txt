@@ -1,0 +1,16 @@
+Topic: Learning AI
+Category: 07-learning
+Dialog: 0004
+Asker: 做游戏的momo
+Comment ID: 6a9f8325000000000b015646
+Source: comments/0004_做游戏的momo_0b015646.txt
+Title: Will the paper-reading series come back
+
+About
+Fans ask for the old paper-reading videos. Li Mu has not decided the format, because AI has changed what a paper series should even look like.
+
+Question
+老师还会更新论文精读系列嘛[举手R]
+
+Li Mu
+还没想好，在AI能力那么强的情况下，这个系列应该长什么样子？

@@ -1,0 +1,6 @@
+对话 0200
+评论ID: 6aa028dc000000000d021c00
+
+WSYTR
+时间: 2026-09-08 23:25 · 澳大利亚
+沐神，想请教一下您怎么看 Lorikeet 这类垂直领域的 Agent 公司？它主要用 AI Agent 去解决客服里的复杂 workflow，不只是做 FAQ/RAG，还会连接企业系统并实际执行操作。您觉得未来 3–5 年，这类 vertical Agent / AI-native SaaS 会形成长期壁垒吗？还是随着基础模型和 Salesforce、Intercom 这类平台能力增强，比较容易被平台层吃掉？对于工程师来说，这类公司是否值得加入呢

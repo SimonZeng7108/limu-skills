@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 1188
+Asker: #undef
+Comment ID: 6a9f7c5c00000000020288b3
+Source: comments/1188_#undef_020288b3.txt
+Title: Deleted question; reply is about reviewing AI code
+
+About
+The original comment was deleted. From Li Mu's reply: you do not have to write code yourself, but you still need to review it, and architecture plus design choices still need a human.
+
+Question
+原评论已删除
+
+Li Mu
+可以自己不写代码，但是需要review代码。而且它整个代码架构的设计，在一些方案的选择上，目前还是得靠人。

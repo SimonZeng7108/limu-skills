@@ -1,0 +1,6 @@
+对话 0652
+评论ID: 6a9f990800000000140397c0
+
+BigBear
+时间: 2026-09-08 13:11 · 美国
+沐神，请问你对AI Infra，尤其是对inference optimization ，hardware software codesign, 以至hyperscale 芯片定制的方向怎么看？这是当前值得工程师进入的领域吗（也许被AI agent取代慢些）？

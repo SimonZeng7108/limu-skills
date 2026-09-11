@@ -1,0 +1,16 @@
+Topic: Models and safety
+Category: 09-models-safety
+Dialog: 0054
+Asker: momo
+Comment ID: 6a9f7f9a0000000015016cf6
+Source: comments/0054_momo_15016cf6.txt
+Title: Future of multimodal
+
+About
+Open question on multimodal. Li Mu: it is important for human-AI interaction, but it is unclear whether it raises model intelligence, which is why some labs deprioritized it.
+
+Question
+沐神如何看待多模态的未来？
+
+Li Mu
+多模态肯定是AI和人交互的一个重要的途径。但确实，多模态能不能提升模型的智商，目前是大家观点不一致。所以很好几家大厂把多模态的优先级调低了。

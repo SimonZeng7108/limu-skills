@@ -1,0 +1,16 @@
+Topic: Learning AI
+Category: 07-learning
+Dialog: 0986
+Asker: Momo
+Comment ID: 6a9f84930000000015003f20
+Source: comments/0986_Momo_15003f20.txt
+Title: Please keep lecturing papers
+
+About
+Asks him to keep explaining papers. Li Mu: AI has hit paper talks so hard that he has not figured out a new format.
+
+Question
+老师还继续讲解paper吧
+
+Li Mu
+AI 对于讲 paper 的冲击太大了，我还没想清楚，新的讲的形式要怎么样？

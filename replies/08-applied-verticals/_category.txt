@@ -1,0 +1,55 @@
+Applied AI and verticals
+Industry apps, startups, recsys, medical, translation, SFT, AI4Science, and voice.
+Count: 13
+
+0026  Haon
+  Is medical imaging a real AI need
+  Asks if medical-image AI is real demand or hype, especially in China. Li Mu thinks imaging is already mature enough to match doctors, and the frontier has moved toward broader diagnosis.
+
+0039  搜广推大模型随机打杂
+  LLMs plus recommendation systems
+  Asks about large models in recsys. Li Mu says both replacing the rec-model backbone with an LM and doing recommendation purely with language models already have successful apps.
+
+0048  岛屿
+  AI for science after AlphaFold
+  Asks about AI4Science, molecules, AIDD. Li Mu is optimistic but says infrastructure lags: AlphaFold had data and easy verification, which most science problems do not.
+
+0050  港股小韭菜
+  Is business SFT a dead end
+  An applied algorithm engineer fears foundation models and researchers will erase SFT work. Li Mu: business SFT is still useful, but SFT itself will not be the moat; business understanding and model-to-business fit will.
+
+0053  让大家更好地认识你
+  Polish a vibe-coded product or validate demand
+  A solo builder has a buggy AI notes app and does not know whether to spend months polishing. Li Mu: first show it to friends and see if they can actually use it.
+
+0059  姑且是与堇
+  Will AI translation replace humans
+  Asks about AI translation, including messy real-world multimodal/low-latency cases. Li Mu: AI translation can replace about 99% of human work.
+
+0098  芒格很忙
+  How much AI a founder needs
+  Asks how much AI a founder must know, and where startups fit if models are general. Li Mu analogizes to cloud ten years ago: AI is now a basic skill, do not compete with the model's mainline, use it to enable other things.
+
+0676  LoRA
+  Search, ads, and recommendation after AI
+  Asks where search/ads/rec go next. Li Mu: first swap models to transformers; language models doing recsys themselves are also promising.
+
+0757  Jay
+  Do vertical models still have a chance
+  Worries the next foundation-model version will eat any vertical business, including earth science. Li Mu: verticals still have room because the product is not a raw model, it is industry integration and supporting systems.
+
+0786  Getsum
+  Speech as a future interface
+  Asks about the speech field. Li Mu: Boson works on speech, and he sees it as a natural channel between people and agents.
+
+0789  木子北田共
+  Survival of vertical small models
+  Asks if small vertical models survive against general models on cost. Li Mu: the model itself may be removed; the remaining value is supporting systems and industry integration.
+
+0793  沧海
+  Model vendors become like cloud vendors
+  A comment that domain specialists who build agents will not be replaced. Li Mu: model companies may end up like cloud vendors, a base intelligence utility, with lots of apps on top.
+
+0988  richard's AI4S daily
+  AI for science, pharma, and materials
+  Asks if fully automatic scientific discovery is near. Li Mu: short-term efficiency gains yes; overturning pharma/materials is hard because of regulation, data cleaning, causality, capability, and interpretability.

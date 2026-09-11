@@ -1,0 +1,16 @@
+Topic: Career and hiring
+Category: 05-career-hiring
+Dialog: 1099
+Asker: ray
+Comment ID: 6a9f7bc4000000000b015f53
+Source: comments/1099_ray_0b015f53.txt
+Title: Do LeetCode-style interviews still matter
+
+About
+Asks if algorithm-interview prep is still worth it. Li Mu: many companies still interview that way, and they do not want to suspect the solution was written by AI.
+
+Question
+leetcode-type的code考核还有必要特意考核/准备吗？
+
+Li Mu
+很多公司还是面，而且得不要让人怀疑是用AI写的。

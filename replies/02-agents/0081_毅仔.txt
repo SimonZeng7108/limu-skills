@@ -1,0 +1,16 @@
+Topic: Agents
+Category: 02-agents
+Dialog: 0081
+Asker: 毅仔
+Comment ID: 6a9f97370000000014030139
+Source: comments/0081_毅仔_14030139.txt
+Title: Is agent memory a lasting direction
+
+About
+Asks if agent memory is worth researching for jobs. Li Mu: memory is an important piece of agents; if you like it, go deep.
+
+Question
+再请教一下沫神，agent memory 会不会是未来agent 长期重要的方向，至少现在研究这个方向未来能找到工作[doge]
+
+Li Mu
+memory肯定是agent比较重要的一块。如果你感兴趣，你深入去做，应该没问题的。

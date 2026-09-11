@@ -1,0 +1,16 @@
+Topic: Models and safety
+Category: 09-models-safety
+Dialog: 0063
+Asker: why1te
+Comment ID: 6a9f7bf10000000014001a93
+Source: comments/0063_why1te_14001a93.txt
+Title: Where LLMs go next
+
+About
+Asks the important LLM research directions. Li Mu: models running and self-improving in sandboxes, including code execution, computer use on macOS, and world models.
+
+Question
+想问问李老师 llm的未来 llm会往哪个方向发展 当前的哪些研究方向是您比认为比较重要的[doge]
+
+Li Mu
+我认为，目前来看，就是模型在沙盒里面运行，自我成长。包括sandbox里执行代码、macos上compute use，已经各种新出来的世界模型里面运行。

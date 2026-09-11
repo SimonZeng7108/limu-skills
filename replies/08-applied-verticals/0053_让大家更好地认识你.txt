@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0053
+Asker: 让大家更好地认识你
+Comment ID: 6a9f8df400000000150000bd
+Source: comments/0053_让大家更好地认识你_150000bd.txt
+Title: Polish a vibe-coded product or validate demand
+
+About
+A solo builder has a buggy AI notes app and does not know whether to spend months polishing. Li Mu: first show it to friends and see if they can actually use it.
+
+Question
+大佬好！请教一下：我前段时间参赛锻炼，成果是用 vibe coding 做了一个 AI 笔记记录和分类工具，我自己用还行，但 bug 多、界面粗糙，普通用户上手也有门槛。我现在很纠结：如果要打磨到普通人能用的程度，可能要花几个月重构 + 改进交互；但如果搞好了也没人用，这几个月就白花了。同时，我也没有推广经验，不确定怎么去验证真实需求。作为一个 solo 开发者，有限的精力应该优先拿来验证"这东西值不值得做"，还是先沉下心把产品打磨到能用的水平？在方向不确定的情况下，什么信号说明该继续，什么信号说明该换方向呢？对于这个项目我现在拿着不知道怎么办了。感谢~
+
+Li Mu
+先找朋友看看，他们能不能用得起来吧。

@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0760
+Asker: Libra
+Comment ID: 6a9f91d700000000150163c7
+Source: comments/0760_Libra_150163c7.txt
+Title: AI4S protein PhD: research, job, or startup
+
+About
+A protein-design PhD asks where to put energy. Li Mu: interest. If you want something practical, join or start a team; if you want research, stay on research.
+
+Question
+老师请问ai4s方向（蛋白质设计）博士，应该把重心放在科研上，还是放在工作上或自己找团队创业呢
+
+Li Mu
+就看你兴趣吧，你想做实际一点的呢，就找团队创业，你想偏科研一点呢，那就是更专注在科研。

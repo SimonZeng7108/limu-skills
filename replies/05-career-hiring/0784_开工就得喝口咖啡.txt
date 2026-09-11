@@ -1,0 +1,16 @@
+Topic: Career and hiring
+Category: 05-career-hiring
+Dialog: 0784
+Asker: 开工就得喝口咖啡
+Comment ID: 6a9f904c000000000b01a6cd
+Source: comments/0784_开工就得喝口咖啡_0b01a6cd.txt
+Title: Internships at Boson
+
+About
+Asks if Li Mu's company takes interns. Li Mu: Bay Area and Toronto offices both hire interns.
+
+Question
+[举手R][举手R][举手R]啊老师您来小红书啦，你招实习生吗？
+
+Li Mu
+我们湾区和多伦多的office都招实习生。

@@ -1,0 +1,135 @@
+Li Mu AMA — author-replied comments, grouped into 10 topics
+Threads: 97
+Author replies: 98
+
+These 10 buckets came from reading every parent comment he replied to.
+Most questions cluster around skills-with-agents, research/PhD, jobs, infra,
+learning paths, vertical applications, and model/safety debates.
+Leftovers (jokes, housing, liability, empty pings) go in misc.
+
+01-agent-skills  Agent skills  (16)
+  How people should work with agents: coding, review, depth, and owning a whole project.
+  - 0001 zzzzzz睡觉中勿扰: Programmer skills when code agents land
+  - 0010 DJ使我平静: Agents multiply ability, they do not add it
+  - 0025 Alan: Do fundamentals still matter
+  - 0029 阿机在coding: Should a new grad student still learn to code
+  - 0034 方玄曦你今天运动了嘛～: Skills CS PhD students should train
+  - 0043 kafukabear: Go deep first, then go wide
+  - 0061 Momo🥕: Where new CS grads should aim
+  - 0064 AntOnTheMars: Do you still need a second programming language
+  - 0070 言苏鲤: Where humans still beat agents at work
+  - 0078 ＞_＜: Retraining for AI compute / inference
+  - 0079 小红薯6613EFF2: Algorithm engineers vs humanities GPT users
+  - 0082 有思想的芦苇: Business-algorithm career in a fast-changing market
+  - 0197 111: What an AI application engineer must own in two years
+  - 0790 杨老师: Generalists vs specialists after AI coding
+  - 1188 #undef: Deleted question; reply is about reviewing AI code
+  - 1189 momo: Deleted question; reply is that junior programmers fade
+
+02-agents  Agents  (8)
+  The agent field itself: harness, memory, RSI, consumer agents, and agent vs other bets.
+  - 0012 ZY: What LLM harnesses will be eaten
+  - 0027 爱吃🐏的兔子: Agent vs embodied for the next 3-5 years
+  - 0045 普通人勾勾: Will agent research still see big inventions
+  - 0073 不要以为消耗100B tokens能PUA大模型: What RSI actually means
+  - 0081 毅仔: Is agent memory a lasting direction
+  - 0097 小🦈吃吃吃: Embodied continual learning vs agent self-evolution
+  - 0782 Nirvana: Will consumer agents have a GPT moment
+  - 1014 小红薯64D08C08: How Li Mu sees RSI
+
+03-embodied-robotics  Embodied AI and robotics  (6)
+  Robots, VLA, world models, and whether AI can handle the physical world.
+  - 0002 藤🌿📷: Is embodied AI a bubble
+  - 0016 贝林满满满: Did Astra-style demos kill VLA research
+  - 0035 生椰甜甜子_: Future of embodied intelligence
+  - 0044 韭韭不想上班: Can AI solve the physical world
+  - 0046 克里斯今天吃💊了没: When will robots and LLMs merge
+  - 0068 千重: World models and embodied AI hype
+
+04-research-phd  Research and PhD  (14)
+  Advising, whether to do a PhD, academia vs industry, and how to pick a research topic.
+  - 0003 少华从文: What advisors and students should do now
+  - 0008 江南: Undergrad research that leans on agents
+  - 0014 小红薯67D3A2E2: Is a traditional CV PhD outdated
+  - 0037 不敲键盘张土豆: AI algorithm research for ordinary people
+  - 0055 藤原拓东: Skill vs network for research insight
+  - 0060 rain: Industry frontier vs universities
+  - 0066 Roy: Is a PhD still worth it versus industry
+  - 0075 和光同尘: 3D/4D scene understanding as a young researcher's bet
+  - 0095 gourmand: What research is still worth entering
+  - 0100 参毛: Will CCF paper counts stay the academic scoreboard
+  - 0655 温州皮革厂少主: AI's shock to academia
+  - 0760 Libra: AI4S protein PhD: research, job, or startup
+  - 1010 小红薯5F5849C0: LLM research when pretraining is just scaling
+  - 1012 .wing: CV small models during a PhD
+
+05-career-hiring  Career and hiring  (10)
+  Jobs, internships, interviews, management tracks, and making a living.
+  - 0022 喜羊羊我一定会回来的: How will low-skill workers survive
+  - 0030 灵儿Chili: Infra vs algorithm vs agent jobs
+  - 0031 祝无梦: Degree anxiety and over-using AI at work
+  - 0032 流浪菜儿: Are you hiring
+  - 0049 Momo7: Does BosonAI hire new PhDs
+  - 0052 空页: Is management still worth switching into
+  - 0076 呜啦啦: Using AI to talk to engineers
+  - 0766 井井: Hiring new grads
+  - 0784 开工就得喝口咖啡: Internships at Boson
+  - 1099 ray: Do LeetCode-style interviews still matter
+
+06-infra-hardware  Infra and hardware  (7)
+  Training infra, chips, compilers, and on-device / edge AI.
+  - 0006 啾啾: Is on-device AI a real need
+  - 0040 不慕: PhD in LLM inference chips / infra
+  - 0069 I_just_keep_going: Is AI hardware the next PhD bet
+  - 0071 369: Embedded and on-device AI demand
+  - 0080 风间醉客: Will agents take over LLM training infra
+  - 0092 X: Is an AI compiler worth learning
+  - 0657 silence: Will AI replace chip designers
+
+07-learning  Learning AI  (8)
+  How to start, non-CS paths, paper-reading videos, and whether it is too late.
+  - 0004 做游戏的momo: Will the paper-reading series come back
+  - 0018 Placeless Place🥕: When will paper club return
+  - 0023 R1: How far non-CS students should go in AI
+  - 0024 鱼鱼: Where to start vibe coding
+  - 0036 越越的茶颜: Is 30 too late to go deep on AI apps
+  - 0051 Folia小疯叶: Should you still learn old neural-net basics
+  - 0093 阿初数卷卷: How a humanities teacher should use AI
+  - 0986 Momo: Please keep lecturing papers
+
+08-applied-verticals  Applied AI and verticals  (13)
+  Industry apps, startups, recsys, medical, translation, SFT, AI4Science, and voice.
+  - 0026 Haon: Is medical imaging a real AI need
+  - 0039 搜广推大模型随机打杂: LLMs plus recommendation systems
+  - 0048 岛屿: AI for science after AlphaFold
+  - 0050 港股小韭菜: Is business SFT a dead end
+  - 0053 让大家更好地认识你: Polish a vibe-coded product or validate demand
+  - 0059 姑且是与堇: Will AI translation replace humans
+  - 0098 芒格很忙: How much AI a founder needs
+  - 0676 LoRA: Search, ads, and recommendation after AI
+  - 0757 Jay: Do vertical models still have a chance
+  - 0786 Getsum: Speech as a future interface
+  - 0789 木子北田共: Survival of vertical small models
+  - 0793 沧海: Model vendors become like cloud vendors
+  - 0988 richard's AI4S daily: AI for science, pharma, and materials
+
+09-models-safety  Models and safety  (9)
+  Multimodal, finetuning, LLM direction, alignment, and AI safety.
+  - 0019 星雲SKY: Is AI safety a durable field
+  - 0042 blingbling: LoRA finetune made a VLM worse
+  - 0054 momo: Future of multimodal
+  - 0063 why1te: Where LLMs go next
+  - 0065 小樊不烦🥕: Keep doing multimodal when the market wants agents
+  - 0072 小红薯6768CFA6: Will alignment drift away from practice
+  - 0074 momo: Are VLMs in a trough versus VLA
+  - 1003 想想就想睡觉: Is multimodal only a perception add-on
+  - 1094 yw5aj: Capabilities versus alignment / safety
+
+10-misc  Misc  (6)
+  Jokes, one-liners, housing, liability, and comments that do not fit elsewhere.
+  - 0047 momo: When AGI arrives and whether to coast
+  - 0058 丰丰不焦虑: Is this the fake Li Mu
+  - 0087 侯母: Nostalgia for paper videos
+  - 0091 碗团: School-district housing if AI equalizes education
+  - 0099 吹水的咸鱼: When AI can sign and take liability
+  - 1097 NEED: Just saying his name

@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0988
+Asker: richard's AI4S daily
+Comment ID: 6a9f846d000000000202922e
+Source: comments/0988_richard's_AI4S_daily_0202922e.txt
+Title: AI for science, pharma, and materials
+
+About
+Asks if fully automatic scientific discovery is near. Li Mu: short-term efficiency gains yes; overturning pharma/materials is hard because of regulation, data cleaning, causality, capability, and interpretability.
+
+Question
+请问李沐老师对 ai4science 怎么看，最近几年可能会看到大规模的全自动科研成果吗，ai 在 制药和材料研发方面会发展到什么程度
+
+Li Mu
+短期来看，肯定有一点提效的功能吧。但是想要颠覆这个行业还比较难，比如制药这一块监管啊、数据里面的各种清洗、causality的分析。模型的能力啊，可解释性啊，都还有一定的差距。

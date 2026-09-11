@@ -1,0 +1,35 @@
+Learning AI
+How to start, non-CS paths, paper-reading videos, and whether it is too late.
+Count: 8
+
+0004  做游戏的momo
+  Will the paper-reading series come back
+  Fans ask for the old paper-reading videos. Li Mu has not decided the format, because AI has changed what a paper series should even look like.
+
+0018  Placeless Place🥕
+  When will paper club return
+  Another request for the old paper-reading sessions. Li Mu says those videos were handmade, and he has not figured out how to make them in an AI world.
+
+0023  R1
+  How far non-CS students should go in AI
+  Non-CS student wants a learning path. Li Mu's advice is short: first use AI to actually do something.
+
+0024  鱼鱼
+  Where to start vibe coding
+  Non-AI major wants resources for vibe coding. Same practical answer: make a project with AI.
+
+0036  越越的茶颜
+  Is 30 too late to go deep on AI apps
+  A 30-year-old wants encouragement to build real AI applications. Li Mu: 40 is still in time, so 30 is fine.
+
+0051  Folia小疯叶
+  Should you still learn old neural-net basics
+  Someone following Karpathy from scratch asks if pre-transformer material is wasted. Li Mu: learn it anyway, at least to know how the thing works.
+
+0093  阿初数卷卷
+  How a humanities teacher should use AI
+  An economics-trained math teacher wants finance/quant skills and asks if they must code. Li Mu's method: pick a topic a day and ask AI twenty questions.
+
+0986  Momo
+  Please keep lecturing papers
+  Asks him to keep explaining papers. Li Mu: AI has hit paper talks so hard that he has not figured out a new format.

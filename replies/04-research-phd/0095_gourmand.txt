@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0095
+Asker: gourmand
+Comment ID: 6a9f845c000000000b012f4b
+Source: comments/0095_gourmand_0b012f4b.txt
+Title: What research is still worth entering
+
+About
+Asks for research topics that are still worth starting now. Li Mu: pick a niche you care about; the field is moving so fast that many places are still under-worked.
+
+Question
+沐神[玫瑰R]您觉得现在入场的话，还有什么值得投入的研究方向吗？
+
+Li Mu
+可以找niche 一点的，但有兴趣的方向去研究吧。目前我看到就是技术发展的很快，所以很多地方其实是做的不够细的。

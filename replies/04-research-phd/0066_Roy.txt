@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0066
+Asker: Roy
+Comment ID: 6a9fba57000000000b01380a
+Source: comments/0066_Roy_0b01380a.txt
+Title: Is a PhD still worth it versus industry
+
+About
+Worries a PhD is slower and less applied than industry. Li Mu: if you mainly want industry, a PhD is not obviously the best path right now.
+
+Question
+沐老师，你觉得现在还值得读PhD吗，我觉得现在学术界和工业界有点距离，担心读PhD做的工作不如业界做的更接近前沿和实际应用
+
+Li Mu
+如果你更想去工业界一点，那确实读PhD不见得是一个目前最优的。

@@ -1,0 +1,19 @@
+Topic: Models and safety
+Category: 09-models-safety
+Dialog: 0019
+Asker: 星雲SKY
+Comment ID: 6aa011d1000000001402e7f5
+Source: comments/0019_星雲SKY_1402e7f5.txt
+Title: Is AI safety a durable field
+
+About
+An NLP grad student is considering AI security / harmful outputs. Li Mu is constructive: safety will keep feeding people because stronger models keep creating new safety problems.
+
+Question
+李沐老师您好。我是一名在读研究生。
+请问您对“AI安全”方面的研究/工作未来的发展怎么看，持什么观点？
+我正在研究NLP，注意到普通人接触与使用LLMs的门槛正在降低，担心模型生成有害内容会成为未来一个不可忽视的问题。由此我考虑将Security作为未来的方向。
+借此机会想询问您的意见：“AI安全”未来的发展是否乐观？
+
+Li Mu
+安全也是属于一直有饭吃的行业，挺好的。就是模型能力不断进步，所以总是带来新的安全的挑战。

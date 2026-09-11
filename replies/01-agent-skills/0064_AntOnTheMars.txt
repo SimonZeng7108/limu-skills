@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0064
+Asker: AntOnTheMars
+Comment ID: 6a9f83ff00000000020101ee
+Source: comments/0064_AntOnTheMars_020101ee.txt
+Title: Do you still need a second programming language
+
+About
+The asker already reviews architecture with AI and wonders if learning C is still needed. Li Mu: one language is enough for now; the human job is reviewing AI code for dumb bugs and bad design detours.
+
+Question
+我感觉虽然有些事情我可以交给AI做了，但是我还是会搞清楚整体架构，过程，让它解释为什么这样做，我觉得这样用AI才是加速自己学习同时提升效率过程。不过我确实在想这个时候去学其他编程语言，比如不太熟悉的C语言会不会必要性不大？
+
+Li Mu
+目前来看，能够熟悉一个语言就行了吧。人的工作现在主要是给AI来review一下代码，防止他犯一些很低级的错误，或者整个设计上是绕了没必要的弯路。

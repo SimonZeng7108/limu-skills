@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0029
+Asker: 阿机在coding
+Comment ID: 6a9f8353000000001403bd5a
+Source: comments/0029_阿机在coding_1403bd5a.txt
+Title: Should a new grad student still learn to code
+
+About
+A first-year grad can finish projects with AI and wonders if coding practice is wasted. Li Mu: you may not write the code, but you still need to review it and understand what the model wrote.
+
+Question
+沐神，我也想问现在还要不要学编程。刚读研，可以全程用ai做项目了，根本用不上我那羸弱的编程能力，我还需要去训练编程吗？[哭惹R][哭惹R][哭惹R]
+
+Li Mu
+目前来看，编程还是要学的。你可以不用写代码，但是得review代码，至少能够看得懂AI写的代码在干嘛。

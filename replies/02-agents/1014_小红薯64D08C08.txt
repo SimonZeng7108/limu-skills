@@ -1,0 +1,16 @@
+Topic: Agents
+Category: 02-agents
+Dialog: 1014
+Asker: 小红薯64D08C08
+Comment ID: 6a9f828f0000000015001d05
+Source: comments/1014_小红薯64D08C08_15001d05.txt
+Title: How Li Mu sees RSI
+
+About
+Another RSI question. Li Mu: they work on it, but there is no shared definition of which technique counts as RSI.
+
+Question
+李沐老师你好，请问你是怎么看待rsi的发展的呢
+
+Li Mu
+我们自己也做 RSI，但确实这一块是一个比较泛的方向。并没有一个主流的认同，什么技术方向就是 RSI。

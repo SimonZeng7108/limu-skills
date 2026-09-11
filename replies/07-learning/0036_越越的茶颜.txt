@@ -1,0 +1,16 @@
+Topic: Learning AI
+Category: 07-learning
+Dialog: 0036
+Asker: 越越的茶颜
+Comment ID: 6a9f921e00000000150050b9
+Source: comments/0036_越越的茶颜_150050b9.txt
+Title: Is 30 too late to go deep on AI apps
+
+About
+A 30-year-old wants encouragement to build real AI applications. Li Mu: 40 is still in time, so 30 is fine.
+
+Question
+我30了还没深入，想要大家的鼓励我深入AI应用构建真实需求，可以鼓励下我吗[害羞R][飞吻R]
+
+Li Mu
+四十岁了都来得及，三十岁我觉得没问题。

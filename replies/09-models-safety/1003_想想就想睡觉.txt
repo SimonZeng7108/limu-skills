@@ -1,0 +1,16 @@
+Topic: Models and safety
+Category: 09-models-safety
+Dialog: 1003
+Asker: 想想就想睡觉
+Comment ID: 6a9f8340000000000b007ebe
+Source: comments/1003_想想就想睡觉_0b007ebe.txt
+Title: Is multimodal only a perception add-on
+
+About
+Asks if multimodal is doomed to be a sidekick of AGI. Li Mu: it is needed for human-agent interaction; there is not much evidence it raises intelligence.
+
+Question
+沐神觉得多模态真的只能是AGI的下属感知组件了吗，只能是路边一条了嘛？[哭惹R]
+
+Li Mu
+从实用角度来看，人和agent的之间的交互是需要多模态的。但是不是能够帮助模型提升智商，这个目前没有太多证据。

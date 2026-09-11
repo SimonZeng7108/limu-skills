@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0034
+Asker: 方玄曦你今天运动了嘛～
+Comment ID: 6a9ff2ee000000001500d332
+Source: comments/0034_方玄曦你今天运动了嘛～_1500d332.txt
+Title: Skills CS PhD students should train
+
+About
+Asks what computer-science PhDs should cultivate now. Li Mu: the ability to get things done, specifically to lead agents through work that used to need a 5-10 person team.
+
+Question
+李沐老师，请问对于现在的计算机博士生，应该更加注重培养哪些技能呢？
+
+Li Mu
+我认为是解决事情的能力，能够带agent完成，之前可能要一个人带一个五到十人团队完成的事情。

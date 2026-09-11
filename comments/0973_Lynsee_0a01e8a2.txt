@@ -1,0 +1,6 @@
+对话 0973
+评论ID: 6a9f852a000000000a01e8a2
+
+Lynsee
+时间: 2026-09-08 11:46 · 上海
+沐神，agent 这一波的终局有想法吗？我个人的想法应该是 agent os，现有的这些 claude code，codex 感觉最后应该变成一个可以被 agent os调度的 agent

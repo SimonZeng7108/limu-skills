@@ -1,0 +1,59 @@
+Research and PhD
+Advising, whether to do a PhD, academia vs industry, and how to pick a research topic.
+Count: 14
+
+0003  少华从文
+  What advisors and students should do now
+  An advisor-side question: what should mentors still teach, and will students lose to agents. Li Mu says the era of students as cheap labor should end; treat them as independent researchers who finish work with agents, with only high-level guidance from the advisor.
+
+0008  江南
+  Undergrad research that leans on agents
+  A CS undergrad in an embodied lab feels like a messenger between GPT and Codex, not a real researcher. Li Mu says that is normal while the area is new: after going deep and seeing which agent plans work, understanding follows.
+
+0014  小红薯67D3A2E2
+  Is a traditional CV PhD outdated
+  A student who entered research via Li Mu's book asks whether to do a PhD, and whether CV is dead versus LLM or embodied. Li Mu's concern is learning: agents can finish a research loop, so it is unclear what a PhD is for if the human learns less.
+
+0037  不敲键盘张土豆
+  AI algorithm research for ordinary people
+  Asks where non-geniuses fit in algorithm research. Li Mu: most people doing AI algorithms are ordinary too.
+
+0055  藤原拓东
+  Skill vs network for research insight
+  Asks whether insight comes from personal skill or from lab/network. Li Mu: skill sets the floor, network sets the ceiling; worry about the floor first.
+
+0060  rain
+  Industry frontier vs universities
+  Worries companies now own the frontier and academia becomes a data feeder. Li Mu: companies can ship what they need; academia is not only about usefulness.
+
+0066  Roy
+  Is a PhD still worth it versus industry
+  Worries a PhD is slower and less applied than industry. Li Mu: if you mainly want industry, a PhD is not obviously the best path right now.
+
+0075  和光同尘
+  3D/4D scene understanding as a young researcher's bet
+  A young researcher fears bigger models will cover 3D/4D work. Li Mu is not an expert here but thinks real-world scene understanding/generation is still shallow and far from solved.
+
+0095  gourmand
+  What research is still worth entering
+  Asks for research topics that are still worth starting now. Li Mu: pick a niche you care about; the field is moving so fast that many places are still under-worked.
+
+0100  参毛
+  Will CCF paper counts stay the academic scoreboard
+  Asks how long paper-count standards last when AI writes papers. Li Mu: standards are sticky, but judging people only by papers is now questionable.
+
+0655  温州皮革厂少主
+  AI's shock to academia
+  Asks how AI hits the academic world. Li Mu feels the shock is large: he already has AI read papers, and he believes many papers are now mainly AI-written.
+
+0760  Libra
+  AI4S protein PhD: research, job, or startup
+  A protein-design PhD asks where to put energy. Li Mu: interest. If you want something practical, join or start a team; if you want research, stay on research.
+
+1010  小红薯5F5849C0
+  LLM research when pretraining is just scaling
+  Asks what breakthrough-prone LLM research is left. Li Mu: pretraining is more scaling; post-training algorithms are still complicated.
+
+1012  .wing
+  CV small models during a PhD
+  A PhD student still working on small CV models asks if that is hopeless. Li Mu: small models are fine; they work well in many small settings.

@@ -1,0 +1,16 @@
+Topic: Agents
+Category: 02-agents
+Dialog: 0027
+Asker: 爱吃🐏的兔子
+Comment ID: 6a9f9602000000000200f60c
+Source: comments/0027_爱吃🐏的兔子_0200f60c.txt
+Title: Agent vs embodied for the next 3-5 years
+
+About
+Asks which has less foam and is more worth committing to. Li Mu will not pick a winner: both look fine; choose by interest and by whether you can join a good team.
+
+Question
+沐神，Agent和具身，近3-5年，您觉得哪个方向目前泡沫更少、更值得踏实投入？不论是做研究还是做产品[派对R]
+
+Li Mu
+我觉得两个方向目前看都挺好的，可能以你是不是自己更喜欢一个，另外，是不是能找到一个比较好的团队加入

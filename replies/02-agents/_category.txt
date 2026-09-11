@@ -1,0 +1,35 @@
+Agents
+The agent field itself: harness, memory, RSI, consumer agents, and agent vs other bets.
+Count: 8
+
+0012  ZY
+  What LLM harnesses will be eaten
+  Asks which agent harnesses models will swallow and what stays irreplaceable. Li Mu: whatever works in today's harness will likely be absorbed by the next model, then new harness gaps will appear, and people will stop caring about the old layer.
+
+0027  爱吃🐏的兔子
+  Agent vs embodied for the next 3-5 years
+  Asks which has less foam and is more worth committing to. Li Mu will not pick a winner: both look fine; choose by interest and by whether you can join a good team.
+
+0045  普通人勾勾
+  Will agent research still see big inventions
+  Asks if the agent field still has major innovation left. Li Mu thinks it is moving fast because imagined agent forms are still missing, for example a personal assistant that actually handles chores.
+
+0073  不要以为消耗100B tokens能PUA大模型
+  What RSI actually means
+  Notes everyone says RSI but does different things. Li Mu: Boson does RSI too, the term is loose, and even AI washing data to train AI can be called RSI.
+
+0081  毅仔
+  Is agent memory a lasting direction
+  Asks if agent memory is worth researching for jobs. Li Mu: memory is an important piece of agents; if you like it, go deep.
+
+0097  小🦈吃吃吃
+  Embodied continual learning vs agent self-evolution
+  A student is torn between embodied continual learning and agent self-evolution after hearing embodied is foamy. Li Mu: agents apply faster; his own embodied-side work still has a long path to real landing; follow interest.
+
+0782  Nirvana
+  Will consumer agents have a GPT moment
+  Asks about toC agents and a Manus-style GPT moment. Li Mu: yes there will be hits (Manus, 'crayfish'), but their follow-on impact is smaller than GPT.
+
+1014  小红薯64D08C08
+  How Li Mu sees RSI
+  Another RSI question. Li Mu: they work on it, but there is no shared definition of which technique counts as RSI.

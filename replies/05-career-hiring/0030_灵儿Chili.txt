@@ -1,0 +1,16 @@
+Topic: Career and hiring
+Category: 05-career-hiring
+Dialog: 0030
+Asker: 灵儿Chili
+Comment ID: 6a9f8b22000000001500d1bc
+Source: comments/0030_灵儿Chili_1500d1bc.txt
+Title: Infra vs algorithm vs agent jobs
+
+About
+Someone switching fields asks where the openings are, and if they can still become a researcher. Li Mu: agents are more applied so there are more seats; infra and algorithms have fewer companies but a higher bar.
+
+Question
+沐神，想转工作方向，AI这方向现在还缺AI Infra的开发人员吗，以及AI算法岗和AI Agent岗位哪个缺口更大呢？我现在参加工作了，还有可能成为AI研究人员吗？感觉自己脑子里想法太多好迷茫[哭惹R]
+
+Li Mu
+agent这一块偏应用一点，肯定工作岗位更多。infra和算法呢，相对来说，可能需有需求的公司会少一些，但门槛也高一些。

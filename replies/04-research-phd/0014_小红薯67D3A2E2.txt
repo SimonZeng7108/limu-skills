@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0014
+Asker: 小红薯67D3A2E2
+Comment ID: 6a9f9459000000001303f8b2
+Source: comments/0014_小红薯67D3A2E2_1303f8b2.txt
+Title: Is a traditional CV PhD outdated
+
+About
+A student who entered research via Li Mu's book asks whether to do a PhD, and whether CV is dead versus LLM or embodied. Li Mu's concern is learning: agents can finish a research loop, so it is unclear what a PhD is for if the human learns less.
+
+Question
+老师，看着您的动手深度学习入坑科研，进而读完了硕士。现在的环境，您推荐读博士吗？如果仅仅是传统cv方向的博士，是不是已然过时了，需不需要选择目前较为热门的方向例如具身智能（但这方向的导师又很少，没有硬件功底，纯软不太好申呀），llm会更好呢。
+
+Li Mu
+现在的一个困境是说，之前做一个研究，从头到尾做，人学到了东西很多。现在很多时候你让agent做，结果上来讲他做的也不差，但是人学到东西变少了。所以，博士期间要干什么事情，这个是目前不是那么明确。

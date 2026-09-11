@@ -1,0 +1,16 @@
+Topic: Misc
+Category: 10-misc
+Dialog: 0099
+Asker: 吹水的咸鱼
+Comment ID: 6a9f834f000000000f02efce
+Source: comments/0099_吹水的咸鱼_0f02efce.txt
+Title: When AI can sign and take liability
+
+About
+A one-liner about AI taking legal responsibility. Li Mu: insurers may create new products around that.
+
+Question
+ai什么时候可以签字担责就好了[doge]
+
+Li Mu
+很有可能保险公司会做新业务吧。

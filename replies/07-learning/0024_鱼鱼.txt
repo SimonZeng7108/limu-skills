@@ -1,0 +1,16 @@
+Topic: Learning AI
+Category: 07-learning
+Dialog: 0024
+Asker: 鱼鱼
+Comment ID: 6a9fe5bd00000000140323d5
+Source: comments/0024_鱼鱼_140323d5.txt
+Title: Where to start vibe coding
+
+About
+Non-AI major wants resources for vibe coding. Same practical answer: make a project with AI.
+
+Question
+老师！您觉得非人工智能专业的想接触Ai，vibe coding 类的技能可以从哪里学起呢（有没有推荐的资源平台[哭惹R][哭惹R][哭惹R]）谢谢老师！
+
+Li Mu
+用AI做个项目看看？

@@ -1,0 +1,16 @@
+Topic: Infra and hardware
+Category: 06-infra-hardware
+Dialog: 0040
+Asker: 不慕
+Comment ID: 6a9f83d1000000001500a217
+Source: comments/0040_不慕_1500a217.txt
+Title: PhD in LLM inference chips / infra
+
+About
+A new PhD in inference-chip design worries the real work is algorithm optimization. Li Mu likes the bet: when algorithms change, hardware has to change, so there is always work.
+
+Question
+沐神[哭惹R]我当初跟着您学的深度学习，受益匪浅[哭惹R]我现在博一刚入学，做的是llm推理芯片设计方向，但是感觉加速器背后的本质还是算法的优化，有了算法优化才能有新的workload，才能去设计相应的加速器，请问您觉得博士阶段做推理算法优化，偏Infra的方向会是一个好的选择吗[害羞R]
+
+Li Mu
+我觉得挺好的呀，因为算法一变，硬件得跟着改，所以总是有饭吃嘛。

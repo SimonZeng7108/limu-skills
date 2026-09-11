@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0026
+Asker: Haon
+Comment ID: 6a9fc0cd0000000014003684
+Source: comments/0026_Haon_14003684.txt
+Title: Is medical imaging a real AI need
+
+About
+Asks if medical-image AI is real demand or hype, especially in China. Li Mu thinks imaging is already mature enough to match doctors, and the frontier has moved toward broader diagnosis.
+
+Question
+沐神来报道啦。 我是B站来的。我想问个问题，AI医疗影像分析这块，是不是真的落地需求，还是伪的（虽然我认为是真需求，就是还存在很多问题）。至少国内这块很艰难。
+
+Li Mu
+医疗影像应该成熟了吧？现在现有的技术应该做跟医生差不多了。我之前听说是，现在是往更多的诊断去了。

@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0043
+Asker: kafukabear
+Comment ID: 6a9f8d85000000000100bf93
+Source: comments/0043_kafukabear_0100bf93.txt
+Title: Go deep first, then go wide
+
+About
+Asks whether to specialize or stay broad, and whether traditional backend jobs survive as AI+. Li Mu's personal rule is depth first, then breadth.
+
+Question
+沐老师您好，我发现现在 AI 时代虽然能做的事情多了，但是要真正做好，自己还是得学习，才能对 AI 的产出有一定的判断力，能真正和 AI 协作，那么 AI 时代是应该深耕一门技术，追求深度，还是追求深度的同时保持一定的广度，或者是其他的呢？再者我观察到像 ds 最近还在扩招后端/服务端人才，给了 150 个 hc，是否意味着传统行业不会被替代，而是会变成 AI+，而且对个人的要求也更高了呢？因为看到基本上很多岗位都要求有经验了，这对初入社会的应届生好像有点让人不知所措了[笑哭R]
+
+Li Mu
+我认为是深度优先。先把一件事情做深了，然后再尝试着做另外一件事情，去做广。

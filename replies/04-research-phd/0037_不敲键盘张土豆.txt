@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0037
+Asker: 不敲键盘张土豆
+Comment ID: 6a9f847c000000001303fc2e
+Source: comments/0037_不敲键盘张土豆_1303fc2e.txt
+Title: AI algorithm research for ordinary people
+
+About
+Asks where non-geniuses fit in algorithm research. Li Mu: most people doing AI algorithms are ordinary too.
+
+Question
+对于非天才的普通人来说，AI 算法研究的未来在哪里？
+
+Li Mu
+我觉得做AI算法的人，大部分是也是普通人吧。

@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0025
+Asker: Alan
+Comment ID: 6a9f973b000000000b015e9a
+Source: comments/0025_Alan_0b015e9a.txt
+Title: Do fundamentals still matter
+
+About
+Asks if low-level knowledge is still worth learning. Li Mu says yes: when he uses an agent on things he does not understand, the result is not good enough.
+
+Question
+请问老师，现在对于底层知识的学习还重要吗？[笑哭R]
+
+Li Mu
+我觉得还是要的。我用agent干，我不是很懂的东西，都干出来不太行。

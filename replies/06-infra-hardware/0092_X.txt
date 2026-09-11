@@ -1,0 +1,16 @@
+Topic: Infra and hardware
+Category: 06-infra-hardware
+Dialog: 0092
+Asker: X
+Comment ID: 6a9fe273000000000b018d02
+Source: comments/0092_X_0b018d02.txt
+Title: Is an AI compiler worth learning
+
+About
+Asks if AI compilers are worth the time. Li Mu: it is niche, few teams, and worthwhile if you can find one of those teams.
+
+Question
+沐神你好，请问ai compiler是否是一个值得投入精力学习的方向，以及学习重点应该是什么。感谢
+
+Li Mu
+这个是一个偏小众的方向，做的团队不多吧。如果你能找到合适的团队，还是挺有意义的。

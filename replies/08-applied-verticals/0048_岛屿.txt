@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0048
+Asker: 岛屿
+Comment ID: 6a9f9882000000000202b44b
+Source: comments/0048_岛屿_0202b44b.txt
+Title: AI for science after AlphaFold
+
+About
+Asks about AI4Science, molecules, AIDD. Li Mu is optimistic but says infrastructure lags: AlphaFold had data and easy verification, which most science problems do not.
+
+Question
+沐老师如何看待ai4science[黄金薯R]之前看过老师讲解alphafold的technical report的视频，之后感觉就很少聊到了！好奇老师的想法！！（包括但不限于分子设计、AIDD .etc）
+
+Li Mu
+这个我觉得挺有前途的，但是整体来讲，应该是基础建设还没有跟上。那AlphaFold是因为整个数据，而且整个任务相对来说可验证性都容易一点，但是Science很多其他方向，整个基础建设啊，以及说对一个成果的verification都没那么容易。

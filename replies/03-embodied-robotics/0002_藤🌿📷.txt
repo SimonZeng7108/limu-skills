@@ -1,0 +1,16 @@
+Topic: Embodied AI and robotics
+Category: 03-embodied-robotics
+Dialog: 0002
+Asker: 藤🌿📷
+Comment ID: 6a9f8f70000000001402c469
+Source: comments/0002_藤🌿📷_1402c469.txt
+Title: Is embodied AI a bubble
+
+About
+Asks whether embodied AI is a bubble and whether it can really land. Li Mu says there is short-term foam, but the direction is natural: after white-collar work comes blue-collar work, and real deployment may take as long as self-driving.
+
+Question
+您觉得具身领域会是泡沫吗？未来的具身行业是否可能真正落地并发展？[萌萌哒R]
+
+Li Mu
+短期看，肯定是有泡沫的。但这是一个自然的方向，因为A I做了白领的工作之后，就是要做蓝领的工作。但确实说具体什么时候能够落地，真正的发展起来，很有可能也是一个漫长的时间。就像无人驾驶，花了多少时间？

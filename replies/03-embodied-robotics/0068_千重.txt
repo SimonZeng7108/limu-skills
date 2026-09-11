@@ -1,0 +1,16 @@
+Topic: Embodied AI and robotics
+Category: 03-embodied-robotics
+Dialog: 0068
+Asker: 千重
+Comment ID: 6a9f83d2000000000a02793f
+Source: comments/0068_千重_0a02793f.txt
+Title: World models and embodied AI hype
+
+About
+Asks about the hot and heavily criticized world-model / embodied wave. Li Mu: both are probably required for AI to do blue-collar work, but people may be too optimistic.
+
+Question
+世界模型和具身智能最近两年热度很高，质疑声也很高。沐神怎么看待两者的现状和未来？
+
+Li Mu
+这两块应该是AI能去做蓝领的工作的必须吧，但是确实是不是过于乐观，这个也有可能。

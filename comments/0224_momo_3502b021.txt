@@ -1,0 +1,6 @@
+对话 0224
+评论ID: 6aa00cbb000000003502b021
+
+momo
+时间: 2026-09-08 21:25 · 美国
+沐神，AI时代是不是Data Science/Analytics已经没有未来了？作者行业的从业者应该怎么快速迭代呢？是换别的岗位还是做AI data infra?或者End to end data solutions呢？求指导

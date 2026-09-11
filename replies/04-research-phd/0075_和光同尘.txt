@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0075
+Asker: 和光同尘
+Comment ID: 6aa003460000000015012a30
+Source: comments/0075_和光同尘_15012a30.txt
+Title: 3D/4D scene understanding as a young researcher's bet
+
+About
+A young researcher fears bigger models will cover 3D/4D work. Li Mu is not an expert here but thinks real-world scene understanding/generation is still shallow and far from solved.
+
+Question
+李沐老师您好，我目前在 3D&4D 场景理解和生成之间犹豫。现在模型发展和更新太快，也担心自己的工作很快被更大模型覆盖。您觉得年轻研究者应该如何选择长期方向，并建立真正属于自己的积累？
+
+Li Mu
+目前做的还很浅吧。我也不算这一块的专家，但我觉得不管是AI也好，还是别的专门做这个的，我觉得离真正的现实场景的理解和生成还蛮远的。

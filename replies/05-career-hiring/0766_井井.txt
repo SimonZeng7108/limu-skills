@@ -1,0 +1,16 @@
+Topic: Career and hiring
+Category: 05-career-hiring
+Dialog: 0766
+Asker: 井井
+Comment ID: 6a9f9160000000000a02486a
+Source: comments/0766_井井_0a02486a.txt
+Title: Hiring new grads
+
+About
+Asks if the company hires new grads. Li Mu: they are always hiring.
+
+Question
+公司招不招ng[doge]
+
+Li Mu
+我们一直有招人的。

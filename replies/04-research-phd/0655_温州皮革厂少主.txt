@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0655
+Asker: 温州皮革厂少主
+Comment ID: 6a9f98ce0000000016007eb1
+Source: comments/0655_温州皮革厂少主_16007eb1.txt
+Title: AI's shock to academia
+
+About
+Asks how AI hits the academic world. Li Mu feels the shock is large: he already has AI read papers, and he believes many papers are now mainly AI-written.
+
+Question
+李老师 怎么看待ai对学术圈的冲击
+
+Li Mu
+我觉得冲击比较大，我现在都是AI给我看论文，我相信很多论文也是AI主笔的。

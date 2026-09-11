@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 1010
+Asker: 小红薯5F5849C0
+Comment ID: 6a9f82c5000000000f02d5d4
+Source: comments/1010_小红薯5F5849C0_0f02d5d4.txt
+Title: LLM research when pretraining is just scaling
+
+About
+Asks what breakthrough-prone LLM research is left. Li Mu: pretraining is more scaling; post-training algorithms are still complicated.
+
+Question
+沐神 请问llm这边还能咋做些有突破潜力的研究呢 现在都是更scaling science了，系统的一套越来越重要，纯算法好像停滞了
+
+Li Mu
+预训练确实是scaling上更多一点。 但是post train上面的算法还是挺复杂的。

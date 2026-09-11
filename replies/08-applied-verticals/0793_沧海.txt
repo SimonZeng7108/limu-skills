@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0793
+Asker: 沧海
+Comment ID: 6a9f8fad000000001403235e
+Source: comments/0793_沧海_1403235e.txt
+Title: Model vendors become like cloud vendors
+
+About
+A comment that domain specialists who build agents will not be replaced. Li Mu: model companies may end up like cloud vendors, a base intelligence utility, with lots of apps on top.
+
+Question
+我导出现在小红书了[派对R]  持续学习专研自己领域，给自己领域开发agent使用agent的人不会淘汰
+
+Li Mu
+现在的AI模型厂商，可能很多年之后就跟现在的云厂商一样吧，就是一个基础智能提供商，但是上面肯定还有很多应用可以做的。

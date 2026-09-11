@@ -1,0 +1,16 @@
+Topic: Embodied AI and robotics
+Category: 03-embodied-robotics
+Dialog: 0035
+Asker: 生椰甜甜子_
+Comment ID: 6a9f90590000000015020c9a
+Source: comments/0035_生椰甜甜子_15020c9a.txt
+Title: Future of embodied intelligence
+
+About
+Open question on embodied AI's future. Li Mu is mildly positive: if nothing else looks more promising, it is a good direction.
+
+Question
+沐神怎么看待具身智能的未来发展
+
+Li Mu
+目前来看，没有别的更promising的方向的话，我觉得这个挺好的。

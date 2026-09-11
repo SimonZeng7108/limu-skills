@@ -1,0 +1,6 @@
+对话 1035
+评论ID: 6a9f8165000000000202bf0a
+
+#undef
+时间: 2026-09-08 11:30 · 浙江
+老师，您对 diffusion 的看法是什么？感觉现在 gpt6/fable 之类的 llm 做 reconstruction 挺强的了

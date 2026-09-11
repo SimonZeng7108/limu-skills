@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0790
+Asker: 杨老师
+Comment ID: 6a9f900700000000140016c9
+Source: comments/0790_杨老师_140016c9.txt
+Title: Generalists vs specialists after AI coding
+
+About
+Asks who survives if coding already beats ordinary humans: T-shaped generalists or deep specialists. Li Mu: AI has passed humans on implementation speed, not on design, taste, or covering the full problem.
+
+Question
+致敬沐神🫡，想问下沐神在当下coding能力已经超越普通人类的情况下，对算法，业务，coding各个领域都了解的通才和垂直领域的业务专家or算法专家的专才，两个相比较，那一类人机会更多，更容易生存下来？
+
+Li Mu
+我觉得只是说在具体实现代码上和手速上超过了人类，但整个设计啊，代码的品味啊，考虑的东西是不是很全面啊，目前还是有差距的。

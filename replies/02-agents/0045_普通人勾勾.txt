@@ -1,0 +1,16 @@
+Topic: Agents
+Category: 02-agents
+Dialog: 0045
+Asker: 普通人勾勾
+Comment ID: 6a9f972d000000001500d435
+Source: comments/0045_普通人勾勾_1500d435.txt
+Title: Will agent research still see big inventions
+
+About
+Asks if the agent field still has major innovation left. Li Mu thinks it is moving fast because imagined agent forms are still missing, for example a personal assistant that actually handles chores.
+
+Question
+您觉得 AI Agent 领域还会有重大的创新吗
+
+Li Mu
+我觉得这一块发展还挺快的，因为很多想象中的agent形态其实还没有出现。例如，我的私人助理能帮我搞定所有这种杂事，agent现在就干不了。

@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0059
+Asker: 姑且是与堇
+Comment ID: 6a9f98ad0000000015006d9f
+Source: comments/0059_姑且是与堇_15006d9f.txt
+Title: Will AI translation replace humans
+
+About
+Asks about AI translation, including messy real-world multimodal/low-latency cases. Li Mu: AI translation can replace about 99% of human work.
+
+Question
+老师您好！五年前我就是看了您的视频开始了AI生涯。想请教一下老师看好AI翻译这一领域吗？文本翻译是LLM的得意领域，但生活化场景的翻译又带来了多模态和低延时等挑战。在老师看来，随着模型能力的发展，AI最终能够做到帮助全人类跨越语言障碍吗？
+
+Li Mu
+我觉得AI翻译肯定是能够替99%替代人的。

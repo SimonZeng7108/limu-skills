@@ -1,0 +1,16 @@
+Topic: Embodied AI and robotics
+Category: 03-embodied-robotics
+Dialog: 0044
+Asker: 韭韭不想上班
+Comment ID: 6aa081e3000000001500b1b3
+Source: comments/0044_韭韭不想上班_1500b1b3.txt
+Title: Can AI solve the physical world
+
+About
+Argues math/CS are too clean for AI, and asks if AI can really handle messy physics. Li Mu: not yet, though many labs and companies are trying.
+
+Question
+大佬觉得ai能本质上解决physical world的问题么 对于物理世界来讲 数学和cs领域太干净了 反馈太及时了 这俩领域感觉ai已经一统江湖了
+
+Li Mu
+应该还没有吧。但是这一块确实有很多lab和公司在做。

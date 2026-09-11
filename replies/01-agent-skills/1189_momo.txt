@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 1189
+Asker: momo
+Comment ID: 6a9f7c55000000000a024af8
+Source: comments/1189_momo_0a024af8.txt
+Title: Deleted question; reply is that junior programmers fade
+
+About
+The original comment was deleted. From Li Mu's reply: basic programmers are disappearing; the surviving path is senior work on complex, large projects.
+
+Question
+原评论已删除
+
+Li Mu
+基础的程序员应该快要消失了。程序员这个方向，只能往资深的方向走，就是能做复杂点的大项目。

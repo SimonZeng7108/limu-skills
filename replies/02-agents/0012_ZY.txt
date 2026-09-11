@@ -1,0 +1,18 @@
+Topic: Agents
+Category: 02-agents
+Dialog: 0012
+Asker: ZY
+Comment ID: 6a9f83ce000000000a01f139
+Source: comments/0012_ZY_0a01f139.txt
+Title: What LLM harnesses will be eaten
+
+About
+Asks which agent harnesses models will swallow and what stays irreplaceable. Li Mu: whatever works in today's harness will likely be absorbed by the next model, then new harness gaps will appear, and people will stop caring about the old layer.
+
+Question
+沐老师，llm会吞噬掉哪些harness，harness有哪些不可替代，二者边界会在哪里
+
+Li Mu
+我的看法是，目前harness里面有效的东西，下一代模型应该会被吞掉，但是下一代模型可能又出现一些需要新的harness的地方。
+
+应该会，但那个时候大家就不关注这块了

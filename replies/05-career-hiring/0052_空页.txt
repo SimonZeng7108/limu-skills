@@ -1,0 +1,16 @@
+Topic: Career and hiring
+Category: 05-career-hiring
+Dialog: 0052
+Asker: 空页
+Comment ID: 6a9f8431000000000200ec77
+Source: comments/0052_空页_0200ec77.txt
+Title: Is management still worth switching into
+
+About
+Asks if big-company management tracks still make sense. Li Mu: relay-the-message managers are likely to be replaced; real management is hard, and people still resist AI as a manager.
+
+Question
+沐神，问个近期最疑惑的问题， 管理后面还有必要转吗？特别是在大公司这类岗位
+
+Li Mu
+目前来看，大公司的管理岗位很多，就是把上面的话传给下面，这一块应该是要被替代了。但真正的管理还是挺难的，目前来看，大家对AI做真正的管理，还是有心理障碍吧。

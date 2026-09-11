@@ -1,0 +1,6 @@
+对话 0619
+评论ID: 6a9f9aab000000000b01a582
+
+Mready
+时间: 2026-09-08 13:18 · 广东
+老师好 想问一下做research的话值得做Agentic rl吗 这个领域还有哪些方向有搞头呢 memory,context,credit assignment感觉都被做烂了；以及感觉当前的RSI都有些工程，看不到很novel的工作；现在感觉真的挺迷茫的，您能推荐一下未来还值得做的research的方向吗

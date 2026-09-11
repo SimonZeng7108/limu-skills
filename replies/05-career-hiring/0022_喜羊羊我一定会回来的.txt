@@ -1,0 +1,16 @@
+Topic: Career and hiring
+Category: 05-career-hiring
+Dialog: 0022
+Asker: 喜羊羊我一定会回来的
+Comment ID: 6aa0130b000000000a01e9dc
+Source: comments/0022_喜羊羊我一定会回来的_0a01e9dc.txt
+Title: How will low-skill workers survive
+
+About
+Asks what people without degrees or networks will live on. Li Mu bets on services: robots may get capable, but whether they give the same emotional value is unknown.
+
+Question
+老师，在AI的发展下您觉得底层人这种没有学历、没有人脉、只能干苦工的人，以后能靠什么养活自己？
+
+Li Mu
+我觉得服务行业是不太会被替代掉。未来机器人也许能力够，但是是不是提供了同样的情绪价值，这个还不清楚。

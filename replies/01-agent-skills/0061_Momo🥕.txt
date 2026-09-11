@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0061
+Asker: Momo🥕
+Comment ID: 6a9f9474000000001500769c
+Source: comments/0061_Momo🥕_1500769c.txt
+Title: Where new CS grads should aim
+
+About
+A new CS graduate sees programming change in one year. Li Mu: first get fluent at using agents to maximize your own output.
+
+Question
+沐神，想问一下对于目前刚毕业的cs程序员，职业发展上需要往哪方面走来提升自己呢？一年前和现在的程序开发变化太大了[哭惹R]
+
+Li Mu
+先试着利用agent能够最大化自己的生产力吧，让自己把这个工具用的很溜再说

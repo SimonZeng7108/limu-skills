@@ -1,0 +1,43 @@
+Career and hiring
+Jobs, internships, interviews, management tracks, and making a living.
+Count: 10
+
+0022  喜羊羊我一定会回来的
+  How will low-skill workers survive
+  Asks what people without degrees or networks will live on. Li Mu bets on services: robots may get capable, but whether they give the same emotional value is unknown.
+
+0030  灵儿Chili
+  Infra vs algorithm vs agent jobs
+  Someone switching fields asks where the openings are, and if they can still become a researcher. Li Mu: agents are more applied so there are more seats; infra and algorithms have fewer companies but a higher bar.
+
+0031  祝无梦
+  Degree anxiety and over-using AI at work
+  A non-elite undergrad intern fears the market's degree filter and feels they learned nothing because of AI. Li Mu: degree matters less later; the real problem is not understanding what the AI is doing behind the work it finishes.
+
+0032  流浪菜儿
+  Are you hiring
+  Direct ask for a job. Li Mu: the Toronto office is hiring.
+
+0049  Momo7
+  Does BosonAI hire new PhDs
+  Asks if Boson hires PhD new grads and what profile clears the bar. Li Mu: yes, they interview every day. No bar details.
+
+0052  空页
+  Is management still worth switching into
+  Asks if big-company management tracks still make sense. Li Mu: relay-the-message managers are likely to be replaced; real management is hard, and people still resist AI as a manager.
+
+0076  呜啦啦
+  Using AI to talk to engineers
+  A tech-services person asks how to communicate with engineers, with AI's help. Li Mu: AI can draft and review, but human-to-human talk should stay human; many people hate AI replies.
+
+0766  井井
+  Hiring new grads
+  Asks if the company hires new grads. Li Mu: they are always hiring.
+
+0784  开工就得喝口咖啡
+  Internships at Boson
+  Asks if Li Mu's company takes interns. Li Mu: Bay Area and Toronto offices both hire interns.
+
+1099  ray
+  Do LeetCode-style interviews still matter
+  Asks if algorithm-interview prep is still worth it. Li Mu: many companies still interview that way, and they do not want to suspect the solution was written by AI.

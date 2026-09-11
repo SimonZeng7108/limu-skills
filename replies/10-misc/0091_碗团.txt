@@ -1,0 +1,16 @@
+Topic: Misc
+Category: 10-misc
+Dialog: 0091
+Asker: 碗团
+Comment ID: 6a9f9157000000001402d6c0
+Source: comments/0091_碗团_1402d6c0.txt
+Title: School-district housing if AI equalizes education
+
+About
+Jokes that school-district apartments are a bad buy if AI democratizes teaching. Li Mu: good education is still scarce, so those homes may still make sense.
+
+Question
+ai普惠教育，买学区房岂不是亏死了
+
+Li Mu
+好的教育资源总是稀缺吧，学区房可能还是有存在的必要的。

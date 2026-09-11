@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0003
+Asker: 少华从文
+Comment ID: 6a9f83b8000000001503f640
+Source: comments/0003_少华从文_1503f640.txt
+Title: What advisors and students should do now
+
+About
+An advisor-side question: what should mentors still teach, and will students lose to agents. Li Mu says the era of students as cheap labor should end; treat them as independent researchers who finish work with agents, with only high-level guidance from the advisor.
+
+Question
+替我导师问个问题，现在的学生还需要老师做哪些指导？ 导师还需要学生做什么工作？ 学生效率会不会低于与agent的合作效率
+
+Li Mu
+学生跟导师打杂的时代应该过去了。应该把学生看成independent researcher，学生能够带着agent独立完成工作。导师只要给一些更高level的指导就行了。

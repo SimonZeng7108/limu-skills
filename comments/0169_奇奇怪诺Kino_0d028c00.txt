@@ -1,0 +1,6 @@
+对话 0169
+评论ID: 6aa04496000000000d028c00
+
+奇奇怪诺Kino
+时间: 2026-09-09 01:23 · 加拿大
+Boson AI要继续深入去做v2v的语音模型吗，怎么去做avatar去了？希望有低延迟高性能的v2v voice model+orchestration可以用。目前我们在用phonic

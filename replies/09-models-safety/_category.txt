@@ -1,0 +1,39 @@
+Models and safety
+Multimodal, finetuning, LLM direction, alignment, and AI safety.
+Count: 9
+
+0019  星雲SKY
+  Is AI safety a durable field
+  An NLP grad student is considering AI security / harmful outputs. Li Mu is constructive: safety will keep feeding people because stronger models keep creating new safety problems.
+
+0042  blingbling
+  LoRA finetune made a VLM worse
+  Someone finetuned a multimodal model on hundreds/thousands of labels and got worse results. Li Mu: get more data, or switch models; some models are so over-trained that LoRA does not take well.
+
+0054  momo
+  Future of multimodal
+  Open question on multimodal. Li Mu: it is important for human-AI interaction, but it is unclear whether it raises model intelligence, which is why some labs deprioritized it.
+
+0063  why1te
+  Where LLMs go next
+  Asks the important LLM research directions. Li Mu: models running and self-improving in sandboxes, including code execution, computer use on macOS, and world models.
+
+0065  小樊不烦🥕
+  Keep doing multimodal when the market wants agents
+  Asks if multimodal is still worth it versus agents. Li Mu: multimodal is fine, because humans and agents interact through it.
+
+0072  小红薯6768CFA6
+  Will alignment drift away from practice
+  Asks how to think about alignment as models get stronger. Li Mu's feel: recent alignment work is mostly raising IQ, and the resulting reports are already hard for humans to read.
+
+0074  momo
+  Are VLMs in a trough versus VLA
+  Fall recruiting seemed to ignore VLMs; asks if VLA is the better bet. Li Mu: from a practical angle vision is still heavily used in human-agent interaction.
+
+1003  想想就想睡觉
+  Is multimodal only a perception add-on
+  Asks if multimodal is doomed to be a sidekick of AGI. Li Mu: it is needed for human-agent interaction; there is not much evidence it raises intelligence.
+
+1094  yw5aj
+  Capabilities versus alignment / safety
+  Asks how to balance capability and safety. Li Mu is pessimistic: this is still a race for intelligence, safety work gets obsoleted by the next smarter model, and it often hurts user experience.

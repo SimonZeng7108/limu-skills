@@ -1,0 +1,31 @@
+Infra and hardware
+Training infra, chips, compilers, and on-device / edge AI.
+Count: 7
+
+0006  啾啾
+  Is on-device AI a real need
+  Asks if edge / on-device AI is a real demand. Li Mu used to believe in it, was proven wrong by the deep-learning wave, sees some short-term use while GPUs are expensive (for example Mac Mini), and thinks the long-term need stays niche.
+
+0040  不慕
+  PhD in LLM inference chips / infra
+  A new PhD in inference-chip design worries the real work is algorithm optimization. Li Mu likes the bet: when algorithms change, hardware has to change, so there is always work.
+
+0069  I_just_keep_going
+  Is AI hardware the next PhD bet
+  Someone picking a PhD topic asks if AI hardware will be a boom. Li Mu: there is a market, and China is strong on the hardware side.
+
+0071  369
+  Embedded and on-device AI demand
+  Asks if embedded / edge AI is a real need. Li Mu: yes, in cars and phones, and hardware adaptation is a lot of work.
+
+0080  风间醉客
+  Will agents take over LLM training infra
+  Asks if training-infra work will be automated. Li Mu: agents already handle simple daily work; whole infrastructure design is still beyond them.
+
+0092  X
+  Is an AI compiler worth learning
+  Asks if AI compilers are worth the time. Li Mu: it is niche, few teams, and worthwhile if you can find one of those teams.
+
+0657  silence
+  Will AI replace chip designers
+  Chip-design worry about self-iterating EDA. Li Mu: basic grunt work will go; how far into senior roles is unclear.

@@ -1,0 +1,16 @@
+Topic: Learning AI
+Category: 07-learning
+Dialog: 0093
+Asker: 阿初数卷卷
+Comment ID: 6a9f920a000000000b017cc3
+Source: comments/0093_阿初数卷卷_0b017cc3.txt
+Title: How a humanities teacher should use AI
+
+About
+An economics-trained math teacher wants finance/quant skills and asks if they must code. Li Mu's method: pick a topic a day and ask AI twenty questions.
+
+Question
+大神您好:恳请您回答一个文科生该如何面对未来不确定的一切，AI可以取代一切，请问文科生（本人经济学专业，目前是中学数学老师，非全mba）想要学习金融相关领域，想要深耕量化分析，该如何利用ai？又该如何拥有自己的核心竞争力？请问我需要学习编程吗？（万谢您的回复，谢谢您[合十R][飞吻R][合十R]）
+
+Li Mu
+我觉得可以试试，每天找一个topic，然后跟AI问二十个问题。

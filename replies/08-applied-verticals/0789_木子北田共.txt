@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0789
+Asker: 木子北田共
+Comment ID: 6a9f90070000000014033086
+Source: comments/0789_木子北田共_14033086.txt
+Title: Survival of vertical small models
+
+About
+Asks if small vertical models survive against general models on cost. Li Mu: the model itself may be removed; the remaining value is supporting systems and industry integration.
+
+Question
+请问垂直小模型在中长期的生存空间如何？ 还是O A模型长期都吃掉，且成本占优
+
+Li Mu
+我觉得model本身应该会被去掉吧，但是确实，在垂直不是模型本身，还是有整个配套设施的，跟垂直行业的整合。

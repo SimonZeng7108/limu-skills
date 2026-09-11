@@ -1,0 +1,16 @@
+Topic: Agents
+Category: 02-agents
+Dialog: 0097
+Asker: 小🦈吃吃吃
+Comment ID: 6a9f974e0000000014039777
+Source: comments/0097_小🦈吃吃吃_14039777.txt
+Title: Embodied continual learning vs agent self-evolution
+
+About
+A student is torn between embodied continual learning and agent self-evolution after hearing embodied is foamy. Li Mu: agents apply faster; his own embodied-side work still has a long path to real landing; follow interest.
+
+Question
+老师好，我想咨询您agent和具身智能这两个方向哪个更适合上手和深入研究的，具体的，一个是具身智能的持续学习，一个是agent的自进化，请问老师觉得选哪个方向比较好一点儿的。因为我看了刚刚您对于具身智能评论的回复，感觉具身智能做起来是很难落地的且有点儿泡沫，那agent是否会好很多呢
+
+Li Mu
+agent目前来看应用更加快一点，我的这一块呢，想要真的真正的落地，还有比较长期的考验。可能就看你自己喜欢哪一个了。

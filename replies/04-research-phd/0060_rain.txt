@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0060
+Asker: rain
+Comment ID: 6a9f9073000000000b01769c
+Source: comments/0060_rain_0b01769c.txt
+Title: Industry frontier vs universities
+
+About
+Worries companies now own the frontier and academia becomes a data feeder. Li Mu: companies can ship what they need; academia is not only about usefulness.
+
+Question
+您好，我想请教您一下，我有一种感觉，就是现在ai最前沿是由企业为主导的，因为最新的模型训练。部署需要的计算成本越来越高，高校和科研机构好像已经和最前沿理论脱轨，而且各行各业也都在宣传 ai加学科进行科学范式革命，以后有没有可能 AI变成以企业领导为主，其他学科。只会逐渐变得变成为ai提供语料的工具。
+
+Li Mu
+只能说在实用上面，很多时候各个公司能够把自己想要的东西实现做了，但是学术圈不是只为了追求实用。

@@ -1,0 +1,27 @@
+Embodied AI and robotics
+Robots, VLA, world models, and whether AI can handle the physical world.
+Count: 6
+
+0002  藤🌿📷
+  Is embodied AI a bubble
+  Asks whether embodied AI is a bubble and whether it can really land. Li Mu says there is short-term foam, but the direction is natural: after white-collar work comes blue-collar work, and real deployment may take as long as self-driving.
+
+0016  贝林满满满
+  Did Astra-style demos kill VLA research
+  A grad student doing on-device embodied algorithms asks if LLM scale will just solve robotics. Li Mu treats current robot demos as demo-level; quality, latency, and cost still have to prove out.
+
+0035  生椰甜甜子_
+  Future of embodied intelligence
+  Open question on embodied AI's future. Li Mu is mildly positive: if nothing else looks more promising, it is a good direction.
+
+0044  韭韭不想上班
+  Can AI solve the physical world
+  Argues math/CS are too clean for AI, and asks if AI can really handle messy physics. Li Mu: not yet, though many labs and companies are trying.
+
+0046  克里斯今天吃💊了没
+  When will robots and LLMs merge
+  Notes robots and LLMs should complete each other but have split into two tracks. Li Mu: robotics is still stuck on hardware and the cerebellum, not on the brain.
+
+0068  千重
+  World models and embodied AI hype
+  Asks about the hot and heavily criticized world-model / embodied wave. Li Mu: both are probably required for AI to do blue-collar work, but people may be too optimistic.

@@ -1,0 +1,16 @@
+Topic: Research and PhD
+Category: 04-research-phd
+Dialog: 0055
+Asker: 藤原拓东
+Comment ID: 6aa02dbc000000001500056d
+Source: comments/0055_藤原拓东_1500056d.txt
+Title: Skill vs network for research insight
+
+About
+Asks whether insight comes from personal skill or from lab/network. Li Mu: skill sets the floor, network sets the ceiling; worry about the floor first.
+
+Question
+老师，您觉得对于一个学生而言，想要做出insight的贡献，是自身技术更重要，还是团队圈子资源更重要呢。
+
+Li Mu
+自身技术决定下限，团队和圈子决定上限吧。很多时候，可能不一定要去那么的管上限，先把下限做好。

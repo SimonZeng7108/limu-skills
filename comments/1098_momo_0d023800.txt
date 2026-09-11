@@ -1,0 +1,6 @@
+对话 1098
+评论ID: 6a9f7bed000000000d023800
+
+momo
+时间: 2026-09-08 11:07 · 美国
+现在需要转ai infra么 比如做inference training  担心以后layoff没工作了

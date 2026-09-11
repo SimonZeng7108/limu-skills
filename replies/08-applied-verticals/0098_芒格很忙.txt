@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0098
+Asker: 芒格很忙
+Comment ID: 6a9f7c0b0000000001008fe9
+Source: comments/0098_芒格很忙_01008fe9.txt
+Title: How much AI a founder needs
+
+About
+Asks how much AI a founder must know, and where startups fit if models are general. Li Mu analogizes to cloud ten years ago: AI is now a basic skill, do not compete with the model's mainline, use it to enable other things.
+
+Question
+想问李老师创业者需要懂多少AI技术？大模型近乎全能的当下，初创公司的机会在哪里？
+
+Li Mu
+就跟十年前创业一定要使用云一样的，目前AI算一个基本技能吧。确实，现在模型能做的主方向，没必要去跟它compete的，就跟十年前不用去跟云的主方向compete一样。但除此之外，它是赋能了更多的东西。

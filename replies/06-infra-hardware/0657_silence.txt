@@ -1,0 +1,16 @@
+Topic: Infra and hardware
+Category: 06-infra-hardware
+Dialog: 0657
+Asker: silence
+Comment ID: 6a9f9890000000000a01d82c
+Source: comments/0657_silence_0a01d82c.txt
+Title: Will AI replace chip designers
+
+About
+Chip-design worry about self-iterating EDA. Li Mu: basic grunt work will go; how far into senior roles is unclear.
+
+Question
+芯片设计行业多久会被ai替代呢？目前看到很多公司在做EDA工具的ai自迭代，忧虑颇深。
+
+Li Mu
+一些基础的体力活，肯定是被干掉了。但是能够干到多senior的岗位，目前还不清楚吧？

@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0676
+Asker: LoRA
+Comment ID: 6a9f9765000000001402e0be
+Source: comments/0676_LoRA_1402e0be.txt
+Title: Search, ads, and recommendation after AI
+
+About
+Asks where search/ads/rec go next. Li Mu: first swap models to transformers; language models doing recsys themselves are also promising.
+
+Question
+AI推动下，搜推广下一步会走向何方呢
+
+Li Mu
+先把模型都换成transformer吧，另外一块，语言模型本身做搜广推也挺好的。

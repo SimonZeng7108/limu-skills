@@ -1,0 +1,1250 @@
+{
+  "totalThreads": 97,
+  "categories": [
+    {
+      "id": "01-agent-skills",
+      "title": "Agent skills",
+      "description": "How people should work with agents: coding, review, depth, and owning a whole project.",
+      "count": 16,
+      "threads": [
+        {
+          "dialogId": "0001",
+          "asker": "zzzzzz睡觉中勿扰",
+          "file": "0001_zzzzzz睡觉中勿扰.txt",
+          "title": "Programmer skills when code agents land",
+          "about": "The asker wants to know what programmers should keep when coding agents write, review, and run code. Li Mu points at tech-lead skills: basic implementation is being eaten, but leading a technical effort is more than that.",
+          "source": "0001_zzzzzz睡觉中勿扰_1500f05d.txt",
+          "question": "啊啊啊啊啊啊啊啊啊啊！！ 在code agent普遍落地的时候 对于程序员来说 最重要的技能是什么？ 是不把code当做自己的能力 更深入的理解 业务 技术 底层的赚钱逻辑吗",
+          "authorReplies": [
+            "tech leader的能力吧，目前干掉了是基础的代码实现、review、运行。但tech leader干的活不止是这些"
+          ]
+        },
+        {
+          "dialogId": "0010",
+          "asker": "DJ使我平静",
+          "file": "0010_DJ使我平静.txt",
+          "title": "Agents multiply ability, they do not add it",
+          "about": "The asker argues that agents shrink hard-skill gaps and raise the value of problem-finding and decomposition. Li Mu agrees in a sharper form: an agent is a multiplier (x10), not an adder (+10).",
+          "source": "0010_DJ使我平静_0f0319b7.txt",
+          "question": "硬实力差距因为 agent 缩小，软实力相对价值被放大。执行力，社交能力，分层的逻辑能力，变得尤为重要，本质上什么能力能让人更快的发现问题和分解问题，什么能力就重要，而具体的细节知识 agent 比人强没必要去肌肉碰钢铁。沐哥你觉得呢[doge]",
+          "authorReplies": [
+            "agent是能力放大器，就是能力x10，而不是加法器，不是能力+10"
+          ]
+        },
+        {
+          "dialogId": "0025",
+          "asker": "Alan",
+          "file": "0025_Alan.txt",
+          "title": "Do fundamentals still matter",
+          "about": "Asks if low-level knowledge is still worth learning. Li Mu says yes: when he uses an agent on things he does not understand, the result is not good enough.",
+          "source": "0025_Alan_0b015e9a.txt",
+          "question": "请问老师，现在对于底层知识的学习还重要吗？[笑哭R]",
+          "authorReplies": [
+            "我觉得还是要的。我用agent干，我不是很懂的东西，都干出来不太行。"
+          ]
+        },
+        {
+          "dialogId": "0029",
+          "asker": "阿机在coding",
+          "file": "0029_阿机在coding.txt",
+          "title": "Should a new grad student still learn to code",
+          "about": "A first-year grad can finish projects with AI and wonders if coding practice is wasted. Li Mu: you may not write the code, but you still need to review it and understand what the model wrote.",
+          "source": "0029_阿机在coding_1403bd5a.txt",
+          "question": "沐神，我也想问现在还要不要学编程。刚读研，可以全程用ai做项目了，根本用不上我那羸弱的编程能力，我还需要去训练编程吗？[哭惹R][哭惹R][哭惹R]",
+          "authorReplies": [
+            "目前来看，编程还是要学的。你可以不用写代码，但是得review代码，至少能够看得懂AI写的代码在干嘛。"
+          ]
+        },
+        {
+          "dialogId": "0034",
+          "asker": "方玄曦你今天运动了嘛～",
+          "file": "0034_方玄曦你今天运动了嘛～.txt",
+          "title": "Skills CS PhD students should train",
+          "about": "Asks what computer-science PhDs should cultivate now. Li Mu: the ability to get things done, specifically to lead agents through work that used to need a 5-10 person team.",
+          "source": "0034_方玄曦你今天运动了嘛～_1500d332.txt",
+          "question": "李沐老师，请问对于现在的计算机博士生，应该更加注重培养哪些技能呢？",
+          "authorReplies": [
+            "我认为是解决事情的能力，能够带agent完成，之前可能要一个人带一个五到十人团队完成的事情。"
+          ]
+        },
+        {
+          "dialogId": "0043",
+          "asker": "kafukabear",
+          "file": "0043_kafukabear.txt",
+          "title": "Go deep first, then go wide",
+          "about": "Asks whether to specialize or stay broad, and whether traditional backend jobs survive as AI+. Li Mu's personal rule is depth first, then breadth.",
+          "source": "0043_kafukabear_0100bf93.txt",
+          "question": "沐老师您好，我发现现在 AI 时代虽然能做的事情多了，但是要真正做好，自己还是得学习，才能对 AI 的产出有一定的判断力，能真正和 AI 协作，那么 AI 时代是应该深耕一门技术，追求深度，还是追求深度的同时保持一定的广度，或者是其他的呢？再者我观察到像 ds 最近还在扩招后端/服务端人才，给了 150 个 hc，是否意味着传统行业不会被替代，而是会变成 AI+，而且对个人的要求也更高了呢？因为看到基本上很多岗位都要求有经验了，这对初入社会的应届生好像有点让人不知所措了[笑哭R]",
+          "authorReplies": [
+            "我认为是深度优先。先把一件事情做深了，然后再尝试着做另外一件事情，去做广。"
+          ]
+        },
+        {
+          "dialogId": "0061",
+          "asker": "Momo🥕",
+          "file": "0061_Momo🥕.txt",
+          "title": "Where new CS grads should aim",
+          "about": "A new CS graduate sees programming change in one year. Li Mu: first get fluent at using agents to maximize your own output.",
+          "source": "0061_Momo🥕_1500769c.txt",
+          "question": "沐神，想问一下对于目前刚毕业的cs程序员，职业发展上需要往哪方面走来提升自己呢？一年前和现在的程序开发变化太大了[哭惹R]",
+          "authorReplies": [
+            "先试着利用agent能够最大化自己的生产力吧，让自己把这个工具用的很溜再说"
+          ]
+        },
+        {
+          "dialogId": "0064",
+          "asker": "AntOnTheMars",
+          "file": "0064_AntOnTheMars.txt",
+          "title": "Do you still need a second programming language",
+          "about": "The asker already reviews architecture with AI and wonders if learning C is still needed. Li Mu: one language is enough for now; the human job is reviewing AI code for dumb bugs and bad design detours.",
+          "source": "0064_AntOnTheMars_020101ee.txt",
+          "question": "我感觉虽然有些事情我可以交给AI做了，但是我还是会搞清楚整体架构，过程，让它解释为什么这样做，我觉得这样用AI才是加速自己学习同时提升效率过程。不过我确实在想这个时候去学其他编程语言，比如不太熟悉的C语言会不会必要性不大？",
+          "authorReplies": [
+            "目前来看，能够熟悉一个语言就行了吧。人的工作现在主要是给AI来review一下代码，防止他犯一些很低级的错误，或者整个设计上是绕了没必要的弯路。"
+          ]
+        },
+        {
+          "dialogId": "0070",
+          "asker": "言苏鲤",
+          "file": "0070_言苏鲤.txt",
+          "title": "Where humans still beat agents at work",
+          "about": "A new hire asks for the human-agent boundary as memory makes experience cheaper. Li Mu flips it: the more you use AI, the more you see its limits, and you learn when it is trustworthy.",
+          "source": "0070_言苏鲤_15012c8f.txt",
+          "question": "随着人和agent的边界在变得越来越小，对于刚步入职场的新人而言，应该怎么认知自己和agent的边界呢，差异点究竟在哪里，人能发挥的优势又在哪里？随着agent记忆库的沉淀，经验的边际价值好像也在下降，而不断创造新的东西又依托于经验，用更短的时间走完更多的路到底需要什么样的能力呢",
+          "authorReplies": [
+            "我反而觉得是AI用的越多，发现它的局限性越大，反而越来越知道什么时候它可信，什么时候不可信。"
+          ]
+        },
+        {
+          "dialogId": "0078",
+          "asker": "＞_＜",
+          "file": "0078_＞_＜.txt",
+          "title": "Retraining for AI compute / inference",
+          "about": "Wants to jump from pure software to AI compute acceleration and doubts learning a language is useful. Li Mu: learning a language is useful, at least so you can read code and give agents good feedback.",
+          "source": "0078_＞_＜_0b011dea.txt",
+          "question": "老师，以前读研的时候最喜欢你的论文精读系列了，现在想问一下，在AI时代我应该怎么学习呢？应该怎么转行呢？尤其是我现在想跨行业转行，想从纯软转到AI计算/推理加速，这里甚至我要重新学习编程语言，但是现在又觉得仔细学习编程语言是无用的",
+          "authorReplies": [
+            "学编程语言是有用的。至少得看得懂代码吧, 能够给AI 好的反馈。"
+          ]
+        },
+        {
+          "dialogId": "0079",
+          "asker": "小红薯6613EFF2",
+          "file": "0079_小红薯6613EFF2.txt",
+          "title": "Algorithm engineers vs humanities GPT users",
+          "about": "Asks where algorithm engineers beat a humanities grad with GPT. Li Mu: AI multiplies your existing edge by about 10x.",
+          "source": "0079_小红薯6613EFF2_15020553.txt",
+          "question": "请问一下，Ai时代，算法工程师和 用gpt 的文科生比，优势在哪",
+          "authorReplies": [
+            "AI能把人的优势放大十倍，你比别人厉害的地方，在利用AI之后，能够更厉害。"
+          ]
+        },
+        {
+          "dialogId": "0082",
+          "asker": "有思想的芦苇",
+          "file": "0082_有思想的芦苇.txt",
+          "title": "Business-algorithm career in a fast-changing market",
+          "about": "A third-year master's student on the fall recruiting market feels lost in applied algorithms. Li Mu's test: can you, plus agents, finish work that used to take five people.",
+          "source": "0082_有思想的芦苇_1402f58a.txt",
+          "question": "怀念研一跟着您学习AI的日子，目前已经研三正在秋招，感觉这行的变化特别大，对未来特别迷茫，目前在做业务算法，将来该向着哪个方向发展呢？应该提升自己哪方面的能力？",
+          "authorReplies": [
+            "简单来看，就是以前要五个人才能完成的工作，现在能不能你带着agent能完成？"
+          ]
+        },
+        {
+          "dialogId": "0197",
+          "asker": "111",
+          "file": "0197_111.txt",
+          "title": "What an AI application engineer must own in two years",
+          "about": "Panic about AI coding: what the market will want later. Li Mu will not forecast two years, but today's signal is people who can own a large chunk of work, now with a pile of agents instead of a 5-10 person team.",
+          "source": "0197_111_0b01dfc0.txt",
+          "question": "沐神，你觉得两年之后市场上真正需要的ai应用工程师会是什么样的，现在用aicoding越用越慌，不知道往哪走[哭惹R]",
+          "authorReplies": [
+            "两年之后比较难说，因为技术发展太快，但今天能看到的是，需要的是能够负责一大块东西的人。以前是这样的人带一个五到十人的小团队去完成，现在可能就变成一个人带着一堆Agent去完成了。"
+          ]
+        },
+        {
+          "dialogId": "0790",
+          "asker": "杨老师",
+          "file": "0790_杨老师.txt",
+          "title": "Generalists vs specialists after AI coding",
+          "about": "Asks who survives if coding already beats ordinary humans: T-shaped generalists or deep specialists. Li Mu: AI has passed humans on implementation speed, not on design, taste, or covering the full problem.",
+          "source": "0790_杨老师_140016c9.txt",
+          "question": "致敬沐神🫡，想问下沐神在当下coding能力已经超越普通人类的情况下，对算法，业务，coding各个领域都了解的通才和垂直领域的业务专家or算法专家的专才，两个相比较，那一类人机会更多，更容易生存下来？",
+          "authorReplies": [
+            "我觉得只是说在具体实现代码上和手速上超过了人类，但整个设计啊，代码的品味啊，考虑的东西是不是很全面啊，目前还是有差距的。"
+          ]
+        },
+        {
+          "dialogId": "1188",
+          "asker": "#undef",
+          "file": "1188_#undef.txt",
+          "title": "Deleted question; reply is about reviewing AI code",
+          "about": "The original comment was deleted. From Li Mu's reply: you do not have to write code yourself, but you still need to review it, and architecture plus design choices still need a human.",
+          "source": "1188_#undef_020288b3.txt",
+          "question": "原评论已删除",
+          "authorReplies": [
+            "可以自己不写代码，但是需要review代码。而且它整个代码架构的设计，在一些方案的选择上，目前还是得靠人。"
+          ]
+        },
+        {
+          "dialogId": "1189",
+          "asker": "momo",
+          "file": "1189_momo.txt",
+          "title": "Deleted question; reply is that junior programmers fade",
+          "about": "The original comment was deleted. From Li Mu's reply: basic programmers are disappearing; the surviving path is senior work on complex, large projects.",
+          "source": "1189_momo_0a024af8.txt",
+          "question": "原评论已删除",
+          "authorReplies": [
+            "基础的程序员应该快要消失了。程序员这个方向，只能往资深的方向走，就是能做复杂点的大项目。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-agents",
+      "title": "Agents",
+      "description": "The agent field itself: harness, memory, RSI, consumer agents, and agent vs other bets.",
+      "count": 8,
+      "threads": [
+        {
+          "dialogId": "0012",
+          "asker": "ZY",
+          "file": "0012_ZY.txt",
+          "title": "What LLM harnesses will be eaten",
+          "about": "Asks which agent harnesses models will swallow and what stays irreplaceable. Li Mu: whatever works in today's harness will likely be absorbed by the next model, then new harness gaps will appear, and people will stop caring about the old layer.",
+          "source": "0012_ZY_0a01f139.txt",
+          "question": "沐老师，llm会吞噬掉哪些harness，harness有哪些不可替代，二者边界会在哪里",
+          "authorReplies": [
+            "我的看法是，目前harness里面有效的东西，下一代模型应该会被吞掉，但是下一代模型可能又出现一些需要新的harness的地方。",
+            "应该会，但那个时候大家就不关注这块了"
+          ]
+        },
+        {
+          "dialogId": "0027",
+          "asker": "爱吃🐏的兔子",
+          "file": "0027_爱吃🐏的兔子.txt",
+          "title": "Agent vs embodied for the next 3-5 years",
+          "about": "Asks which has less foam and is more worth committing to. Li Mu will not pick a winner: both look fine; choose by interest and by whether you can join a good team.",
+          "source": "0027_爱吃🐏的兔子_0200f60c.txt",
+          "question": "沐神，Agent和具身，近3-5年，您觉得哪个方向目前泡沫更少、更值得踏实投入？不论是做研究还是做产品[派对R]",
+          "authorReplies": [
+            "我觉得两个方向目前看都挺好的，可能以你是不是自己更喜欢一个，另外，是不是能找到一个比较好的团队加入"
+          ]
+        },
+        {
+          "dialogId": "0045",
+          "asker": "普通人勾勾",
+          "file": "0045_普通人勾勾.txt",
+          "title": "Will agent research still see big inventions",
+          "about": "Asks if the agent field still has major innovation left. Li Mu thinks it is moving fast because imagined agent forms are still missing, for example a personal assistant that actually handles chores.",
+          "source": "0045_普通人勾勾_1500d435.txt",
+          "question": "您觉得 AI Agent 领域还会有重大的创新吗",
+          "authorReplies": [
+            "我觉得这一块发展还挺快的，因为很多想象中的agent形态其实还没有出现。例如，我的私人助理能帮我搞定所有这种杂事，agent现在就干不了。"
+          ]
+        },
+        {
+          "dialogId": "0073",
+          "asker": "不要以为消耗100B tokens能PUA大模型",
+          "file": "0073_不要以为消耗100B_tokens能PUA大模型.txt",
+          "title": "What RSI actually means",
+          "about": "Notes everyone says RSI but does different things. Li Mu: Boson does RSI too, the term is loose, and even AI washing data to train AI can be called RSI.",
+          "source": "0073_不要以为消耗100B_tokens能PUA大模型_0a01e579.txt",
+          "question": "[皱眉R]欢迎李沐老师入驻📕！想问一下老师怎么理解RSI吗？感觉大家都说rsi但是做的都不太相同[笑哭R]",
+          "authorReplies": [
+            "我们也做RSI，但确实大家的理解都不太一样。能有效使用AI来参与迭代模型能力都可以号称RSI吧。例如简单的是，用AI来洗数据再来训练AI。"
+          ]
+        },
+        {
+          "dialogId": "0081",
+          "asker": "毅仔",
+          "file": "0081_毅仔.txt",
+          "title": "Is agent memory a lasting direction",
+          "about": "Asks if agent memory is worth researching for jobs. Li Mu: memory is an important piece of agents; if you like it, go deep.",
+          "source": "0081_毅仔_14030139.txt",
+          "question": "再请教一下沫神，agent memory 会不会是未来agent 长期重要的方向，至少现在研究这个方向未来能找到工作[doge]",
+          "authorReplies": [
+            "memory肯定是agent比较重要的一块。如果你感兴趣，你深入去做，应该没问题的。"
+          ]
+        },
+        {
+          "dialogId": "0097",
+          "asker": "小🦈吃吃吃",
+          "file": "0097_小🦈吃吃吃.txt",
+          "title": "Embodied continual learning vs agent self-evolution",
+          "about": "A student is torn between embodied continual learning and agent self-evolution after hearing embodied is foamy. Li Mu: agents apply faster; his own embodied-side work still has a long path to real landing; follow interest.",
+          "source": "0097_小🦈吃吃吃_14039777.txt",
+          "question": "老师好，我想咨询您agent和具身智能这两个方向哪个更适合上手和深入研究的，具体的，一个是具身智能的持续学习，一个是agent的自进化，请问老师觉得选哪个方向比较好一点儿的。因为我看了刚刚您对于具身智能评论的回复，感觉具身智能做起来是很难落地的且有点儿泡沫，那agent是否会好很多呢",
+          "authorReplies": [
+            "agent目前来看应用更加快一点，我的这一块呢，想要真的真正的落地，还有比较长期的考验。可能就看你自己喜欢哪一个了。"
+          ]
+        },
+        {
+          "dialogId": "0782",
+          "asker": "Nirvana",
+          "file": "0782_Nirvana.txt",
+          "title": "Will consumer agents have a GPT moment",
+          "about": "Asks about toC agents and a Manus-style GPT moment. Li Mu: yes there will be hits (Manus, 'crayfish'), but their follow-on impact is smaller than GPT.",
+          "source": "0782_Nirvana_1500d329.txt",
+          "question": "沐神，请教下对于toC agent的看法。真的会有属于toC agent的gpt时刻吗？",
+          "authorReplies": [
+            "会有吧。不管是Manus，小龙虾，都是现象级的。但可能跟GPT不一样，这些的后续影响力没有他大。"
+          ]
+        },
+        {
+          "dialogId": "1014",
+          "asker": "小红薯64D08C08",
+          "file": "1014_小红薯64D08C08.txt",
+          "title": "How Li Mu sees RSI",
+          "about": "Another RSI question. Li Mu: they work on it, but there is no shared definition of which technique counts as RSI.",
+          "source": "1014_小红薯64D08C08_15001d05.txt",
+          "question": "李沐老师你好，请问你是怎么看待rsi的发展的呢",
+          "authorReplies": [
+            "我们自己也做 RSI，但确实这一块是一个比较泛的方向。并没有一个主流的认同，什么技术方向就是 RSI。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-embodied-robotics",
+      "title": "Embodied AI and robotics",
+      "description": "Robots, VLA, world models, and whether AI can handle the physical world.",
+      "count": 6,
+      "threads": [
+        {
+          "dialogId": "0002",
+          "asker": "藤🌿📷",
+          "file": "0002_藤🌿📷.txt",
+          "title": "Is embodied AI a bubble",
+          "about": "Asks whether embodied AI is a bubble and whether it can really land. Li Mu says there is short-term foam, but the direction is natural: after white-collar work comes blue-collar work, and real deployment may take as long as self-driving.",
+          "source": "0002_藤🌿📷_1402c469.txt",
+          "question": "您觉得具身领域会是泡沫吗？未来的具身行业是否可能真正落地并发展？[萌萌哒R]",
+          "authorReplies": [
+            "短期看，肯定是有泡沫的。但这是一个自然的方向，因为A I做了白领的工作之后，就是要做蓝领的工作。但确实说具体什么时候能够落地，真正的发展起来，很有可能也是一个漫长的时间。就像无人驾驶，花了多少时间？"
+          ]
+        },
+        {
+          "dialogId": "0016",
+          "asker": "贝林满满满",
+          "file": "0016_贝林满满满.txt",
+          "title": "Did Astra-style demos kill VLA research",
+          "about": "A grad student doing on-device embodied algorithms asks if LLM scale will just solve robotics. Li Mu treats current robot demos as demo-level; quality, latency, and cost still have to prove out.",
+          "source": "0016_贝林满满满_15015d0c.txt",
+          "question": "李老师，我是一个在做端侧具身算法的小菜鸡研究生，这两天看到astra6已经可以直接操纵机械臂来执行任务了，这是不是说明现有的vla和wam已经没那么大研究的价值了?llm的力大砖飞未来就能解决具身的任务[皱眉R]",
+          "authorReplies": [
+            "目前还是demo级别吧。这一块的效果，实时性，成本是不是够用，那还得再看一看。"
+          ]
+        },
+        {
+          "dialogId": "0035",
+          "asker": "生椰甜甜子_",
+          "file": "0035_生椰甜甜子.txt",
+          "title": "Future of embodied intelligence",
+          "about": "Open question on embodied AI's future. Li Mu is mildly positive: if nothing else looks more promising, it is a good direction.",
+          "source": "0035_生椰甜甜子_15020c9a.txt",
+          "question": "沐神怎么看待具身智能的未来发展",
+          "authorReplies": [
+            "目前来看，没有别的更promising的方向的话，我觉得这个挺好的。"
+          ]
+        },
+        {
+          "dialogId": "0044",
+          "asker": "韭韭不想上班",
+          "file": "0044_韭韭不想上班.txt",
+          "title": "Can AI solve the physical world",
+          "about": "Argues math/CS are too clean for AI, and asks if AI can really handle messy physics. Li Mu: not yet, though many labs and companies are trying.",
+          "source": "0044_韭韭不想上班_1500b1b3.txt",
+          "question": "大佬觉得ai能本质上解决physical world的问题么 对于物理世界来讲 数学和cs领域太干净了 反馈太及时了 这俩领域感觉ai已经一统江湖了",
+          "authorReplies": [
+            "应该还没有吧。但是这一块确实有很多lab和公司在做。"
+          ]
+        },
+        {
+          "dialogId": "0046",
+          "asker": "克里斯今天吃💊了没",
+          "file": "0046_克里斯今天吃💊了没.txt",
+          "title": "When will robots and LLMs merge",
+          "about": "Notes robots and LLMs should complete each other but have split into two tracks. Li Mu: robotics is still stuck on hardware and the cerebellum, not on the brain.",
+          "source": "0046_克里斯今天吃💊了没_1403aa92.txt",
+          "question": "机器人和大语言模型原本应该是互相成就的关系，现在却成了两条路线，您怎么看这两个行业的未来？或者也许该问，整合什么时候来临",
+          "authorReplies": [
+            "因为机器人目前大家都还是在硬件和小脑上面吧，大家没有特别花时间在大脑上面。"
+          ]
+        },
+        {
+          "dialogId": "0068",
+          "asker": "千重",
+          "file": "0068_千重.txt",
+          "title": "World models and embodied AI hype",
+          "about": "Asks about the hot and heavily criticized world-model / embodied wave. Li Mu: both are probably required for AI to do blue-collar work, but people may be too optimistic.",
+          "source": "0068_千重_0a02793f.txt",
+          "question": "世界模型和具身智能最近两年热度很高，质疑声也很高。沐神怎么看待两者的现状和未来？",
+          "authorReplies": [
+            "这两块应该是AI能去做蓝领的工作的必须吧，但是确实是不是过于乐观，这个也有可能。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-research-phd",
+      "title": "Research and PhD",
+      "description": "Advising, whether to do a PhD, academia vs industry, and how to pick a research topic.",
+      "count": 14,
+      "threads": [
+        {
+          "dialogId": "0003",
+          "asker": "少华从文",
+          "file": "0003_少华从文.txt",
+          "title": "What advisors and students should do now",
+          "about": "An advisor-side question: what should mentors still teach, and will students lose to agents. Li Mu says the era of students as cheap labor should end; treat them as independent researchers who finish work with agents, with only high-level guidance from the advisor.",
+          "source": "0003_少华从文_1503f640.txt",
+          "question": "替我导师问个问题，现在的学生还需要老师做哪些指导？ 导师还需要学生做什么工作？ 学生效率会不会低于与agent的合作效率",
+          "authorReplies": [
+            "学生跟导师打杂的时代应该过去了。应该把学生看成independent researcher，学生能够带着agent独立完成工作。导师只要给一些更高level的指导就行了。"
+          ]
+        },
+        {
+          "dialogId": "0008",
+          "asker": "江南",
+          "file": "0008_江南.txt",
+          "title": "Undergrad research that leans on agents",
+          "about": "A CS undergrad in an embodied lab feels like a messenger between GPT and Codex, not a real researcher. Li Mu says that is normal while the area is new: after going deep and seeing which agent plans work, understanding follows.",
+          "source": "0008_江南_0a027067.txt",
+          "question": "沐神好[哇R]我目前是CS本科生，在一个做具身智能的组里干活，但我发现自己做任务的时候特别依赖AI，经常是跟Codex和GPT网页端换着聊，GPT给方案，Codex负责执行。我大部分时间都是在努力理解GPT给出的思路，偶尔能看出它有点绕远路，但基本做不到主动去“引导”AI朝某个方向走。这让我感觉自己没起到真正做研究的作用，像仙家对话中那个中间传话的[完啦R]，为此挺迷茫也挺挫败的。想问问沐神怎么看待这种情况？本科生在科研起步阶段，面对这种高度依赖AI的状态，应该怎么调整呢",
+          "authorReplies": [
+            "我觉得不是问题吧，就是你这一块不算熟嘛。你做深一点之后，知道哪些方案Agent试过，哪些work哪些不work，踩过坑了，你自然会在一块会理解深一些"
+          ]
+        },
+        {
+          "dialogId": "0014",
+          "asker": "小红薯67D3A2E2",
+          "file": "0014_小红薯67D3A2E2.txt",
+          "title": "Is a traditional CV PhD outdated",
+          "about": "A student who entered research via Li Mu's book asks whether to do a PhD, and whether CV is dead versus LLM or embodied. Li Mu's concern is learning: agents can finish a research loop, so it is unclear what a PhD is for if the human learns less.",
+          "source": "0014_小红薯67D3A2E2_1303f8b2.txt",
+          "question": "老师，看着您的动手深度学习入坑科研，进而读完了硕士。现在的环境，您推荐读博士吗？如果仅仅是传统cv方向的博士，是不是已然过时了，需不需要选择目前较为热门的方向例如具身智能（但这方向的导师又很少，没有硬件功底，纯软不太好申呀），llm会更好呢。",
+          "authorReplies": [
+            "现在的一个困境是说，之前做一个研究，从头到尾做，人学到了东西很多。现在很多时候你让agent做，结果上来讲他做的也不差，但是人学到东西变少了。所以，博士期间要干什么事情，这个是目前不是那么明确。"
+          ]
+        },
+        {
+          "dialogId": "0037",
+          "asker": "不敲键盘张土豆",
+          "file": "0037_不敲键盘张土豆.txt",
+          "title": "AI algorithm research for ordinary people",
+          "about": "Asks where non-geniuses fit in algorithm research. Li Mu: most people doing AI algorithms are ordinary too.",
+          "source": "0037_不敲键盘张土豆_1303fc2e.txt",
+          "question": "对于非天才的普通人来说，AI 算法研究的未来在哪里？",
+          "authorReplies": [
+            "我觉得做AI算法的人，大部分是也是普通人吧。"
+          ]
+        },
+        {
+          "dialogId": "0055",
+          "asker": "藤原拓东",
+          "file": "0055_藤原拓东.txt",
+          "title": "Skill vs network for research insight",
+          "about": "Asks whether insight comes from personal skill or from lab/network. Li Mu: skill sets the floor, network sets the ceiling; worry about the floor first.",
+          "source": "0055_藤原拓东_1500056d.txt",
+          "question": "老师，您觉得对于一个学生而言，想要做出insight的贡献，是自身技术更重要，还是团队圈子资源更重要呢。",
+          "authorReplies": [
+            "自身技术决定下限，团队和圈子决定上限吧。很多时候，可能不一定要去那么的管上限，先把下限做好。"
+          ]
+        },
+        {
+          "dialogId": "0060",
+          "asker": "rain",
+          "file": "0060_rain.txt",
+          "title": "Industry frontier vs universities",
+          "about": "Worries companies now own the frontier and academia becomes a data feeder. Li Mu: companies can ship what they need; academia is not only about usefulness.",
+          "source": "0060_rain_0b01769c.txt",
+          "question": "您好，我想请教您一下，我有一种感觉，就是现在ai最前沿是由企业为主导的，因为最新的模型训练。部署需要的计算成本越来越高，高校和科研机构好像已经和最前沿理论脱轨，而且各行各业也都在宣传 ai加学科进行科学范式革命，以后有没有可能 AI变成以企业领导为主，其他学科。只会逐渐变得变成为ai提供语料的工具。",
+          "authorReplies": [
+            "只能说在实用上面，很多时候各个公司能够把自己想要的东西实现做了，但是学术圈不是只为了追求实用。"
+          ]
+        },
+        {
+          "dialogId": "0066",
+          "asker": "Roy",
+          "file": "0066_Roy.txt",
+          "title": "Is a PhD still worth it versus industry",
+          "about": "Worries a PhD is slower and less applied than industry. Li Mu: if you mainly want industry, a PhD is not obviously the best path right now.",
+          "source": "0066_Roy_0b01380a.txt",
+          "question": "沐老师，你觉得现在还值得读PhD吗，我觉得现在学术界和工业界有点距离，担心读PhD做的工作不如业界做的更接近前沿和实际应用",
+          "authorReplies": [
+            "如果你更想去工业界一点，那确实读PhD不见得是一个目前最优的。"
+          ]
+        },
+        {
+          "dialogId": "0075",
+          "asker": "和光同尘",
+          "file": "0075_和光同尘.txt",
+          "title": "3D/4D scene understanding as a young researcher's bet",
+          "about": "A young researcher fears bigger models will cover 3D/4D work. Li Mu is not an expert here but thinks real-world scene understanding/generation is still shallow and far from solved.",
+          "source": "0075_和光同尘_15012a30.txt",
+          "question": "李沐老师您好，我目前在 3D&4D 场景理解和生成之间犹豫。现在模型发展和更新太快，也担心自己的工作很快被更大模型覆盖。您觉得年轻研究者应该如何选择长期方向，并建立真正属于自己的积累？",
+          "authorReplies": [
+            "目前做的还很浅吧。我也不算这一块的专家，但我觉得不管是AI也好，还是别的专门做这个的，我觉得离真正的现实场景的理解和生成还蛮远的。"
+          ]
+        },
+        {
+          "dialogId": "0095",
+          "asker": "gourmand",
+          "file": "0095_gourmand.txt",
+          "title": "What research is still worth entering",
+          "about": "Asks for research topics that are still worth starting now. Li Mu: pick a niche you care about; the field is moving so fast that many places are still under-worked.",
+          "source": "0095_gourmand_0b012f4b.txt",
+          "question": "沐神[玫瑰R]您觉得现在入场的话，还有什么值得投入的研究方向吗？",
+          "authorReplies": [
+            "可以找niche 一点的，但有兴趣的方向去研究吧。目前我看到就是技术发展的很快，所以很多地方其实是做的不够细的。"
+          ]
+        },
+        {
+          "dialogId": "0100",
+          "asker": "参毛",
+          "file": "0100_参毛.txt",
+          "title": "Will CCF paper counts stay the academic scoreboard",
+          "about": "Asks how long paper-count standards last when AI writes papers. Li Mu: standards are sticky, but judging people only by papers is now questionable.",
+          "source": "0100_参毛_0a0272b6.txt",
+          "question": "学界通常以ccfa论文的数量为个人能力的评价标准，以我自己的体感来说标准开始一年比一年高，那么这个标准还能继续维持多久？以后会有其他的衡量标准吗？",
+          "authorReplies": [
+            "标准总是很难改的，但是确实大家都用AI来写论文的时代，所以是不是只看论文这件事情，有待商榷。"
+          ]
+        },
+        {
+          "dialogId": "0655",
+          "asker": "温州皮革厂少主",
+          "file": "0655_温州皮革厂少主.txt",
+          "title": "AI's shock to academia",
+          "about": "Asks how AI hits the academic world. Li Mu feels the shock is large: he already has AI read papers, and he believes many papers are now mainly AI-written.",
+          "source": "0655_温州皮革厂少主_16007eb1.txt",
+          "question": "李老师 怎么看待ai对学术圈的冲击",
+          "authorReplies": [
+            "我觉得冲击比较大，我现在都是AI给我看论文，我相信很多论文也是AI主笔的。"
+          ]
+        },
+        {
+          "dialogId": "0760",
+          "asker": "Libra",
+          "file": "0760_Libra.txt",
+          "title": "AI4S protein PhD: research, job, or startup",
+          "about": "A protein-design PhD asks where to put energy. Li Mu: interest. If you want something practical, join or start a team; if you want research, stay on research.",
+          "source": "0760_Libra_150163c7.txt",
+          "question": "老师请问ai4s方向（蛋白质设计）博士，应该把重心放在科研上，还是放在工作上或自己找团队创业呢",
+          "authorReplies": [
+            "就看你兴趣吧，你想做实际一点的呢，就找团队创业，你想偏科研一点呢，那就是更专注在科研。"
+          ]
+        },
+        {
+          "dialogId": "1010",
+          "asker": "小红薯5F5849C0",
+          "file": "1010_小红薯5F5849C0.txt",
+          "title": "LLM research when pretraining is just scaling",
+          "about": "Asks what breakthrough-prone LLM research is left. Li Mu: pretraining is more scaling; post-training algorithms are still complicated.",
+          "source": "1010_小红薯5F5849C0_0f02d5d4.txt",
+          "question": "沐神 请问llm这边还能咋做些有突破潜力的研究呢 现在都是更scaling science了，系统的一套越来越重要，纯算法好像停滞了",
+          "authorReplies": [
+            "预训练确实是scaling上更多一点。 但是post train上面的算法还是挺复杂的。"
+          ]
+        },
+        {
+          "dialogId": "1012",
+          "asker": ".wing",
+          "file": "1012_.wing.txt",
+          "title": "CV small models during a PhD",
+          "about": "A PhD student still working on small CV models asks if that is hopeless. Li Mu: small models are fine; they work well in many small settings.",
+          "source": "1012_.wing_1403a6b4.txt",
+          "question": "读博期间还在研究cv小模型，还有前途吗",
+          "authorReplies": [
+            "小模型也没什么问题吧？在很多小的场景上面，小模型做的挺好的。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-career-hiring",
+      "title": "Career and hiring",
+      "description": "Jobs, internships, interviews, management tracks, and making a living.",
+      "count": 10,
+      "threads": [
+        {
+          "dialogId": "0022",
+          "asker": "喜羊羊我一定会回来的",
+          "file": "0022_喜羊羊我一定会回来的.txt",
+          "title": "How will low-skill workers survive",
+          "about": "Asks what people without degrees or networks will live on. Li Mu bets on services: robots may get capable, but whether they give the same emotional value is unknown.",
+          "source": "0022_喜羊羊我一定会回来的_0a01e9dc.txt",
+          "question": "老师，在AI的发展下您觉得底层人这种没有学历、没有人脉、只能干苦工的人，以后能靠什么养活自己？",
+          "authorReplies": [
+            "我觉得服务行业是不太会被替代掉。未来机器人也许能力够，但是是不是提供了同样的情绪价值，这个还不清楚。"
+          ]
+        },
+        {
+          "dialogId": "0030",
+          "asker": "灵儿Chili",
+          "file": "0030_灵儿Chili.txt",
+          "title": "Infra vs algorithm vs agent jobs",
+          "about": "Someone switching fields asks where the openings are, and if they can still become a researcher. Li Mu: agents are more applied so there are more seats; infra and algorithms have fewer companies but a higher bar.",
+          "source": "0030_灵儿Chili_1500d1bc.txt",
+          "question": "沐神，想转工作方向，AI这方向现在还缺AI Infra的开发人员吗，以及AI算法岗和AI Agent岗位哪个缺口更大呢？我现在参加工作了，还有可能成为AI研究人员吗？感觉自己脑子里想法太多好迷茫[哭惹R]",
+          "authorReplies": [
+            "agent这一块偏应用一点，肯定工作岗位更多。infra和算法呢，相对来说，可能需有需求的公司会少一些，但门槛也高一些。"
+          ]
+        },
+        {
+          "dialogId": "0031",
+          "asker": "祝无梦",
+          "file": "0031_祝无梦.txt",
+          "title": "Degree anxiety and over-using AI at work",
+          "about": "A non-elite undergrad intern fears the market's degree filter and feels they learned nothing because of AI. Li Mu: degree matters less later; the real problem is not understanding what the AI is doing behind the work it finishes.",
+          "source": "0031_祝无梦_0100b5c7.txt",
+          "question": "李老师好，我是一个国内双非本科就读人工智能专业的学生，现如今在一家机器人公司内实习，在此期间深刻感受到了就业市场在ai技术岗的学历要求，因此有点焦虑是否自己对未来自己的岗位定位的期望过高，我的学历是否还能不能支撑我进入这个行业。我在整个大学期间的专业学习都高度依赖ai，三年过去觉得自己好像什么都没学到，进入真正工作上对自己的定位也无所适从，觉得如果自己所有工作都使用ai，那是否这个岗位换了谁都可以干，作为没有学历优势在技术上也没有很深度理解的预备役牛马，应该把自己放在一个什么样的生态位，在ai帮我完成项目的同时我应该把学习方向放在哪，我应该把自己的重点放在哪里",
+          "authorReplies": [
+            "我觉得学历可能不是最关键的，越到职业的后期，学历可能越没那么重要。但如果你都觉得自己过于依赖AI，没学到什么东西，这一点可能更加重要一点。至少先了解AI完成的工作，他在背后到底在干什么事情？"
+          ]
+        },
+        {
+          "dialogId": "0032",
+          "asker": "流浪菜儿",
+          "file": "0032_流浪菜儿.txt",
+          "title": "Are you hiring",
+          "about": "Direct ask for a job. Li Mu: the Toronto office is hiring.",
+          "source": "0032_流浪菜儿_0d028800.txt",
+          "question": "李老师招人吗？[笑哭R]求收留",
+          "authorReplies": [
+            "我们toronto office有一直在招人的。"
+          ]
+        },
+        {
+          "dialogId": "0049",
+          "asker": "Momo7",
+          "file": "0049_Momo7.txt",
+          "title": "Does BosonAI hire new PhDs",
+          "about": "Asks if Boson hires PhD new grads and what profile clears the bar. Li Mu: yes, they interview every day. No bar details.",
+          "source": "0049_Momo7_1403bfe0.txt",
+          "question": "沐神，bosonAI招PhD ng吗，需要怎样的profile大概才能过bar",
+          "authorReplies": [
+            "我们有招啊！我们反正每天都在面试。"
+          ]
+        },
+        {
+          "dialogId": "0052",
+          "asker": "空页",
+          "file": "0052_空页.txt",
+          "title": "Is management still worth switching into",
+          "about": "Asks if big-company management tracks still make sense. Li Mu: relay-the-message managers are likely to be replaced; real management is hard, and people still resist AI as a manager.",
+          "source": "0052_空页_0200ec77.txt",
+          "question": "沐神，问个近期最疑惑的问题， 管理后面还有必要转吗？特别是在大公司这类岗位",
+          "authorReplies": [
+            "目前来看，大公司的管理岗位很多，就是把上面的话传给下面，这一块应该是要被替代了。但真正的管理还是挺难的，目前来看，大家对AI做真正的管理，还是有心理障碍吧。"
+          ]
+        },
+        {
+          "dialogId": "0076",
+          "asker": "呜啦啦",
+          "file": "0076_呜啦啦.txt",
+          "title": "Using AI to talk to engineers",
+          "about": "A tech-services person asks how to communicate with engineers, with AI's help. Li Mu: AI can draft and review, but human-to-human talk should stay human; many people hate AI replies.",
+          "source": "0076_呜啦啦_02028539.txt",
+          "question": "AI大公司的技术服务部门：该怎么加强和技术同学的沟通能力，怎么用 ai帮忙呢",
+          "authorReplies": [
+            "你可以让AI来帮你提供一些建议，或者说帮你跟之前的跟别人的沟通做一些review。但人与人的交互，主要还是人上。我看很多人是讨厌别人用AI来回复的。"
+          ]
+        },
+        {
+          "dialogId": "0766",
+          "asker": "井井",
+          "file": "0766_井井.txt",
+          "title": "Hiring new grads",
+          "about": "Asks if the company hires new grads. Li Mu: they are always hiring.",
+          "source": "0766_井井_0a02486a.txt",
+          "question": "公司招不招ng[doge]",
+          "authorReplies": [
+            "我们一直有招人的。"
+          ]
+        },
+        {
+          "dialogId": "0784",
+          "asker": "开工就得喝口咖啡",
+          "file": "0784_开工就得喝口咖啡.txt",
+          "title": "Internships at Boson",
+          "about": "Asks if Li Mu's company takes interns. Li Mu: Bay Area and Toronto offices both hire interns.",
+          "source": "0784_开工就得喝口咖啡_0b01a6cd.txt",
+          "question": "[举手R][举手R][举手R]啊老师您来小红书啦，你招实习生吗？",
+          "authorReplies": [
+            "我们湾区和多伦多的office都招实习生。"
+          ]
+        },
+        {
+          "dialogId": "1099",
+          "asker": "ray",
+          "file": "1099_ray.txt",
+          "title": "Do LeetCode-style interviews still matter",
+          "about": "Asks if algorithm-interview prep is still worth it. Li Mu: many companies still interview that way, and they do not want to suspect the solution was written by AI.",
+          "source": "1099_ray_0b015f53.txt",
+          "question": "leetcode-type的code考核还有必要特意考核/准备吗？",
+          "authorReplies": [
+            "很多公司还是面，而且得不要让人怀疑是用AI写的。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-infra-hardware",
+      "title": "Infra and hardware",
+      "description": "Training infra, chips, compilers, and on-device / edge AI.",
+      "count": 7,
+      "threads": [
+        {
+          "dialogId": "0006",
+          "asker": "啾啾",
+          "file": "0006_啾啾.txt",
+          "title": "Is on-device AI a real need",
+          "about": "Asks if edge / on-device AI is a real demand. Li Mu used to believe in it, was proven wrong by the deep-learning wave, sees some short-term use while GPUs are expensive (for example Mac Mini), and thinks the long-term need stays niche.",
+          "source": "0006_啾啾_0a01f1dc.txt",
+          "question": "老师您好，您认为未来端侧ai是否是真实需求呢",
+          "authorReplies": [
+            "十年前，我很相信端侧，但深度学习那一波一直是在打脸。目前短期来看，因为GPU的价格走高，所以导致说端侧上应该会有一些应用吧，比如说在Mac Mini上跑些模型。但长期来看，我认为还是一个比较小众的需求。"
+          ]
+        },
+        {
+          "dialogId": "0040",
+          "asker": "不慕",
+          "file": "0040_不慕.txt",
+          "title": "PhD in LLM inference chips / infra",
+          "about": "A new PhD in inference-chip design worries the real work is algorithm optimization. Li Mu likes the bet: when algorithms change, hardware has to change, so there is always work.",
+          "source": "0040_不慕_1500a217.txt",
+          "question": "沐神[哭惹R]我当初跟着您学的深度学习，受益匪浅[哭惹R]我现在博一刚入学，做的是llm推理芯片设计方向，但是感觉加速器背后的本质还是算法的优化，有了算法优化才能有新的workload，才能去设计相应的加速器，请问您觉得博士阶段做推理算法优化，偏Infra的方向会是一个好的选择吗[害羞R]",
+          "authorReplies": [
+            "我觉得挺好的呀，因为算法一变，硬件得跟着改，所以总是有饭吃嘛。"
+          ]
+        },
+        {
+          "dialogId": "0069",
+          "asker": "I_just_keep_going",
+          "file": "0069_I_just_keep_going.txt",
+          "title": "Is AI hardware the next PhD bet",
+          "about": "Someone picking a PhD topic asks if AI hardware will be a boom. Li Mu: there is a market, and China is strong on the hardware side.",
+          "source": "0069_I_just_keep_going_14039027.txt",
+          "question": "沐神！我现在准备找博士方向，您觉得AI硬件在未来几年能成为风口吗？还是说仍然需要一定时间才行啊，什么Ai相关方向会成为下一个风口呢？[派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R]一打开手机就刷到你 开心开心[派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R]",
+          "authorReplies": [
+            "AI硬件肯定是有市场的，而且特别是国内这一块硬件能力比较强。"
+          ]
+        },
+        {
+          "dialogId": "0071",
+          "asker": "369",
+          "file": "0071_369.txt",
+          "title": "Embedded and on-device AI demand",
+          "about": "Asks if embedded / edge AI is a real need. Li Mu: yes, in cars and phones, and hardware adaptation is a lot of work.",
+          "source": "0071_369_14002750.txt",
+          "question": "李沐老师，非常希望听听您的建议，关于嵌入式ai这一块未来发展是真实需求吗，端侧ai这类",
+          "authorReplies": [
+            "有吧。车载这一块啊，手机啊，肯定是有一些AI可以用在上面的。然后就涉及到不同的硬件上面做适配，工作量还是挺大的。"
+          ]
+        },
+        {
+          "dialogId": "0080",
+          "asker": "风间醉客",
+          "file": "0080_风间醉客.txt",
+          "title": "Will agents take over LLM training infra",
+          "about": "Asks if training-infra work will be automated. Li Mu: agents already handle simple daily work; whole infrastructure design is still beyond them.",
+          "source": "0080_风间醉客_14002796.txt",
+          "question": "请问您认为LLM训练infra的工作在未来会趋向于被越来越强的AI覆盖掉，还是会反而更依赖人类工程师呢？",
+          "authorReplies": [
+            "一些简单日常工作，agent真的干的挺好的。但整个infrastructure的设计啊，这一块AI目前还不行吧"
+          ]
+        },
+        {
+          "dialogId": "0092",
+          "asker": "X",
+          "file": "0092_X.txt",
+          "title": "Is an AI compiler worth learning",
+          "about": "Asks if AI compilers are worth the time. Li Mu: it is niche, few teams, and worthwhile if you can find one of those teams.",
+          "source": "0092_X_0b018d02.txt",
+          "question": "沐神你好，请问ai compiler是否是一个值得投入精力学习的方向，以及学习重点应该是什么。感谢",
+          "authorReplies": [
+            "这个是一个偏小众的方向，做的团队不多吧。如果你能找到合适的团队，还是挺有意义的。"
+          ]
+        },
+        {
+          "dialogId": "0657",
+          "asker": "silence",
+          "file": "0657_silence.txt",
+          "title": "Will AI replace chip designers",
+          "about": "Chip-design worry about self-iterating EDA. Li Mu: basic grunt work will go; how far into senior roles is unclear.",
+          "source": "0657_silence_0a01d82c.txt",
+          "question": "芯片设计行业多久会被ai替代呢？目前看到很多公司在做EDA工具的ai自迭代，忧虑颇深。",
+          "authorReplies": [
+            "一些基础的体力活，肯定是被干掉了。但是能够干到多senior的岗位，目前还不清楚吧？"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-learning",
+      "title": "Learning AI",
+      "description": "How to start, non-CS paths, paper-reading videos, and whether it is too late.",
+      "count": 8,
+      "threads": [
+        {
+          "dialogId": "0004",
+          "asker": "做游戏的momo",
+          "file": "0004_做游戏的momo.txt",
+          "title": "Will the paper-reading series come back",
+          "about": "Fans ask for the old paper-reading videos. Li Mu has not decided the format, because AI has changed what a paper series should even look like.",
+          "source": "0004_做游戏的momo_0b015646.txt",
+          "question": "老师还会更新论文精读系列嘛[举手R]",
+          "authorReplies": [
+            "还没想好，在AI能力那么强的情况下，这个系列应该长什么样子？"
+          ]
+        },
+        {
+          "dialogId": "0018",
+          "asker": "Placeless Place🥕",
+          "file": "0018_Placeless_Place🥕.txt",
+          "title": "When will paper club return",
+          "about": "Another request for the old paper-reading sessions. Li Mu says those videos were handmade, and he has not figured out how to make them in an AI world.",
+          "source": "0018_Placeless_Place🥕_02028ccc.txt",
+          "question": "李沐老师你的论文阅读什么时候回归啊[哭惹R]，我硕士时期必听的组会，现在读博了都好久没更新了",
+          "authorReplies": [
+            "以前都是古法做视频，还确实还没有想清楚，有了A I之后，这个怎么做？"
+          ]
+        },
+        {
+          "dialogId": "0023",
+          "asker": "R1",
+          "file": "0023_R1.txt",
+          "title": "How far non-CS students should go in AI",
+          "about": "Non-CS student wants a learning path. Li Mu's advice is short: first use AI to actually do something.",
+          "source": "0023_R1_0b01635c.txt",
+          "question": "非计算机专业的学生如果想学习AI，需要学习相关知识到什么程度呢，老师推荐什么样的学习路径呢？",
+          "authorReplies": [
+            "先用AI做点什么事情吧。"
+          ]
+        },
+        {
+          "dialogId": "0024",
+          "asker": "鱼鱼",
+          "file": "0024_鱼鱼.txt",
+          "title": "Where to start vibe coding",
+          "about": "Non-AI major wants resources for vibe coding. Same practical answer: make a project with AI.",
+          "source": "0024_鱼鱼_140323d5.txt",
+          "question": "老师！您觉得非人工智能专业的想接触Ai，vibe coding 类的技能可以从哪里学起呢（有没有推荐的资源平台[哭惹R][哭惹R][哭惹R]）谢谢老师！",
+          "authorReplies": [
+            "用AI做个项目看看？"
+          ]
+        },
+        {
+          "dialogId": "0036",
+          "asker": "越越的茶颜",
+          "file": "0036_越越的茶颜.txt",
+          "title": "Is 30 too late to go deep on AI apps",
+          "about": "A 30-year-old wants encouragement to build real AI applications. Li Mu: 40 is still in time, so 30 is fine.",
+          "source": "0036_越越的茶颜_150050b9.txt",
+          "question": "我30了还没深入，想要大家的鼓励我深入AI应用构建真实需求，可以鼓励下我吗[害羞R][飞吻R]",
+          "authorReplies": [
+            "四十岁了都来得及，三十岁我觉得没问题。"
+          ]
+        },
+        {
+          "dialogId": "0051",
+          "asker": "Folia小疯叶",
+          "file": "0051_Folia小疯叶.txt",
+          "title": "Should you still learn old neural-net basics",
+          "about": "Someone following Karpathy from scratch asks if pre-transformer material is wasted. Li Mu: learn it anyway, at least to know how the thing works.",
+          "source": "0051_Folia小疯叶_1503d6b3.txt",
+          "question": "沐神好！我最近跟着karpathy在学习从零开始搭建神经网络，还没有学到transformer架构，老师认为现在还有必要去学习数年前的技术吗？如果个人想要训练自己专属的小模型，应该从哪些方向入手实践？",
+          "authorReplies": [
+            "我觉得学习还是有必要的，至少自己要理解这个后面是怎么工作的。"
+          ]
+        },
+        {
+          "dialogId": "0093",
+          "asker": "阿初数卷卷",
+          "file": "0093_阿初数卷卷.txt",
+          "title": "How a humanities teacher should use AI",
+          "about": "An economics-trained math teacher wants finance/quant skills and asks if they must code. Li Mu's method: pick a topic a day and ask AI twenty questions.",
+          "source": "0093_阿初数卷卷_0b017cc3.txt",
+          "question": "大神您好:恳请您回答一个文科生该如何面对未来不确定的一切，AI可以取代一切，请问文科生（本人经济学专业，目前是中学数学老师，非全mba）想要学习金融相关领域，想要深耕量化分析，该如何利用ai？又该如何拥有自己的核心竞争力？请问我需要学习编程吗？（万谢您的回复，谢谢您[合十R][飞吻R][合十R]）",
+          "authorReplies": [
+            "我觉得可以试试，每天找一个topic，然后跟AI问二十个问题。"
+          ]
+        },
+        {
+          "dialogId": "0986",
+          "asker": "Momo",
+          "file": "0986_Momo.txt",
+          "title": "Please keep lecturing papers",
+          "about": "Asks him to keep explaining papers. Li Mu: AI has hit paper talks so hard that he has not figured out a new format.",
+          "source": "0986_Momo_15003f20.txt",
+          "question": "老师还继续讲解paper吧",
+          "authorReplies": [
+            "AI 对于讲 paper 的冲击太大了，我还没想清楚，新的讲的形式要怎么样？"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08-applied-verticals",
+      "title": "Applied AI and verticals",
+      "description": "Industry apps, startups, recsys, medical, translation, SFT, AI4Science, and voice.",
+      "count": 13,
+      "threads": [
+        {
+          "dialogId": "0026",
+          "asker": "Haon",
+          "file": "0026_Haon.txt",
+          "title": "Is medical imaging a real AI need",
+          "about": "Asks if medical-image AI is real demand or hype, especially in China. Li Mu thinks imaging is already mature enough to match doctors, and the frontier has moved toward broader diagnosis.",
+          "source": "0026_Haon_14003684.txt",
+          "question": "沐神来报道啦。 我是B站来的。我想问个问题，AI医疗影像分析这块，是不是真的落地需求，还是伪的（虽然我认为是真需求，就是还存在很多问题）。至少国内这块很艰难。",
+          "authorReplies": [
+            "医疗影像应该成熟了吧？现在现有的技术应该做跟医生差不多了。我之前听说是，现在是往更多的诊断去了。"
+          ]
+        },
+        {
+          "dialogId": "0039",
+          "asker": "搜广推大模型随机打杂",
+          "file": "0039_搜广推大模型随机打杂.txt",
+          "title": "LLMs plus recommendation systems",
+          "about": "Asks about large models in recsys. Li Mu says both replacing the rec-model backbone with an LM and doing recommendation purely with language models already have successful apps.",
+          "source": "0039_搜广推大模型随机打杂_0202bb75.txt",
+          "question": "如何看待大模型+推荐系统的未来呢",
+          "authorReplies": [
+            "现在用语言模型，不管是替换掉推荐模型的底座，还是纯基于语言模型推荐这一块，都有很成功的应用。"
+          ]
+        },
+        {
+          "dialogId": "0048",
+          "asker": "岛屿",
+          "file": "0048_岛屿.txt",
+          "title": "AI for science after AlphaFold",
+          "about": "Asks about AI4Science, molecules, AIDD. Li Mu is optimistic but says infrastructure lags: AlphaFold had data and easy verification, which most science problems do not.",
+          "source": "0048_岛屿_0202b44b.txt",
+          "question": "沐老师如何看待ai4science[黄金薯R]之前看过老师讲解alphafold的technical report的视频，之后感觉就很少聊到了！好奇老师的想法！！（包括但不限于分子设计、AIDD .etc）",
+          "authorReplies": [
+            "这个我觉得挺有前途的，但是整体来讲，应该是基础建设还没有跟上。那AlphaFold是因为整个数据，而且整个任务相对来说可验证性都容易一点，但是Science很多其他方向，整个基础建设啊，以及说对一个成果的verification都没那么容易。"
+          ]
+        },
+        {
+          "dialogId": "0050",
+          "asker": "港股小韭菜",
+          "file": "0050_港股小韭菜.txt",
+          "title": "Is business SFT a dead end",
+          "about": "An applied algorithm engineer fears foundation models and researchers will erase SFT work. Li Mu: business SFT is still useful, but SFT itself will not be the moat; business understanding and model-to-business fit will.",
+          "source": "0050_港股小韭菜_0a024f9e.txt",
+          "question": "对于做不了基础模型的算法工程师来说，做业务场景的SFT是不是已经没有出路了，一方面基础模型越来越强，推理速度越来越快，一方面AI研究员直接帮你训练了，那这些算法工程师的出路在哪里？做Agent的核心竞争力是什么？",
+          "authorReplies": [
+            "我觉得业务场景的SFT是没什么问题的，这个也是挺实用的一个技术。但很有可能是SFT本身不会是一个门槛，更多是对整个业务的理解，以及整个模型跟业务的结合。"
+          ]
+        },
+        {
+          "dialogId": "0053",
+          "asker": "让大家更好地认识你",
+          "file": "0053_让大家更好地认识你.txt",
+          "title": "Polish a vibe-coded product or validate demand",
+          "about": "A solo builder has a buggy AI notes app and does not know whether to spend months polishing. Li Mu: first show it to friends and see if they can actually use it.",
+          "source": "0053_让大家更好地认识你_150000bd.txt",
+          "question": "大佬好！请教一下：我前段时间参赛锻炼，成果是用 vibe coding 做了一个 AI 笔记记录和分类工具，我自己用还行，但 bug 多、界面粗糙，普通用户上手也有门槛。我现在很纠结：如果要打磨到普通人能用的程度，可能要花几个月重构 + 改进交互；但如果搞好了也没人用，这几个月就白花了。同时，我也没有推广经验，不确定怎么去验证真实需求。作为一个 solo 开发者，有限的精力应该优先拿来验证\"这东西值不值得做\"，还是先沉下心把产品打磨到能用的水平？在方向不确定的情况下，什么信号说明该继续，什么信号说明该换方向呢？对于这个项目我现在拿着不知道怎么办了。感谢~",
+          "authorReplies": [
+            "先找朋友看看，他们能不能用得起来吧。"
+          ]
+        },
+        {
+          "dialogId": "0059",
+          "asker": "姑且是与堇",
+          "file": "0059_姑且是与堇.txt",
+          "title": "Will AI translation replace humans",
+          "about": "Asks about AI translation, including messy real-world multimodal/low-latency cases. Li Mu: AI translation can replace about 99% of human work.",
+          "source": "0059_姑且是与堇_15006d9f.txt",
+          "question": "老师您好！五年前我就是看了您的视频开始了AI生涯。想请教一下老师看好AI翻译这一领域吗？文本翻译是LLM的得意领域，但生活化场景的翻译又带来了多模态和低延时等挑战。在老师看来，随着模型能力的发展，AI最终能够做到帮助全人类跨越语言障碍吗？",
+          "authorReplies": [
+            "我觉得AI翻译肯定是能够替99%替代人的。"
+          ]
+        },
+        {
+          "dialogId": "0098",
+          "asker": "芒格很忙",
+          "file": "0098_芒格很忙.txt",
+          "title": "How much AI a founder needs",
+          "about": "Asks how much AI a founder must know, and where startups fit if models are general. Li Mu analogizes to cloud ten years ago: AI is now a basic skill, do not compete with the model's mainline, use it to enable other things.",
+          "source": "0098_芒格很忙_01008fe9.txt",
+          "question": "想问李老师创业者需要懂多少AI技术？大模型近乎全能的当下，初创公司的机会在哪里？",
+          "authorReplies": [
+            "就跟十年前创业一定要使用云一样的，目前AI算一个基本技能吧。确实，现在模型能做的主方向，没必要去跟它compete的，就跟十年前不用去跟云的主方向compete一样。但除此之外，它是赋能了更多的东西。"
+          ]
+        },
+        {
+          "dialogId": "0676",
+          "asker": "LoRA",
+          "file": "0676_LoRA.txt",
+          "title": "Search, ads, and recommendation after AI",
+          "about": "Asks where search/ads/rec go next. Li Mu: first swap models to transformers; language models doing recsys themselves are also promising.",
+          "source": "0676_LoRA_1402e0be.txt",
+          "question": "AI推动下，搜推广下一步会走向何方呢",
+          "authorReplies": [
+            "先把模型都换成transformer吧，另外一块，语言模型本身做搜广推也挺好的。"
+          ]
+        },
+        {
+          "dialogId": "0757",
+          "asker": "Jay",
+          "file": "0757_Jay.txt",
+          "title": "Do vertical models still have a chance",
+          "about": "Worries the next foundation-model version will eat any vertical business, including earth science. Li Mu: verticals still have room because the product is not a raw model, it is industry integration and supporting systems.",
+          "source": "0757_Jay_1500b252.txt",
+          "question": "老师您好，请问您觉得垂直端还有机会吗？基模越来越强，垂直端走出一个盈利模式，基模下一个版本就可以覆盖。另外，您觉得(earth) science有盈利机会吗？而且大多都是public data，似乎没啥壁垒，同时在思考非to C业务怎么赚钱，或者直接转行[笑哭R]",
+          "authorReplies": [
+            "我觉得垂类机会还挺多的，因为它不仅仅是一个模型裸的能力，还有一整套的配套设施跟行业的一个垂直的整合。"
+          ]
+        },
+        {
+          "dialogId": "0786",
+          "asker": "Getsum",
+          "file": "0786_Getsum.txt",
+          "title": "Speech as a future interface",
+          "about": "Asks about the speech field. Li Mu: Boson works on speech, and he sees it as a natural channel between people and agents.",
+          "source": "0786_Getsum_0100a1b0.txt",
+          "question": "老师如何看待语音这一个方向，老师觉得未来发展和热点会怎么样[微笑R]",
+          "authorReplies": [
+            "那我们创业公司有做语音这一块，我觉得是人与agent的交流的一个很自然的通道。"
+          ]
+        },
+        {
+          "dialogId": "0789",
+          "asker": "木子北田共",
+          "file": "0789_木子北田共.txt",
+          "title": "Survival of vertical small models",
+          "about": "Asks if small vertical models survive against general models on cost. Li Mu: the model itself may be removed; the remaining value is supporting systems and industry integration.",
+          "source": "0789_木子北田共_14033086.txt",
+          "question": "请问垂直小模型在中长期的生存空间如何？ 还是O A模型长期都吃掉，且成本占优",
+          "authorReplies": [
+            "我觉得model本身应该会被去掉吧，但是确实，在垂直不是模型本身，还是有整个配套设施的，跟垂直行业的整合。"
+          ]
+        },
+        {
+          "dialogId": "0793",
+          "asker": "沧海",
+          "file": "0793_沧海.txt",
+          "title": "Model vendors become like cloud vendors",
+          "about": "A comment that domain specialists who build agents will not be replaced. Li Mu: model companies may end up like cloud vendors, a base intelligence utility, with lots of apps on top.",
+          "source": "0793_沧海_1403235e.txt",
+          "question": "我导出现在小红书了[派对R]  持续学习专研自己领域，给自己领域开发agent使用agent的人不会淘汰",
+          "authorReplies": [
+            "现在的AI模型厂商，可能很多年之后就跟现在的云厂商一样吧，就是一个基础智能提供商，但是上面肯定还有很多应用可以做的。"
+          ]
+        },
+        {
+          "dialogId": "0988",
+          "asker": "richard's AI4S daily",
+          "file": "0988_richard's_AI4S_daily.txt",
+          "title": "AI for science, pharma, and materials",
+          "about": "Asks if fully automatic scientific discovery is near. Li Mu: short-term efficiency gains yes; overturning pharma/materials is hard because of regulation, data cleaning, causality, capability, and interpretability.",
+          "source": "0988_richard's_AI4S_daily_0202922e.txt",
+          "question": "请问李沐老师对 ai4science 怎么看，最近几年可能会看到大规模的全自动科研成果吗，ai 在 制药和材料研发方面会发展到什么程度",
+          "authorReplies": [
+            "短期来看，肯定有一点提效的功能吧。但是想要颠覆这个行业还比较难，比如制药这一块监管啊、数据里面的各种清洗、causality的分析。模型的能力啊，可解释性啊，都还有一定的差距。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09-models-safety",
+      "title": "Models and safety",
+      "description": "Multimodal, finetuning, LLM direction, alignment, and AI safety.",
+      "count": 9,
+      "threads": [
+        {
+          "dialogId": "0019",
+          "asker": "星雲SKY",
+          "file": "0019_星雲SKY.txt",
+          "title": "Is AI safety a durable field",
+          "about": "An NLP grad student is considering AI security / harmful outputs. Li Mu is constructive: safety will keep feeding people because stronger models keep creating new safety problems.",
+          "source": "0019_星雲SKY_1402e7f5.txt",
+          "question": "李沐老师您好。我是一名在读研究生。\n请问您对“AI安全”方面的研究/工作未来的发展怎么看，持什么观点？\n我正在研究NLP，注意到普通人接触与使用LLMs的门槛正在降低，担心模型生成有害内容会成为未来一个不可忽视的问题。由此我考虑将Security作为未来的方向。\n借此机会想询问您的意见：“AI安全”未来的发展是否乐观？",
+          "authorReplies": [
+            "安全也是属于一直有饭吃的行业，挺好的。就是模型能力不断进步，所以总是带来新的安全的挑战。"
+          ]
+        },
+        {
+          "dialogId": "0042",
+          "asker": "blingbling",
+          "file": "0042_blingbling.txt",
+          "title": "LoRA finetune made a VLM worse",
+          "about": "Someone finetuned a multimodal model on hundreds/thousands of labels and got worse results. Li Mu: get more data, or switch models; some models are so over-trained that LoRA does not take well.",
+          "source": "0042_blingbling_150152f5.txt",
+          "question": "大佬！我遇到的问题是，我想微调多模态模型去做垂直领域任务，准备了几百上千条标注数据，做lora微调，但是调完效果反而差了[捂脸R]。这方面比较缺乏经验，不知道怎么才能微调好。用的llamafactory框架微调的，loss函数没有改，没有微调视觉塔，只微调了映射层等。是不是应该设计一个垂直领域loss比较好，还是需要更多数据才好？[笑哭R] 现在一头雾水。希望您能指点迷津",
+          "authorReplies": [
+            "用更多的数据，或者你换一个模型，一些模型好像可能训练的过于充分，导致做lora没那么好用。"
+          ]
+        },
+        {
+          "dialogId": "0054",
+          "asker": "momo",
+          "file": "0054_momo.txt",
+          "title": "Future of multimodal",
+          "about": "Open question on multimodal. Li Mu: it is important for human-AI interaction, but it is unclear whether it raises model intelligence, which is why some labs deprioritized it.",
+          "source": "0054_momo_15016cf6.txt",
+          "question": "沐神如何看待多模态的未来？",
+          "authorReplies": [
+            "多模态肯定是AI和人交互的一个重要的途径。但确实，多模态能不能提升模型的智商，目前是大家观点不一致。所以很好几家大厂把多模态的优先级调低了。"
+          ]
+        },
+        {
+          "dialogId": "0063",
+          "asker": "why1te",
+          "file": "0063_why1te.txt",
+          "title": "Where LLMs go next",
+          "about": "Asks the important LLM research directions. Li Mu: models running and self-improving in sandboxes, including code execution, computer use on macOS, and world models.",
+          "source": "0063_why1te_14001a93.txt",
+          "question": "想问问李老师 llm的未来 llm会往哪个方向发展 当前的哪些研究方向是您比认为比较重要的[doge]",
+          "authorReplies": [
+            "我认为，目前来看，就是模型在沙盒里面运行，自我成长。包括sandbox里执行代码、macos上compute use，已经各种新出来的世界模型里面运行。"
+          ]
+        },
+        {
+          "dialogId": "0065",
+          "asker": "小樊不烦🥕",
+          "file": "0065_小樊不烦🥕.txt",
+          "title": "Keep doing multimodal when the market wants agents",
+          "about": "Asks if multimodal is still worth it versus agents. Li Mu: multimodal is fine, because humans and agents interact through it.",
+          "source": "0065_小樊不烦🥕_02013762.txt",
+          "question": "沐神，请问您如何看待未来多模态的发展趋势？目前市场更倾向agent，还要继续坚持做多模态吗",
+          "authorReplies": [
+            "我觉得多模态没问题啊，人和agent的交互，是靠多模态。"
+          ]
+        },
+        {
+          "dialogId": "0072",
+          "asker": "小红薯6768CFA6",
+          "file": "0072_小红薯6768CFA6.txt",
+          "title": "Will alignment drift away from practice",
+          "about": "Asks how to think about alignment as models get stronger. Li Mu's feel: recent alignment work is mostly raising IQ, and the resulting reports are already hard for humans to read.",
+          "source": "0072_小红薯6768CFA6_0a026cf8.txt",
+          "question": "沐神怎么看未来AI能力越来越强之后，alignment的研究是否会某种程度上脱离实际，我们可以用什么心态来准备",
+          "authorReplies": [
+            "我的体感也是，最近几代模型的更新，它的alignment都是提升智商，所以它出的那些报告啊，人基本不太看得懂。"
+          ]
+        },
+        {
+          "dialogId": "0074",
+          "asker": "momo",
+          "file": "0074_momo.txt",
+          "title": "Are VLMs in a trough versus VLA",
+          "about": "Fall recruiting seemed to ignore VLMs; asks if VLA is the better bet. Li Mu: from a practical angle vision is still heavily used in human-agent interaction.",
+          "source": "0074_momo_15015389.txt",
+          "question": "沐神你好，请问 vlm 现在看来是不是已经进入局部低谷了呢，今年的秋招看起来工业界完全不需要这块，是否 vla 会更值得探索呢",
+          "authorReplies": [
+            "实用角度来讲，还挺多的吧？人与agent的交互之间，用vision还是挺多的。"
+          ]
+        },
+        {
+          "dialogId": "1003",
+          "asker": "想想就想睡觉",
+          "file": "1003_想想就想睡觉.txt",
+          "title": "Is multimodal only a perception add-on",
+          "about": "Asks if multimodal is doomed to be a sidekick of AGI. Li Mu: it is needed for human-agent interaction; there is not much evidence it raises intelligence.",
+          "source": "1003_想想就想睡觉_0b007ebe.txt",
+          "question": "沐神觉得多模态真的只能是AGI的下属感知组件了吗，只能是路边一条了嘛？[哭惹R]",
+          "authorReplies": [
+            "从实用角度来看，人和agent的之间的交互是需要多模态的。但是不是能够帮助模型提升智商，这个目前没有太多证据。"
+          ]
+        },
+        {
+          "dialogId": "1094",
+          "asker": "yw5aj",
+          "file": "1094_yw5aj.txt",
+          "title": "Capabilities versus alignment / safety",
+          "about": "Asks how to balance capability and safety. Li Mu is pessimistic: this is still a race for intelligence, safety work gets obsoleted by the next smarter model, and it often hurts user experience.",
+          "source": "1094_yw5aj_0d023401.txt",
+          "question": "请问您怎么看待capabilities 和alignment/safety的关系/平衡？",
+          "authorReplies": [
+            "这个我就比较悲观，因为目前还是一个追求智能的年代。安全性的东西， 一方面容易被模型智能迭代所淘汰，第二方面，确实跟用户体验是有一定的影响"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10-misc",
+      "title": "Misc",
+      "description": "Jokes, one-liners, housing, liability, and comments that do not fit elsewhere.",
+      "count": 6,
+      "threads": [
+        {
+          "dialogId": "0047",
+          "asker": "momo",
+          "file": "0047_momo.txt",
+          "title": "When AGI arrives and whether to coast",
+          "about": "A mix of AGI timelines, how a big-tech worker should invest, and whether to stop learning. Li Mu does not give a date; he trusts human adaptability, and that people will still find something to do.",
+          "source": "0047_momo_0b01252c.txt",
+          "question": "沐神，非常感谢你在b站的视频，是你3年老粉了[笑哭R] 想问下沐神如何看agi呢？比如agi 多久会到来(1年？)，agi 来之前，作为工作两年的大厂打工人应该做什么？(技术和资产上的投资) agi 来之后呢？ 另外，沐神如何看待 ，xx 现在不学，再过3个月也不用学了的现象？应该适当躺平，享受生活了吗？[捂脸R]",
+          "authorReplies": [
+            "我比较相信人的对环境的适应性吧。就算A G I来了，人总是能找到自己能做的事情。"
+          ]
+        },
+        {
+          "dialogId": "0058",
+          "asker": "丰丰不焦虑",
+          "file": "0058_丰丰不焦虑.txt",
+          "title": "Is this the fake Li Mu",
+          "about": "A joke that the account is fake. Li Mu just laughs.",
+          "source": "0058_丰丰不焦虑_15020ca2.txt",
+          "question": "这是假的沐神吧[doge]",
+          "authorReplies": [
+            "哈哈哈"
+          ]
+        },
+        {
+          "dialogId": "0087",
+          "asker": "侯母",
+          "file": "0087_侯母.txt",
+          "title": "Nostalgia for paper videos",
+          "about": "A fan notes they now chat with AI about papers instead of watching Li Mu. Li Mu laughs. No technical claim.",
+          "source": "0087_侯母_14000e74.txt",
+          "question": "怀念当初b站听你讲论文的时光，现在一般的论文都是丢给AI沟通[捂脸R]",
+          "authorReplies": [
+            "哈哈哈"
+          ]
+        },
+        {
+          "dialogId": "0091",
+          "asker": "碗团",
+          "file": "0091_碗团.txt",
+          "title": "School-district housing if AI equalizes education",
+          "about": "Jokes that school-district apartments are a bad buy if AI democratizes teaching. Li Mu: good education is still scarce, so those homes may still make sense.",
+          "source": "0091_碗团_1402d6c0.txt",
+          "question": "ai普惠教育，买学区房岂不是亏死了",
+          "authorReplies": [
+            "好的教育资源总是稀缺吧，学区房可能还是有存在的必要的。"
+          ]
+        },
+        {
+          "dialogId": "0099",
+          "asker": "吹水的咸鱼",
+          "file": "0099_吹水的咸鱼.txt",
+          "title": "When AI can sign and take liability",
+          "about": "A one-liner about AI taking legal responsibility. Li Mu: insurers may create new products around that.",
+          "source": "0099_吹水的咸鱼_0f02efce.txt",
+          "question": "ai什么时候可以签字担责就好了[doge]",
+          "authorReplies": [
+            "很有可能保险公司会做新业务吧。"
+          ]
+        },
+        {
+          "dialogId": "1097",
+          "asker": "NEED",
+          "file": "1097_NEED.txt",
+          "title": "Just saying his name",
+          "about": "The comment is only '沐神'. Li Mu replies 'hhh'. No topic content.",
+          "source": "1097_NEED_01008ce3.txt",
+          "question": "沐神",
+          "authorReplies": [
+            "hhh"
+          ]
+        }
+      ]
+    }
+  ]
+}

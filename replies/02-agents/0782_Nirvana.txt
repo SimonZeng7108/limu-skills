@@ -1,0 +1,16 @@
+Topic: Agents
+Category: 02-agents
+Dialog: 0782
+Asker: Nirvana
+Comment ID: 6a9f906f000000001500d329
+Source: comments/0782_Nirvana_1500d329.txt
+Title: Will consumer agents have a GPT moment
+
+About
+Asks about toC agents and a Manus-style GPT moment. Li Mu: yes there will be hits (Manus, 'crayfish'), but their follow-on impact is smaller than GPT.
+
+Question
+沐神，请教下对于toC agent的看法。真的会有属于toC agent的gpt时刻吗？
+
+Li Mu
+会有吧。不管是Manus，小龙虾，都是现象级的。但可能跟GPT不一样，这些的后续影响力没有他大。

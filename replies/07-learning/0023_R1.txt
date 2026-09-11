@@ -1,0 +1,16 @@
+Topic: Learning AI
+Category: 07-learning
+Dialog: 0023
+Asker: R1
+Comment ID: 6aa00412000000000b01635c
+Source: comments/0023_R1_0b01635c.txt
+Title: How far non-CS students should go in AI
+
+About
+Non-CS student wants a learning path. Li Mu's advice is short: first use AI to actually do something.
+
+Question
+非计算机专业的学生如果想学习AI，需要学习相关知识到什么程度呢，老师推荐什么样的学习路径呢？
+
+Li Mu
+先用AI做点什么事情吧。

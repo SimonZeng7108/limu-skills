@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0197
+Asker: 111
+Comment ID: 6aa02a1c000000000b01dfc0
+Source: comments/0197_111_0b01dfc0.txt
+Title: What an AI application engineer must own in two years
+
+About
+Panic about AI coding: what the market will want later. Li Mu will not forecast two years, but today's signal is people who can own a large chunk of work, now with a pile of agents instead of a 5-10 person team.
+
+Question
+沐神，你觉得两年之后市场上真正需要的ai应用工程师会是什么样的，现在用aicoding越用越慌，不知道往哪走[哭惹R]
+
+Li Mu
+两年之后比较难说，因为技术发展太快，但今天能看到的是，需要的是能够负责一大块东西的人。以前是这样的人带一个五到十人的小团队去完成，现在可能就变成一个人带着一堆Agent去完成了。

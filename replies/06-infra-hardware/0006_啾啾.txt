@@ -1,0 +1,16 @@
+Topic: Infra and hardware
+Category: 06-infra-hardware
+Dialog: 0006
+Asker: 啾啾
+Comment ID: 6a9f8243000000000a01f1dc
+Source: comments/0006_啾啾_0a01f1dc.txt
+Title: Is on-device AI a real need
+
+About
+Asks if edge / on-device AI is a real demand. Li Mu used to believe in it, was proven wrong by the deep-learning wave, sees some short-term use while GPUs are expensive (for example Mac Mini), and thinks the long-term need stays niche.
+
+Question
+老师您好，您认为未来端侧ai是否是真实需求呢
+
+Li Mu
+十年前，我很相信端侧，但深度学习那一波一直是在打脸。目前短期来看，因为GPU的价格走高，所以导致说端侧上应该会有一些应用吧，比如说在Mac Mini上跑些模型。但长期来看，我认为还是一个比较小众的需求。

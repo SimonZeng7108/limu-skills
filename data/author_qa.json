@@ -1,0 +1,1364 @@
+[
+  {
+    "file": "0001_zzzzzz睡觉中勿扰_1500f05d.txt",
+    "dialogId": "0001",
+    "commentId": "6a9f7be9000000001500f05d",
+    "asker": "zzzzzz睡觉中勿扰",
+    "question": "啊啊啊啊啊啊啊啊啊啊！！ 在code agent普遍落地的时候 对于程序员来说 最重要的技能是什么？ 是不把code当做自己的能力 更深入的理解 业务 技术 底层的赚钱逻辑吗",
+    "author_replies": [
+      {
+        "content": "tech leader的能力吧，目前干掉了是基础的代码实现、review、运行。但tech leader干的活不止是这些",
+        "replyTo": "zzzzzz睡觉中勿扰"
+      }
+    ],
+    "replyCount": 39
+  },
+  {
+    "file": "0002_藤🌿📷_1402c469.txt",
+    "dialogId": "0002",
+    "commentId": "6a9f8f70000000001402c469",
+    "asker": "藤🌿📷",
+    "question": "您觉得具身领域会是泡沫吗？未来的具身行业是否可能真正落地并发展？[萌萌哒R]",
+    "author_replies": [
+      {
+        "content": "短期看，肯定是有泡沫的。但这是一个自然的方向，因为A I做了白领的工作之后，就是要做蓝领的工作。但确实说具体什么时候能够落地，真正的发展起来，很有可能也是一个漫长的时间。就像无人驾驶，花了多少时间？",
+        "replyTo": "藤🌿📷"
+      }
+    ],
+    "replyCount": 33
+  },
+  {
+    "file": "0003_少华从文_1503f640.txt",
+    "dialogId": "0003",
+    "commentId": "6a9f83b8000000001503f640",
+    "asker": "少华从文",
+    "question": "替我导师问个问题，现在的学生还需要老师做哪些指导？ 导师还需要学生做什么工作？ 学生效率会不会低于与agent的合作效率",
+    "author_replies": [
+      {
+        "content": "学生跟导师打杂的时代应该过去了。应该把学生看成independent researcher，学生能够带着agent独立完成工作。导师只要给一些更高level的指导就行了。",
+        "replyTo": "少华从文"
+      }
+    ],
+    "replyCount": 30
+  },
+  {
+    "file": "0004_做游戏的momo_0b015646.txt",
+    "dialogId": "0004",
+    "commentId": "6a9f8325000000000b015646",
+    "asker": "做游戏的momo",
+    "question": "老师还会更新论文精读系列嘛[举手R]",
+    "author_replies": [
+      {
+        "content": "还没想好，在AI能力那么强的情况下，这个系列应该长什么样子？",
+        "replyTo": "做游戏的momo"
+      }
+    ],
+    "replyCount": 16
+  },
+  {
+    "file": "0006_啾啾_0a01f1dc.txt",
+    "dialogId": "0006",
+    "commentId": "6a9f8243000000000a01f1dc",
+    "asker": "啾啾",
+    "question": "老师您好，您认为未来端侧ai是否是真实需求呢",
+    "author_replies": [
+      {
+        "content": "十年前，我很相信端侧，但深度学习那一波一直是在打脸。目前短期来看，因为GPU的价格走高，所以导致说端侧上应该会有一些应用吧，比如说在Mac Mini上跑些模型。但长期来看，我认为还是一个比较小众的需求。",
+        "replyTo": "啾啾"
+      }
+    ],
+    "replyCount": 20
+  },
+  {
+    "file": "0008_江南_0a027067.txt",
+    "dialogId": "0008",
+    "commentId": "6aa0a2a6000000000a027067",
+    "asker": "江南",
+    "question": "沐神好[哇R]我目前是CS本科生，在一个做具身智能的组里干活，但我发现自己做任务的时候特别依赖AI，经常是跟Codex和GPT网页端换着聊，GPT给方案，Codex负责执行。我大部分时间都是在努力理解GPT给出的思路，偶尔能看出它有点绕远路，但基本做不到主动去“引导”AI朝某个方向走。这让我感觉自己没起到真正做研究的作用，像仙家对话中那个中间传话的[完啦R]，为此挺迷茫也挺挫败的。想问问沐神怎么看待这种情况？本科生在科研起步阶段，面对这种高度依赖AI的状态，应该怎么调整呢",
+    "author_replies": [
+      {
+        "content": "我觉得不是问题吧，就是你这一块不算熟嘛。你做深一点之后，知道哪些方案Agent试过，哪些work哪些不work，踩过坑了，你自然会在一块会理解深一些",
+        "replyTo": "江南"
+      }
+    ],
+    "replyCount": 6
+  },
+  {
+    "file": "0010_DJ使我平静_0f0319b7.txt",
+    "dialogId": "0010",
+    "commentId": "6a9f7db0000000000f0319b7",
+    "asker": "DJ使我平静",
+    "question": "硬实力差距因为 agent 缩小，软实力相对价值被放大。执行力，社交能力，分层的逻辑能力，变得尤为重要，本质上什么能力能让人更快的发现问题和分解问题，什么能力就重要，而具体的细节知识 agent 比人强没必要去肌肉碰钢铁。沐哥你觉得呢[doge]",
+    "author_replies": [
+      {
+        "content": "agent是能力放大器，就是能力x10，而不是加法器，不是能力+10",
+        "replyTo": "DJ使我平静"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0012_ZY_0a01f139.txt",
+    "dialogId": "0012",
+    "commentId": "6a9f83ce000000000a01f139",
+    "asker": "ZY",
+    "question": "沐老师，llm会吞噬掉哪些harness，harness有哪些不可替代，二者边界会在哪里",
+    "author_replies": [
+      {
+        "content": "我的看法是，目前harness里面有效的东西，下一代模型应该会被吞掉，但是下一代模型可能又出现一些需要新的harness的地方。",
+        "replyTo": "ZY"
+      },
+      {
+        "content": "应该会，但那个时候大家就不关注这块了",
+        "replyTo": "ZY"
+      }
+    ],
+    "replyCount": 12
+  },
+  {
+    "file": "0014_小红薯67D3A2E2_1303f8b2.txt",
+    "dialogId": "0014",
+    "commentId": "6a9f9459000000001303f8b2",
+    "asker": "小红薯67D3A2E2",
+    "question": "老师，看着您的动手深度学习入坑科研，进而读完了硕士。现在的环境，您推荐读博士吗？如果仅仅是传统cv方向的博士，是不是已然过时了，需不需要选择目前较为热门的方向例如具身智能（但这方向的导师又很少，没有硬件功底，纯软不太好申呀），llm会更好呢。",
+    "author_replies": [
+      {
+        "content": "现在的一个困境是说，之前做一个研究，从头到尾做，人学到了东西很多。现在很多时候你让agent做，结果上来讲他做的也不差，但是人学到东西变少了。所以，博士期间要干什么事情，这个是目前不是那么明确。",
+        "replyTo": "小红薯67D3A2E2"
+      }
+    ],
+    "replyCount": 5
+  },
+  {
+    "file": "0016_贝林满满满_15015d0c.txt",
+    "dialogId": "0016",
+    "commentId": "6aa0a6560000000015015d0c",
+    "asker": "贝林满满满",
+    "question": "李老师，我是一个在做端侧具身算法的小菜鸡研究生，这两天看到astra6已经可以直接操纵机械臂来执行任务了，这是不是说明现有的vla和wam已经没那么大研究的价值了?llm的力大砖飞未来就能解决具身的任务[皱眉R]",
+    "author_replies": [
+      {
+        "content": "目前还是demo级别吧。这一块的效果，实时性，成本是不是够用，那还得再看一看。",
+        "replyTo": "贝林满满满"
+      }
+    ],
+    "replyCount": 8
+  },
+  {
+    "file": "0018_Placeless_Place🥕_02028ccc.txt",
+    "dialogId": "0018",
+    "commentId": "6a9f86f90000000002028ccc",
+    "asker": "Placeless Place🥕",
+    "question": "李沐老师你的论文阅读什么时候回归啊[哭惹R]，我硕士时期必听的组会，现在读博了都好久没更新了",
+    "author_replies": [
+      {
+        "content": "以前都是古法做视频，还确实还没有想清楚，有了A I之后，这个怎么做？",
+        "replyTo": "Placeless Place🥕"
+      }
+    ],
+    "replyCount": 10
+  },
+  {
+    "file": "0019_星雲SKY_1402e7f5.txt",
+    "dialogId": "0019",
+    "commentId": "6aa011d1000000001402e7f5",
+    "asker": "星雲SKY",
+    "question": "李沐老师您好。我是一名在读研究生。\n请问您对“AI安全”方面的研究/工作未来的发展怎么看，持什么观点？\n我正在研究NLP，注意到普通人接触与使用LLMs的门槛正在降低，担心模型生成有害内容会成为未来一个不可忽视的问题。由此我考虑将Security作为未来的方向。\n借此机会想询问您的意见：“AI安全”未来的发展是否乐观？",
+    "author_replies": [
+      {
+        "content": "安全也是属于一直有饭吃的行业，挺好的。就是模型能力不断进步，所以总是带来新的安全的挑战。",
+        "replyTo": "星雲SKY"
+      }
+    ],
+    "replyCount": 4
+  },
+  {
+    "file": "0022_喜羊羊我一定会回来的_0a01e9dc.txt",
+    "dialogId": "0022",
+    "commentId": "6aa0130b000000000a01e9dc",
+    "asker": "喜羊羊我一定会回来的",
+    "question": "老师，在AI的发展下您觉得底层人这种没有学历、没有人脉、只能干苦工的人，以后能靠什么养活自己？",
+    "author_replies": [
+      {
+        "content": "我觉得服务行业是不太会被替代掉。未来机器人也许能力够，但是是不是提供了同样的情绪价值，这个还不清楚。",
+        "replyTo": "喜羊羊我一定会回来的"
+      }
+    ],
+    "replyCount": 8
+  },
+  {
+    "file": "0023_R1_0b01635c.txt",
+    "dialogId": "0023",
+    "commentId": "6aa00412000000000b01635c",
+    "asker": "R1",
+    "question": "非计算机专业的学生如果想学习AI，需要学习相关知识到什么程度呢，老师推荐什么样的学习路径呢？",
+    "author_replies": [
+      {
+        "content": "先用AI做点什么事情吧。",
+        "replyTo": "R1"
+      }
+    ],
+    "replyCount": 6
+  },
+  {
+    "file": "0024_鱼鱼_140323d5.txt",
+    "dialogId": "0024",
+    "commentId": "6a9fe5bd00000000140323d5",
+    "asker": "鱼鱼",
+    "question": "老师！您觉得非人工智能专业的想接触Ai，vibe coding 类的技能可以从哪里学起呢（有没有推荐的资源平台[哭惹R][哭惹R][哭惹R]）谢谢老师！",
+    "author_replies": [
+      {
+        "content": "用AI做个项目看看？",
+        "replyTo": "鱼鱼"
+      }
+    ],
+    "replyCount": 9
+  },
+  {
+    "file": "0025_Alan_0b015e9a.txt",
+    "dialogId": "0025",
+    "commentId": "6a9f973b000000000b015e9a",
+    "asker": "Alan",
+    "question": "请问老师，现在对于底层知识的学习还重要吗？[笑哭R]",
+    "author_replies": [
+      {
+        "content": "我觉得还是要的。我用agent干，我不是很懂的东西，都干出来不太行。",
+        "replyTo": "Alan"
+      }
+    ],
+    "replyCount": 4
+  },
+  {
+    "file": "0026_Haon_14003684.txt",
+    "dialogId": "0026",
+    "commentId": "6a9fc0cd0000000014003684",
+    "asker": "Haon",
+    "question": "沐神来报道啦。 我是B站来的。我想问个问题，AI医疗影像分析这块，是不是真的落地需求，还是伪的（虽然我认为是真需求，就是还存在很多问题）。至少国内这块很艰难。",
+    "author_replies": [
+      {
+        "content": "医疗影像应该成熟了吧？现在现有的技术应该做跟医生差不多了。我之前听说是，现在是往更多的诊断去了。",
+        "replyTo": "Haon"
+      }
+    ],
+    "replyCount": 5
+  },
+  {
+    "file": "0027_爱吃🐏的兔子_0200f60c.txt",
+    "dialogId": "0027",
+    "commentId": "6a9f9602000000000200f60c",
+    "asker": "爱吃🐏的兔子",
+    "question": "沐神，Agent和具身，近3-5年，您觉得哪个方向目前泡沫更少、更值得踏实投入？不论是做研究还是做产品[派对R]",
+    "author_replies": [
+      {
+        "content": "我觉得两个方向目前看都挺好的，可能以你是不是自己更喜欢一个，另外，是不是能找到一个比较好的团队加入",
+        "replyTo": "爱吃🐏的兔子"
+      }
+    ],
+    "replyCount": 7
+  },
+  {
+    "file": "0029_阿机在coding_1403bd5a.txt",
+    "dialogId": "0029",
+    "commentId": "6a9f8353000000001403bd5a",
+    "asker": "阿机在coding",
+    "question": "沐神，我也想问现在还要不要学编程。刚读研，可以全程用ai做项目了，根本用不上我那羸弱的编程能力，我还需要去训练编程吗？[哭惹R][哭惹R][哭惹R]",
+    "author_replies": [
+      {
+        "content": "目前来看，编程还是要学的。你可以不用写代码，但是得review代码，至少能够看得懂AI写的代码在干嘛。",
+        "replyTo": "阿机在coding"
+      }
+    ],
+    "replyCount": 6
+  },
+  {
+    "file": "0030_灵儿Chili_1500d1bc.txt",
+    "dialogId": "0030",
+    "commentId": "6a9f8b22000000001500d1bc",
+    "asker": "灵儿Chili",
+    "question": "沐神，想转工作方向，AI这方向现在还缺AI Infra的开发人员吗，以及AI算法岗和AI Agent岗位哪个缺口更大呢？我现在参加工作了，还有可能成为AI研究人员吗？感觉自己脑子里想法太多好迷茫[哭惹R]",
+    "author_replies": [
+      {
+        "content": "agent这一块偏应用一点，肯定工作岗位更多。infra和算法呢，相对来说，可能需有需求的公司会少一些，但门槛也高一些。",
+        "replyTo": "灵儿Chili"
+      }
+    ],
+    "replyCount": 9
+  },
+  {
+    "file": "0031_祝无梦_0100b5c7.txt",
+    "dialogId": "0031",
+    "commentId": "6aa02ec9000000000100b5c7",
+    "asker": "祝无梦",
+    "question": "李老师好，我是一个国内双非本科就读人工智能专业的学生，现如今在一家机器人公司内实习，在此期间深刻感受到了就业市场在ai技术岗的学历要求，因此有点焦虑是否自己对未来自己的岗位定位的期望过高，我的学历是否还能不能支撑我进入这个行业。我在整个大学期间的专业学习都高度依赖ai，三年过去觉得自己好像什么都没学到，进入真正工作上对自己的定位也无所适从，觉得如果自己所有工作都使用ai，那是否这个岗位换了谁都可以干，作为没有学历优势在技术上也没有很深度理解的预备役牛马，应该把自己放在一个什么样的生态位，在ai帮我完成项目的同时我应该把学习方向放在哪，我应该把自己的重点放在哪里",
+    "author_replies": [
+      {
+        "content": "我觉得学历可能不是最关键的，越到职业的后期，学历可能越没那么重要。但如果你都觉得自己过于依赖AI，没学到什么东西，这一点可能更加重要一点。至少先了解AI完成的工作，他在背后到底在干什么事情？",
+        "replyTo": "祝无梦"
+      }
+    ],
+    "replyCount": 3
+  },
+  {
+    "file": "0032_流浪菜儿_0d028800.txt",
+    "dialogId": "0032",
+    "commentId": "6a9f7d6a000000000d028800",
+    "asker": "流浪菜儿",
+    "question": "李老师招人吗？[笑哭R]求收留",
+    "author_replies": [
+      {
+        "content": "我们toronto office有一直在招人的。",
+        "replyTo": "流浪菜儿"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0034_方玄曦你今天运动了嘛～_1500d332.txt",
+    "dialogId": "0034",
+    "commentId": "6a9ff2ee000000001500d332",
+    "asker": "方玄曦你今天运动了嘛～",
+    "question": "李沐老师，请问对于现在的计算机博士生，应该更加注重培养哪些技能呢？",
+    "author_replies": [
+      {
+        "content": "我认为是解决事情的能力，能够带agent完成，之前可能要一个人带一个五到十人团队完成的事情。",
+        "replyTo": "方玄曦你今天运动了嘛～"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0035_生椰甜甜子_15020c9a.txt",
+    "dialogId": "0035",
+    "commentId": "6a9f90590000000015020c9a",
+    "asker": "生椰甜甜子_",
+    "question": "沐神怎么看待具身智能的未来发展",
+    "author_replies": [
+      {
+        "content": "目前来看，没有别的更promising的方向的话，我觉得这个挺好的。",
+        "replyTo": "生椰甜甜子_"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0036_越越的茶颜_150050b9.txt",
+    "dialogId": "0036",
+    "commentId": "6a9f921e00000000150050b9",
+    "asker": "越越的茶颜",
+    "question": "我30了还没深入，想要大家的鼓励我深入AI应用构建真实需求，可以鼓励下我吗[害羞R][飞吻R]",
+    "author_replies": [
+      {
+        "content": "四十岁了都来得及，三十岁我觉得没问题。",
+        "replyTo": "越越的茶颜"
+      }
+    ],
+    "replyCount": 5
+  },
+  {
+    "file": "0037_不敲键盘张土豆_1303fc2e.txt",
+    "dialogId": "0037",
+    "commentId": "6a9f847c000000001303fc2e",
+    "asker": "不敲键盘张土豆",
+    "question": "对于非天才的普通人来说，AI 算法研究的未来在哪里？",
+    "author_replies": [
+      {
+        "content": "我觉得做AI算法的人，大部分是也是普通人吧。",
+        "replyTo": "不敲键盘张土豆"
+      }
+    ],
+    "replyCount": 5
+  },
+  {
+    "file": "0039_搜广推大模型随机打杂_0202bb75.txt",
+    "dialogId": "0039",
+    "commentId": "6a9f8ab2000000000202bb75",
+    "asker": "搜广推大模型随机打杂",
+    "question": "如何看待大模型+推荐系统的未来呢",
+    "author_replies": [
+      {
+        "content": "现在用语言模型，不管是替换掉推荐模型的底座，还是纯基于语言模型推荐这一块，都有很成功的应用。",
+        "replyTo": "搜广推大模型随机打杂"
+      }
+    ],
+    "replyCount": 5
+  },
+  {
+    "file": "0040_不慕_1500a217.txt",
+    "dialogId": "0040",
+    "commentId": "6a9f83d1000000001500a217",
+    "asker": "不慕",
+    "question": "沐神[哭惹R]我当初跟着您学的深度学习，受益匪浅[哭惹R]我现在博一刚入学，做的是llm推理芯片设计方向，但是感觉加速器背后的本质还是算法的优化，有了算法优化才能有新的workload，才能去设计相应的加速器，请问您觉得博士阶段做推理算法优化，偏Infra的方向会是一个好的选择吗[害羞R]",
+    "author_replies": [
+      {
+        "content": "我觉得挺好的呀，因为算法一变，硬件得跟着改，所以总是有饭吃嘛。",
+        "replyTo": "不慕"
+      }
+    ],
+    "replyCount": 5
+  },
+  {
+    "file": "0042_blingbling_150152f5.txt",
+    "dialogId": "0042",
+    "commentId": "6a9fb84b00000000150152f5",
+    "asker": "blingbling",
+    "question": "大佬！我遇到的问题是，我想微调多模态模型去做垂直领域任务，准备了几百上千条标注数据，做lora微调，但是调完效果反而差了[捂脸R]。这方面比较缺乏经验，不知道怎么才能微调好。用的llamafactory框架微调的，loss函数没有改，没有微调视觉塔，只微调了映射层等。是不是应该设计一个垂直领域loss比较好，还是需要更多数据才好？[笑哭R] 现在一头雾水。希望您能指点迷津",
+    "author_replies": [
+      {
+        "content": "用更多的数据，或者你换一个模型，一些模型好像可能训练的过于充分，导致做lora没那么好用。",
+        "replyTo": "blingbling"
+      }
+    ],
+    "replyCount": 8
+  },
+  {
+    "file": "0043_kafukabear_0100bf93.txt",
+    "dialogId": "0043",
+    "commentId": "6a9f8d85000000000100bf93",
+    "asker": "kafukabear",
+    "question": "沐老师您好，我发现现在 AI 时代虽然能做的事情多了，但是要真正做好，自己还是得学习，才能对 AI 的产出有一定的判断力，能真正和 AI 协作，那么 AI 时代是应该深耕一门技术，追求深度，还是追求深度的同时保持一定的广度，或者是其他的呢？再者我观察到像 ds 最近还在扩招后端/服务端人才，给了 150 个 hc，是否意味着传统行业不会被替代，而是会变成 AI+，而且对个人的要求也更高了呢？因为看到基本上很多岗位都要求有经验了，这对初入社会的应届生好像有点让人不知所措了[笑哭R]",
+    "author_replies": [
+      {
+        "content": "我认为是深度优先。先把一件事情做深了，然后再尝试着做另外一件事情，去做广。",
+        "replyTo": "kafukabear"
+      }
+    ],
+    "replyCount": 4
+  },
+  {
+    "file": "0044_韭韭不想上班_1500b1b3.txt",
+    "dialogId": "0044",
+    "commentId": "6aa081e3000000001500b1b3",
+    "asker": "韭韭不想上班",
+    "question": "大佬觉得ai能本质上解决physical world的问题么 对于物理世界来讲 数学和cs领域太干净了 反馈太及时了 这俩领域感觉ai已经一统江湖了",
+    "author_replies": [
+      {
+        "content": "应该还没有吧。但是这一块确实有很多lab和公司在做。",
+        "replyTo": "韭韭不想上班"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0045_普通人勾勾_1500d435.txt",
+    "dialogId": "0045",
+    "commentId": "6a9f972d000000001500d435",
+    "asker": "普通人勾勾",
+    "question": "您觉得 AI Agent 领域还会有重大的创新吗",
+    "author_replies": [
+      {
+        "content": "我觉得这一块发展还挺快的，因为很多想象中的agent形态其实还没有出现。例如，我的私人助理能帮我搞定所有这种杂事，agent现在就干不了。",
+        "replyTo": "普通人勾勾"
+      }
+    ],
+    "replyCount": 6
+  },
+  {
+    "file": "0046_克里斯今天吃💊了没_1403aa92.txt",
+    "dialogId": "0046",
+    "commentId": "6a9f9117000000001403aa92",
+    "asker": "克里斯今天吃💊了没",
+    "question": "机器人和大语言模型原本应该是互相成就的关系，现在却成了两条路线，您怎么看这两个行业的未来？或者也许该问，整合什么时候来临",
+    "author_replies": [
+      {
+        "content": "因为机器人目前大家都还是在硬件和小脑上面吧，大家没有特别花时间在大脑上面。",
+        "replyTo": "克里斯今天吃💊了没"
+      }
+    ],
+    "replyCount": 11
+  },
+  {
+    "file": "0047_momo_0b01252c.txt",
+    "dialogId": "0047",
+    "commentId": "6a9f9099000000000b01252c",
+    "asker": "momo",
+    "question": "沐神，非常感谢你在b站的视频，是你3年老粉了[笑哭R] 想问下沐神如何看agi呢？比如agi 多久会到来(1年？)，agi 来之前，作为工作两年的大厂打工人应该做什么？(技术和资产上的投资) agi 来之后呢？ 另外，沐神如何看待 ，xx 现在不学，再过3个月也不用学了的现象？应该适当躺平，享受生活了吗？[捂脸R]",
+    "author_replies": [
+      {
+        "content": "我比较相信人的对环境的适应性吧。就算A G I来了，人总是能找到自己能做的事情。",
+        "replyTo": "momo"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0048_岛屿_0202b44b.txt",
+    "dialogId": "0048",
+    "commentId": "6a9f9882000000000202b44b",
+    "asker": "岛屿",
+    "question": "沐老师如何看待ai4science[黄金薯R]之前看过老师讲解alphafold的technical report的视频，之后感觉就很少聊到了！好奇老师的想法！！（包括但不限于分子设计、AIDD .etc）",
+    "author_replies": [
+      {
+        "content": "这个我觉得挺有前途的，但是整体来讲，应该是基础建设还没有跟上。那AlphaFold是因为整个数据，而且整个任务相对来说可验证性都容易一点，但是Science很多其他方向，整个基础建设啊，以及说对一个成果的verification都没那么容易。",
+        "replyTo": "岛屿"
+      }
+    ],
+    "replyCount": 7
+  },
+  {
+    "file": "0049_Momo7_1403bfe0.txt",
+    "dialogId": "0049",
+    "commentId": "6a9f9864000000001403bfe0",
+    "asker": "Momo7",
+    "question": "沐神，bosonAI招PhD ng吗，需要怎样的profile大概才能过bar",
+    "author_replies": [
+      {
+        "content": "我们有招啊！我们反正每天都在面试。",
+        "replyTo": "Momo7"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0050_港股小韭菜_0a024f9e.txt",
+    "dialogId": "0050",
+    "commentId": "6a9f8b04000000000a024f9e",
+    "asker": "港股小韭菜",
+    "question": "对于做不了基础模型的算法工程师来说，做业务场景的SFT是不是已经没有出路了，一方面基础模型越来越强，推理速度越来越快，一方面AI研究员直接帮你训练了，那这些算法工程师的出路在哪里？做Agent的核心竞争力是什么？",
+    "author_replies": [
+      {
+        "content": "我觉得业务场景的SFT是没什么问题的，这个也是挺实用的一个技术。但很有可能是SFT本身不会是一个门槛，更多是对整个业务的理解，以及整个模型跟业务的结合。",
+        "replyTo": "港股小韭菜"
+      }
+    ],
+    "replyCount": 4
+  },
+  {
+    "file": "0051_Folia小疯叶_1503d6b3.txt",
+    "dialogId": "0051",
+    "commentId": "6a9f81b3000000001503d6b3",
+    "asker": "Folia小疯叶",
+    "question": "沐神好！我最近跟着karpathy在学习从零开始搭建神经网络，还没有学到transformer架构，老师认为现在还有必要去学习数年前的技术吗？如果个人想要训练自己专属的小模型，应该从哪些方向入手实践？",
+    "author_replies": [
+      {
+        "content": "我觉得学习还是有必要的，至少自己要理解这个后面是怎么工作的。",
+        "replyTo": "Folia小疯叶"
+      }
+    ],
+    "replyCount": 4
+  },
+  {
+    "file": "0052_空页_0200ec77.txt",
+    "dialogId": "0052",
+    "commentId": "6a9f8431000000000200ec77",
+    "asker": "空页",
+    "question": "沐神，问个近期最疑惑的问题， 管理后面还有必要转吗？特别是在大公司这类岗位",
+    "author_replies": [
+      {
+        "content": "目前来看，大公司的管理岗位很多，就是把上面的话传给下面，这一块应该是要被替代了。但真正的管理还是挺难的，目前来看，大家对AI做真正的管理，还是有心理障碍吧。",
+        "replyTo": "空页"
+      }
+    ],
+    "replyCount": 8
+  },
+  {
+    "file": "0053_让大家更好地认识你_150000bd.txt",
+    "dialogId": "0053",
+    "commentId": "6a9f8df400000000150000bd",
+    "asker": "让大家更好地认识你",
+    "question": "大佬好！请教一下：我前段时间参赛锻炼，成果是用 vibe coding 做了一个 AI 笔记记录和分类工具，我自己用还行，但 bug 多、界面粗糙，普通用户上手也有门槛。我现在很纠结：如果要打磨到普通人能用的程度，可能要花几个月重构 + 改进交互；但如果搞好了也没人用，这几个月就白花了。同时，我也没有推广经验，不确定怎么去验证真实需求。作为一个 solo 开发者，有限的精力应该优先拿来验证\"这东西值不值得做\"，还是先沉下心把产品打磨到能用的水平？在方向不确定的情况下，什么信号说明该继续，什么信号说明该换方向呢？对于这个项目我现在拿着不知道怎么办了。感谢~",
+    "author_replies": [
+      {
+        "content": "先找朋友看看，他们能不能用得起来吧。",
+        "replyTo": "让大家更好地认识你"
+      }
+    ],
+    "replyCount": 7
+  },
+  {
+    "file": "0054_momo_15016cf6.txt",
+    "dialogId": "0054",
+    "commentId": "6a9f7f9a0000000015016cf6",
+    "asker": "momo",
+    "question": "沐神如何看待多模态的未来？",
+    "author_replies": [
+      {
+        "content": "多模态肯定是AI和人交互的一个重要的途径。但确实，多模态能不能提升模型的智商，目前是大家观点不一致。所以很好几家大厂把多模态的优先级调低了。",
+        "replyTo": "momo"
+      }
+    ],
+    "replyCount": 4
+  },
+  {
+    "file": "0055_藤原拓东_1500056d.txt",
+    "dialogId": "0055",
+    "commentId": "6aa02dbc000000001500056d",
+    "asker": "藤原拓东",
+    "question": "老师，您觉得对于一个学生而言，想要做出insight的贡献，是自身技术更重要，还是团队圈子资源更重要呢。",
+    "author_replies": [
+      {
+        "content": "自身技术决定下限，团队和圈子决定上限吧。很多时候，可能不一定要去那么的管上限，先把下限做好。",
+        "replyTo": "藤原拓东"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0058_丰丰不焦虑_15020ca2.txt",
+    "dialogId": "0058",
+    "commentId": "6a9f893c0000000015020ca2",
+    "asker": "丰丰不焦虑",
+    "question": "这是假的沐神吧[doge]",
+    "author_replies": [
+      {
+        "content": "哈哈哈",
+        "replyTo": "丰丰不焦虑"
+      }
+    ],
+    "replyCount": 5
+  },
+  {
+    "file": "0059_姑且是与堇_15006d9f.txt",
+    "dialogId": "0059",
+    "commentId": "6a9f98ad0000000015006d9f",
+    "asker": "姑且是与堇",
+    "question": "老师您好！五年前我就是看了您的视频开始了AI生涯。想请教一下老师看好AI翻译这一领域吗？文本翻译是LLM的得意领域，但生活化场景的翻译又带来了多模态和低延时等挑战。在老师看来，随着模型能力的发展，AI最终能够做到帮助全人类跨越语言障碍吗？",
+    "author_replies": [
+      {
+        "content": "我觉得AI翻译肯定是能够替99%替代人的。",
+        "replyTo": "姑且是与堇"
+      }
+    ],
+    "replyCount": 4
+  },
+  {
+    "file": "0060_rain_0b01769c.txt",
+    "dialogId": "0060",
+    "commentId": "6a9f9073000000000b01769c",
+    "asker": "rain",
+    "question": "您好，我想请教您一下，我有一种感觉，就是现在ai最前沿是由企业为主导的，因为最新的模型训练。部署需要的计算成本越来越高，高校和科研机构好像已经和最前沿理论脱轨，而且各行各业也都在宣传 ai加学科进行科学范式革命，以后有没有可能 AI变成以企业领导为主，其他学科。只会逐渐变得变成为ai提供语料的工具。",
+    "author_replies": [
+      {
+        "content": "只能说在实用上面，很多时候各个公司能够把自己想要的东西实现做了，但是学术圈不是只为了追求实用。",
+        "replyTo": "rain"
+      }
+    ],
+    "replyCount": 3
+  },
+  {
+    "file": "0061_Momo🥕_1500769c.txt",
+    "dialogId": "0061",
+    "commentId": "6a9f9474000000001500769c",
+    "asker": "Momo🥕",
+    "question": "沐神，想问一下对于目前刚毕业的cs程序员，职业发展上需要往哪方面走来提升自己呢？一年前和现在的程序开发变化太大了[哭惹R]",
+    "author_replies": [
+      {
+        "content": "先试着利用agent能够最大化自己的生产力吧，让自己把这个工具用的很溜再说",
+        "replyTo": "Momo🥕"
+      }
+    ],
+    "replyCount": 3
+  },
+  {
+    "file": "0063_why1te_14001a93.txt",
+    "dialogId": "0063",
+    "commentId": "6a9f7bf10000000014001a93",
+    "asker": "why1te",
+    "question": "想问问李老师 llm的未来 llm会往哪个方向发展 当前的哪些研究方向是您比认为比较重要的[doge]",
+    "author_replies": [
+      {
+        "content": "我认为，目前来看，就是模型在沙盒里面运行，自我成长。包括sandbox里执行代码、macos上compute use，已经各种新出来的世界模型里面运行。",
+        "replyTo": "why1te"
+      }
+    ],
+    "replyCount": 3
+  },
+  {
+    "file": "0064_AntOnTheMars_020101ee.txt",
+    "dialogId": "0064",
+    "commentId": "6a9f83ff00000000020101ee",
+    "asker": "AntOnTheMars",
+    "question": "我感觉虽然有些事情我可以交给AI做了，但是我还是会搞清楚整体架构，过程，让它解释为什么这样做，我觉得这样用AI才是加速自己学习同时提升效率过程。不过我确实在想这个时候去学其他编程语言，比如不太熟悉的C语言会不会必要性不大？",
+    "author_replies": [
+      {
+        "content": "目前来看，能够熟悉一个语言就行了吧。人的工作现在主要是给AI来review一下代码，防止他犯一些很低级的错误，或者整个设计上是绕了没必要的弯路。",
+        "replyTo": "AntOnTheMars"
+      }
+    ],
+    "replyCount": 3
+  },
+  {
+    "file": "0065_小樊不烦🥕_02013762.txt",
+    "dialogId": "0065",
+    "commentId": "6a9f974d0000000002013762",
+    "asker": "小樊不烦🥕",
+    "question": "沐神，请问您如何看待未来多模态的发展趋势？目前市场更倾向agent，还要继续坚持做多模态吗",
+    "author_replies": [
+      {
+        "content": "我觉得多模态没问题啊，人和agent的交互，是靠多模态。",
+        "replyTo": "小樊不烦🥕"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0066_Roy_0b01380a.txt",
+    "dialogId": "0066",
+    "commentId": "6a9fba57000000000b01380a",
+    "asker": "Roy",
+    "question": "沐老师，你觉得现在还值得读PhD吗，我觉得现在学术界和工业界有点距离，担心读PhD做的工作不如业界做的更接近前沿和实际应用",
+    "author_replies": [
+      {
+        "content": "如果你更想去工业界一点，那确实读PhD不见得是一个目前最优的。",
+        "replyTo": "Roy"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0068_千重_0a02793f.txt",
+    "dialogId": "0068",
+    "commentId": "6a9f83d2000000000a02793f",
+    "asker": "千重",
+    "question": "世界模型和具身智能最近两年热度很高，质疑声也很高。沐神怎么看待两者的现状和未来？",
+    "author_replies": [
+      {
+        "content": "这两块应该是AI能去做蓝领的工作的必须吧，但是确实是不是过于乐观，这个也有可能。",
+        "replyTo": "千重"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0069_I_just_keep_going_14039027.txt",
+    "dialogId": "0069",
+    "commentId": "6a9f90650000000014039027",
+    "asker": "I_just_keep_going",
+    "question": "沐神！我现在准备找博士方向，您觉得AI硬件在未来几年能成为风口吗？还是说仍然需要一定时间才行啊，什么Ai相关方向会成为下一个风口呢？[派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R]一打开手机就刷到你 开心开心[派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R][派对R]",
+    "author_replies": [
+      {
+        "content": "AI硬件肯定是有市场的，而且特别是国内这一块硬件能力比较强。",
+        "replyTo": "I_just_keep_going"
+      }
+    ],
+    "replyCount": 3
+  },
+  {
+    "file": "0070_言苏鲤_15012c8f.txt",
+    "dialogId": "0070",
+    "commentId": "6a9f98d30000000015012c8f",
+    "asker": "言苏鲤",
+    "question": "随着人和agent的边界在变得越来越小，对于刚步入职场的新人而言，应该怎么认知自己和agent的边界呢，差异点究竟在哪里，人能发挥的优势又在哪里？随着agent记忆库的沉淀，经验的边际价值好像也在下降，而不断创造新的东西又依托于经验，用更短的时间走完更多的路到底需要什么样的能力呢",
+    "author_replies": [
+      {
+        "content": "我反而觉得是AI用的越多，发现它的局限性越大，反而越来越知道什么时候它可信，什么时候不可信。",
+        "replyTo": "言苏鲤"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0071_369_14002750.txt",
+    "dialogId": "0071",
+    "commentId": "6a9f8a400000000014002750",
+    "asker": "369",
+    "question": "李沐老师，非常希望听听您的建议，关于嵌入式ai这一块未来发展是真实需求吗，端侧ai这类",
+    "author_replies": [
+      {
+        "content": "有吧。车载这一块啊，手机啊，肯定是有一些AI可以用在上面的。然后就涉及到不同的硬件上面做适配，工作量还是挺大的。",
+        "replyTo": "369"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0072_小红薯6768CFA6_0a026cf8.txt",
+    "dialogId": "0072",
+    "commentId": "6a9f9216000000000a026cf8",
+    "asker": "小红薯6768CFA6",
+    "question": "沐神怎么看未来AI能力越来越强之后，alignment的研究是否会某种程度上脱离实际，我们可以用什么心态来准备",
+    "author_replies": [
+      {
+        "content": "我的体感也是，最近几代模型的更新，它的alignment都是提升智商，所以它出的那些报告啊，人基本不太看得懂。",
+        "replyTo": "小红薯6768CFA6"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0073_不要以为消耗100B_tokens能PUA大模型_0a01e579.txt",
+    "dialogId": "0073",
+    "commentId": "6a9f7bd6000000000a01e579",
+    "asker": "不要以为消耗100B tokens能PUA大模型",
+    "question": "[皱眉R]欢迎李沐老师入驻📕！想问一下老师怎么理解RSI吗？感觉大家都说rsi但是做的都不太相同[笑哭R]",
+    "author_replies": [
+      {
+        "content": "我们也做RSI，但确实大家的理解都不太一样。能有效使用AI来参与迭代模型能力都可以号称RSI吧。例如简单的是，用AI来洗数据再来训练AI。",
+        "replyTo": "不要以为消耗100B tokens能PUA大模型"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0074_momo_15015389.txt",
+    "dialogId": "0074",
+    "commentId": "6a9f84570000000015015389",
+    "asker": "momo",
+    "question": "沐神你好，请问 vlm 现在看来是不是已经进入局部低谷了呢，今年的秋招看起来工业界完全不需要这块，是否 vla 会更值得探索呢",
+    "author_replies": [
+      {
+        "content": "实用角度来讲，还挺多的吧？人与agent的交互之间，用vision还是挺多的。",
+        "replyTo": "momo"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0075_和光同尘_15012a30.txt",
+    "dialogId": "0075",
+    "commentId": "6aa003460000000015012a30",
+    "asker": "和光同尘",
+    "question": "李沐老师您好，我目前在 3D&4D 场景理解和生成之间犹豫。现在模型发展和更新太快，也担心自己的工作很快被更大模型覆盖。您觉得年轻研究者应该如何选择长期方向，并建立真正属于自己的积累？",
+    "author_replies": [
+      {
+        "content": "目前做的还很浅吧。我也不算这一块的专家，但我觉得不管是AI也好，还是别的专门做这个的，我觉得离真正的现实场景的理解和生成还蛮远的。",
+        "replyTo": "和光同尘"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0076_呜啦啦_02028539.txt",
+    "dialogId": "0076",
+    "commentId": "6a9f90180000000002028539",
+    "asker": "呜啦啦",
+    "question": "AI大公司的技术服务部门：该怎么加强和技术同学的沟通能力，怎么用 ai帮忙呢",
+    "author_replies": [
+      {
+        "content": "你可以让AI来帮你提供一些建议，或者说帮你跟之前的跟别人的沟通做一些review。但人与人的交互，主要还是人上。我看很多人是讨厌别人用AI来回复的。",
+        "replyTo": "呜啦啦"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0078_＞_＜_0b011dea.txt",
+    "dialogId": "0078",
+    "commentId": "6a9f98d7000000000b011dea",
+    "asker": "＞_＜",
+    "question": "老师，以前读研的时候最喜欢你的论文精读系列了，现在想问一下，在AI时代我应该怎么学习呢？应该怎么转行呢？尤其是我现在想跨行业转行，想从纯软转到AI计算/推理加速，这里甚至我要重新学习编程语言，但是现在又觉得仔细学习编程语言是无用的",
+    "author_replies": [
+      {
+        "content": "学编程语言是有用的。至少得看得懂代码吧, 能够给AI 好的反馈。",
+        "replyTo": "＞_＜"
+      }
+    ],
+    "replyCount": 3
+  },
+  {
+    "file": "0079_小红薯6613EFF2_15020553.txt",
+    "dialogId": "0079",
+    "commentId": "6a9f8e710000000015020553",
+    "asker": "小红薯6613EFF2",
+    "question": "请问一下，Ai时代，算法工程师和 用gpt 的文科生比，优势在哪",
+    "author_replies": [
+      {
+        "content": "AI能把人的优势放大十倍，你比别人厉害的地方，在利用AI之后，能够更厉害。",
+        "replyTo": "小红薯6613EFF2"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0080_风间醉客_14002796.txt",
+    "dialogId": "0080",
+    "commentId": "6a9f8bdb0000000014002796",
+    "asker": "风间醉客",
+    "question": "请问您认为LLM训练infra的工作在未来会趋向于被越来越强的AI覆盖掉，还是会反而更依赖人类工程师呢？",
+    "author_replies": [
+      {
+        "content": "一些简单日常工作，agent真的干的挺好的。但整个infrastructure的设计啊，这一块AI目前还不行吧",
+        "replyTo": "风间醉客"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0081_毅仔_14030139.txt",
+    "dialogId": "0081",
+    "commentId": "6a9f97370000000014030139",
+    "asker": "毅仔",
+    "question": "再请教一下沫神，agent memory 会不会是未来agent 长期重要的方向，至少现在研究这个方向未来能找到工作[doge]",
+    "author_replies": [
+      {
+        "content": "memory肯定是agent比较重要的一块。如果你感兴趣，你深入去做，应该没问题的。",
+        "replyTo": "毅仔"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0082_有思想的芦苇_1402f58a.txt",
+    "dialogId": "0082",
+    "commentId": "6a9f8405000000001402f58a",
+    "asker": "有思想的芦苇",
+    "question": "怀念研一跟着您学习AI的日子，目前已经研三正在秋招，感觉这行的变化特别大，对未来特别迷茫，目前在做业务算法，将来该向着哪个方向发展呢？应该提升自己哪方面的能力？",
+    "author_replies": [
+      {
+        "content": "简单来看，就是以前要五个人才能完成的工作，现在能不能你带着agent能完成？",
+        "replyTo": "有思想的芦苇"
+      }
+    ],
+    "replyCount": 5
+  },
+  {
+    "file": "0087_侯母_14000e74.txt",
+    "dialogId": "0087",
+    "commentId": "6a9f97290000000014000e74",
+    "asker": "侯母",
+    "question": "怀念当初b站听你讲论文的时光，现在一般的论文都是丢给AI沟通[捂脸R]",
+    "author_replies": [
+      {
+        "content": "哈哈哈",
+        "replyTo": "侯母"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0091_碗团_1402d6c0.txt",
+    "dialogId": "0091",
+    "commentId": "6a9f9157000000001402d6c0",
+    "asker": "碗团",
+    "question": "ai普惠教育，买学区房岂不是亏死了",
+    "author_replies": [
+      {
+        "content": "好的教育资源总是稀缺吧，学区房可能还是有存在的必要的。",
+        "replyTo": "碗团"
+      }
+    ],
+    "replyCount": 3
+  },
+  {
+    "file": "0092_X_0b018d02.txt",
+    "dialogId": "0092",
+    "commentId": "6a9fe273000000000b018d02",
+    "asker": "X",
+    "question": "沐神你好，请问ai compiler是否是一个值得投入精力学习的方向，以及学习重点应该是什么。感谢",
+    "author_replies": [
+      {
+        "content": "这个是一个偏小众的方向，做的团队不多吧。如果你能找到合适的团队，还是挺有意义的。",
+        "replyTo": "X"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0093_阿初数卷卷_0b017cc3.txt",
+    "dialogId": "0093",
+    "commentId": "6a9f920a000000000b017cc3",
+    "asker": "阿初数卷卷",
+    "question": "大神您好:恳请您回答一个文科生该如何面对未来不确定的一切，AI可以取代一切，请问文科生（本人经济学专业，目前是中学数学老师，非全mba）想要学习金融相关领域，想要深耕量化分析，该如何利用ai？又该如何拥有自己的核心竞争力？请问我需要学习编程吗？（万谢您的回复，谢谢您[合十R][飞吻R][合十R]）",
+    "author_replies": [
+      {
+        "content": "我觉得可以试试，每天找一个topic，然后跟AI问二十个问题。",
+        "replyTo": "阿初数卷卷"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0095_gourmand_0b012f4b.txt",
+    "dialogId": "0095",
+    "commentId": "6a9f845c000000000b012f4b",
+    "asker": "gourmand",
+    "question": "沐神[玫瑰R]您觉得现在入场的话，还有什么值得投入的研究方向吗？",
+    "author_replies": [
+      {
+        "content": "可以找niche 一点的，但有兴趣的方向去研究吧。目前我看到就是技术发展的很快，所以很多地方其实是做的不够细的。",
+        "replyTo": "gourmand"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0097_小🦈吃吃吃_14039777.txt",
+    "dialogId": "0097",
+    "commentId": "6a9f974e0000000014039777",
+    "asker": "小🦈吃吃吃",
+    "question": "老师好，我想咨询您agent和具身智能这两个方向哪个更适合上手和深入研究的，具体的，一个是具身智能的持续学习，一个是agent的自进化，请问老师觉得选哪个方向比较好一点儿的。因为我看了刚刚您对于具身智能评论的回复，感觉具身智能做起来是很难落地的且有点儿泡沫，那agent是否会好很多呢",
+    "author_replies": [
+      {
+        "content": "agent目前来看应用更加快一点，我的这一块呢，想要真的真正的落地，还有比较长期的考验。可能就看你自己喜欢哪一个了。",
+        "replyTo": "小🦈吃吃吃"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0098_芒格很忙_01008fe9.txt",
+    "dialogId": "0098",
+    "commentId": "6a9f7c0b0000000001008fe9",
+    "asker": "芒格很忙",
+    "question": "想问李老师创业者需要懂多少AI技术？大模型近乎全能的当下，初创公司的机会在哪里？",
+    "author_replies": [
+      {
+        "content": "就跟十年前创业一定要使用云一样的，目前AI算一个基本技能吧。确实，现在模型能做的主方向，没必要去跟它compete的，就跟十年前不用去跟云的主方向compete一样。但除此之外，它是赋能了更多的东西。",
+        "replyTo": "芒格很忙"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0099_吹水的咸鱼_0f02efce.txt",
+    "dialogId": "0099",
+    "commentId": "6a9f834f000000000f02efce",
+    "asker": "吹水的咸鱼",
+    "question": "ai什么时候可以签字担责就好了[doge]",
+    "author_replies": [
+      {
+        "content": "很有可能保险公司会做新业务吧。",
+        "replyTo": "吹水的咸鱼"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0100_参毛_0a0272b6.txt",
+    "dialogId": "0100",
+    "commentId": "6a9f8e62000000000a0272b6",
+    "asker": "参毛",
+    "question": "学界通常以ccfa论文的数量为个人能力的评价标准，以我自己的体感来说标准开始一年比一年高，那么这个标准还能继续维持多久？以后会有其他的衡量标准吗？",
+    "author_replies": [
+      {
+        "content": "标准总是很难改的，但是确实大家都用AI来写论文的时代，所以是不是只看论文这件事情，有待商榷。",
+        "replyTo": "参毛"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0197_111_0b01dfc0.txt",
+    "dialogId": "0197",
+    "commentId": "6aa02a1c000000000b01dfc0",
+    "asker": "111",
+    "question": "沐神，你觉得两年之后市场上真正需要的ai应用工程师会是什么样的，现在用aicoding越用越慌，不知道往哪走[哭惹R]",
+    "author_replies": [
+      {
+        "content": "两年之后比较难说，因为技术发展太快，但今天能看到的是，需要的是能够负责一大块东西的人。以前是这样的人带一个五到十人的小团队去完成，现在可能就变成一个人带着一堆Agent去完成了。",
+        "replyTo": "111"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0655_温州皮革厂少主_16007eb1.txt",
+    "dialogId": "0655",
+    "commentId": "6a9f98ce0000000016007eb1",
+    "asker": "温州皮革厂少主",
+    "question": "李老师 怎么看待ai对学术圈的冲击",
+    "author_replies": [
+      {
+        "content": "我觉得冲击比较大，我现在都是AI给我看论文，我相信很多论文也是AI主笔的。",
+        "replyTo": "温州皮革厂少主"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0657_silence_0a01d82c.txt",
+    "dialogId": "0657",
+    "commentId": "6a9f9890000000000a01d82c",
+    "asker": "silence",
+    "question": "芯片设计行业多久会被ai替代呢？目前看到很多公司在做EDA工具的ai自迭代，忧虑颇深。",
+    "author_replies": [
+      {
+        "content": "一些基础的体力活，肯定是被干掉了。但是能够干到多senior的岗位，目前还不清楚吧？",
+        "replyTo": "silence"
+      }
+    ],
+    "replyCount": 3
+  },
+  {
+    "file": "0676_LoRA_1402e0be.txt",
+    "dialogId": "0676",
+    "commentId": "6a9f9765000000001402e0be",
+    "asker": "LoRA",
+    "question": "AI推动下，搜推广下一步会走向何方呢",
+    "author_replies": [
+      {
+        "content": "先把模型都换成transformer吧，另外一块，语言模型本身做搜广推也挺好的。",
+        "replyTo": "LoRA"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0757_Jay_1500b252.txt",
+    "dialogId": "0757",
+    "commentId": "6a9f9239000000001500b252",
+    "asker": "Jay",
+    "question": "老师您好，请问您觉得垂直端还有机会吗？基模越来越强，垂直端走出一个盈利模式，基模下一个版本就可以覆盖。另外，您觉得(earth) science有盈利机会吗？而且大多都是public data，似乎没啥壁垒，同时在思考非to C业务怎么赚钱，或者直接转行[笑哭R]",
+    "author_replies": [
+      {
+        "content": "我觉得垂类机会还挺多的，因为它不仅仅是一个模型裸的能力，还有一整套的配套设施跟行业的一个垂直的整合。",
+        "replyTo": "Jay"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0760_Libra_150163c7.txt",
+    "dialogId": "0760",
+    "commentId": "6a9f91d700000000150163c7",
+    "asker": "Libra",
+    "question": "老师请问ai4s方向（蛋白质设计）博士，应该把重心放在科研上，还是放在工作上或自己找团队创业呢",
+    "author_replies": [
+      {
+        "content": "就看你兴趣吧，你想做实际一点的呢，就找团队创业，你想偏科研一点呢，那就是更专注在科研。",
+        "replyTo": "Libra"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0766_井井_0a02486a.txt",
+    "dialogId": "0766",
+    "commentId": "6a9f9160000000000a02486a",
+    "asker": "井井",
+    "question": "公司招不招ng[doge]",
+    "author_replies": [
+      {
+        "content": "我们一直有招人的。",
+        "replyTo": "井井"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0782_Nirvana_1500d329.txt",
+    "dialogId": "0782",
+    "commentId": "6a9f906f000000001500d329",
+    "asker": "Nirvana",
+    "question": "沐神，请教下对于toC agent的看法。真的会有属于toC agent的gpt时刻吗？",
+    "author_replies": [
+      {
+        "content": "会有吧。不管是Manus，小龙虾，都是现象级的。但可能跟GPT不一样，这些的后续影响力没有他大。",
+        "replyTo": "Nirvana"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0784_开工就得喝口咖啡_0b01a6cd.txt",
+    "dialogId": "0784",
+    "commentId": "6a9f904c000000000b01a6cd",
+    "asker": "开工就得喝口咖啡",
+    "question": "[举手R][举手R][举手R]啊老师您来小红书啦，你招实习生吗？",
+    "author_replies": [
+      {
+        "content": "我们湾区和多伦多的office都招实习生。",
+        "replyTo": "开工就得喝口咖啡"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0786_Getsum_0100a1b0.txt",
+    "dialogId": "0786",
+    "commentId": "6a9f902d000000000100a1b0",
+    "asker": "Getsum",
+    "question": "老师如何看待语音这一个方向，老师觉得未来发展和热点会怎么样[微笑R]",
+    "author_replies": [
+      {
+        "content": "那我们创业公司有做语音这一块，我觉得是人与agent的交流的一个很自然的通道。",
+        "replyTo": "Getsum"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0789_木子北田共_14033086.txt",
+    "dialogId": "0789",
+    "commentId": "6a9f90070000000014033086",
+    "asker": "木子北田共",
+    "question": "请问垂直小模型在中长期的生存空间如何？ 还是O A模型长期都吃掉，且成本占优",
+    "author_replies": [
+      {
+        "content": "我觉得model本身应该会被去掉吧，但是确实，在垂直不是模型本身，还是有整个配套设施的，跟垂直行业的整合。",
+        "replyTo": "木子北田共"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0790_杨老师_140016c9.txt",
+    "dialogId": "0790",
+    "commentId": "6a9f900700000000140016c9",
+    "asker": "杨老师",
+    "question": "致敬沐神🫡，想问下沐神在当下coding能力已经超越普通人类的情况下，对算法，业务，coding各个领域都了解的通才和垂直领域的业务专家or算法专家的专才，两个相比较，那一类人机会更多，更容易生存下来？",
+    "author_replies": [
+      {
+        "content": "我觉得只是说在具体实现代码上和手速上超过了人类，但整个设计啊，代码的品味啊，考虑的东西是不是很全面啊，目前还是有差距的。",
+        "replyTo": "杨老师"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0793_沧海_1403235e.txt",
+    "dialogId": "0793",
+    "commentId": "6a9f8fad000000001403235e",
+    "asker": "沧海",
+    "question": "我导出现在小红书了[派对R]  持续学习专研自己领域，给自己领域开发agent使用agent的人不会淘汰",
+    "author_replies": [
+      {
+        "content": "现在的AI模型厂商，可能很多年之后就跟现在的云厂商一样吧，就是一个基础智能提供商，但是上面肯定还有很多应用可以做的。",
+        "replyTo": "沧海"
+      }
+    ],
+    "replyCount": 2
+  },
+  {
+    "file": "0986_Momo_15003f20.txt",
+    "dialogId": "0986",
+    "commentId": "6a9f84930000000015003f20",
+    "asker": "Momo",
+    "question": "老师还继续讲解paper吧",
+    "author_replies": [
+      {
+        "content": "AI 对于讲 paper 的冲击太大了，我还没想清楚，新的讲的形式要怎么样？",
+        "replyTo": "Momo"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "0988_richard's_AI4S_daily_0202922e.txt",
+    "dialogId": "0988",
+    "commentId": "6a9f846d000000000202922e",
+    "asker": "richard's AI4S daily",
+    "question": "请问李沐老师对 ai4science 怎么看，最近几年可能会看到大规模的全自动科研成果吗，ai 在 制药和材料研发方面会发展到什么程度",
+    "author_replies": [
+      {
+        "content": "短期来看，肯定有一点提效的功能吧。但是想要颠覆这个行业还比较难，比如制药这一块监管啊、数据里面的各种清洗、causality的分析。模型的能力啊，可解释性啊，都还有一定的差距。",
+        "replyTo": "richard's AI4S daily"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "1003_想想就想睡觉_0b007ebe.txt",
+    "dialogId": "1003",
+    "commentId": "6a9f8340000000000b007ebe",
+    "asker": "想想就想睡觉",
+    "question": "沐神觉得多模态真的只能是AGI的下属感知组件了吗，只能是路边一条了嘛？[哭惹R]",
+    "author_replies": [
+      {
+        "content": "从实用角度来看，人和agent的之间的交互是需要多模态的。但是不是能够帮助模型提升智商，这个目前没有太多证据。",
+        "replyTo": "想想就想睡觉"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "1010_小红薯5F5849C0_0f02d5d4.txt",
+    "dialogId": "1010",
+    "commentId": "6a9f82c5000000000f02d5d4",
+    "asker": "小红薯5F5849C0",
+    "question": "沐神 请问llm这边还能咋做些有突破潜力的研究呢 现在都是更scaling science了，系统的一套越来越重要，纯算法好像停滞了",
+    "author_replies": [
+      {
+        "content": "预训练确实是scaling上更多一点。 但是post train上面的算法还是挺复杂的。",
+        "replyTo": "小红薯5F5849C0"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "1012_.wing_1403a6b4.txt",
+    "dialogId": "1012",
+    "commentId": "6a9f82b3000000001403a6b4",
+    "asker": ".wing",
+    "question": "读博期间还在研究cv小模型，还有前途吗",
+    "author_replies": [
+      {
+        "content": "小模型也没什么问题吧？在很多小的场景上面，小模型做的挺好的。",
+        "replyTo": ".wing"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "1014_小红薯64D08C08_15001d05.txt",
+    "dialogId": "1014",
+    "commentId": "6a9f828f0000000015001d05",
+    "asker": "小红薯64D08C08",
+    "question": "李沐老师你好，请问你是怎么看待rsi的发展的呢",
+    "author_replies": [
+      {
+        "content": "我们自己也做 RSI，但确实这一块是一个比较泛的方向。并没有一个主流的认同，什么技术方向就是 RSI。",
+        "replyTo": "小红薯64D08C08"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "1094_yw5aj_0d023401.txt",
+    "dialogId": "1094",
+    "commentId": "6a9f7d10000000000d023401",
+    "asker": "yw5aj",
+    "question": "请问您怎么看待capabilities 和alignment/safety的关系/平衡？",
+    "author_replies": [
+      {
+        "content": "这个我就比较悲观，因为目前还是一个追求智能的年代。安全性的东西， 一方面容易被模型智能迭代所淘汰，第二方面，确实跟用户体验是有一定的影响",
+        "replyTo": "yw5aj"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "1097_NEED_01008ce3.txt",
+    "dialogId": "1097",
+    "commentId": "6a9f7bf60000000001008ce3",
+    "asker": "NEED",
+    "question": "沐神",
+    "author_replies": [
+      {
+        "content": "hhh",
+        "replyTo": "NEED"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "1099_ray_0b015f53.txt",
+    "dialogId": "1099",
+    "commentId": "6a9f7bc4000000000b015f53",
+    "asker": "ray",
+    "question": "leetcode-type的code考核还有必要特意考核/准备吗？",
+    "author_replies": [
+      {
+        "content": "很多公司还是面，而且得不要让人怀疑是用AI写的。",
+        "replyTo": "ray"
+      }
+    ],
+    "replyCount": 1
+  },
+  {
+    "file": "1188_#undef_020288b3.txt",
+    "dialogId": "1188",
+    "commentId": "6a9f7c5c00000000020288b3",
+    "asker": "#undef",
+    "question": "原评论已删除",
+    "author_replies": [
+      {
+        "content": "可以自己不写代码，但是需要review代码。而且它整个代码架构的设计，在一些方案的选择上，目前还是得靠人。",
+        "replyTo": "#undef"
+      }
+    ],
+    "replyCount": 3
+  },
+  {
+    "file": "1189_momo_0a024af8.txt",
+    "dialogId": "1189",
+    "commentId": "6a9f7c55000000000a024af8",
+    "asker": "momo",
+    "question": "原评论已删除",
+    "author_replies": [
+      {
+        "content": "基础的程序员应该快要消失了。程序员这个方向，只能往资深的方向走，就是能做复杂点的大项目。",
+        "replyTo": "momo"
+      }
+    ],
+    "replyCount": 5
+  }
+]

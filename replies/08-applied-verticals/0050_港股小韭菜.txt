@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0050
+Asker: 港股小韭菜
+Comment ID: 6a9f8b04000000000a024f9e
+Source: comments/0050_港股小韭菜_0a024f9e.txt
+Title: Is business SFT a dead end
+
+About
+An applied algorithm engineer fears foundation models and researchers will erase SFT work. Li Mu: business SFT is still useful, but SFT itself will not be the moat; business understanding and model-to-business fit will.
+
+Question
+对于做不了基础模型的算法工程师来说，做业务场景的SFT是不是已经没有出路了，一方面基础模型越来越强，推理速度越来越快，一方面AI研究员直接帮你训练了，那这些算法工程师的出路在哪里？做Agent的核心竞争力是什么？
+
+Li Mu
+我觉得业务场景的SFT是没什么问题的，这个也是挺实用的一个技术。但很有可能是SFT本身不会是一个门槛，更多是对整个业务的理解，以及整个模型跟业务的结合。

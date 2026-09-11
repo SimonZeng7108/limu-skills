@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>李沐 AMA · 作者回复评论</title>
+  <meta name="description" content="小红书李沐 AMA 评论归档：仅展示李沐回复过的完整楼层。" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23FF2442'/%3E%3Ctext x='16' y='22' text-anchor='middle' font-size='16' fill='white' font-family='sans-serif'%3E红%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="assets/styles.css?v=5" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark">红</span>
+        <div class="brand-copy">
+          <strong>小红书总结</strong>
+          <span>李沐 AMA 作者回复归档</span>
+        </div>
+      </div>
+      <a class="source-link" id="sourceLink" href="#" target="_blank" rel="noopener">打开原笔记</a>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="note-pane">
+      <article class="note-card" id="noteCard"></article>
+      <section class="toc-card">
+        <div class="toc-head">
+          <h2>提问目录</h2>
+          <span class="toc-count" id="tocCount"></span>
+        </div>
+        <ul class="toc-list" id="tocList"></ul>
+      </section>
+    </aside>
+
+    <section class="sheet">
+      <div class="sheet-head">
+        <div>
+          <h1 id="sheetTitle">评论</h1>
+          <p class="sheet-sub" id="sheetSub"></p>
+        </div>
+        <button class="icon-btn" id="backTop" type="button" title="回到顶部" aria-label="回到顶部">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 14l6-6 6 6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+
+      <div class="toolbar">
+        <label class="search">
+          <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M16 16l4 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+          <input id="searchInput" type="search" placeholder="搜索评论、用户名" autocomplete="off" />
+        </label>
+        <div class="toolbar-row">
+          <label class="select-wrap">
+            <select id="sortSelect">
+              <option value="time">按提问时间</option>
+              <option value="replies">按回复数量</option>
+              <option value="id">按原始序号</option>
+            </select>
+          </label>
+          <label class="toggle">
+            <input id="expandAllToggle" type="checkbox" />
+            <span>展开全部回复</span>
+          </label>
+        </div>
+        <div class="chips" id="categoryChips" role="tablist" aria-label="评论分类"></div>
+      </div>
+
+      <div class="comment-list" id="commentList"></div>
+      <p class="empty" id="emptyState" hidden>没有匹配的评论</p>
+      <p class="page-updated" id="pageUpdated"></p>
+    </section>
+
+    <aside class="skill-pane">
+      <section class="skill-nav">
+        <div class="toc-head">
+          <h2>技能</h2>
+          <span class="toc-count" id="skillCount"></span>
+        </div>
+        <ul class="skill-list" id="skillList"></ul>
+      </section>
+      <article class="skill-detail" id="skillDetail"></article>
+    </aside>
+  </main>
+
+  <script src="assets/data.js?v=5"></script>
+  <script src="assets/app.js?v=5"></script>
+</body>
+</html>

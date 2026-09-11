@@ -1,0 +1,16 @@
+Topic: Applied AI and verticals
+Category: 08-applied-verticals
+Dialog: 0039
+Asker: 搜广推大模型随机打杂
+Comment ID: 6a9f8ab2000000000202bb75
+Source: comments/0039_搜广推大模型随机打杂_0202bb75.txt
+Title: LLMs plus recommendation systems
+
+About
+Asks about large models in recsys. Li Mu says both replacing the rec-model backbone with an LM and doing recommendation purely with language models already have successful apps.
+
+Question
+如何看待大模型+推荐系统的未来呢
+
+Li Mu
+现在用语言模型，不管是替换掉推荐模型的底座，还是纯基于语言模型推荐这一块，都有很成功的应用。

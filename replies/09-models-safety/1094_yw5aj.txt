@@ -1,0 +1,16 @@
+Topic: Models and safety
+Category: 09-models-safety
+Dialog: 1094
+Asker: yw5aj
+Comment ID: 6a9f7d10000000000d023401
+Source: comments/1094_yw5aj_0d023401.txt
+Title: Capabilities versus alignment / safety
+
+About
+Asks how to balance capability and safety. Li Mu is pessimistic: this is still a race for intelligence, safety work gets obsoleted by the next smarter model, and it often hurts user experience.
+
+Question
+请问您怎么看待capabilities 和alignment/safety的关系/平衡？
+
+Li Mu
+这个我就比较悲观，因为目前还是一个追求智能的年代。安全性的东西， 一方面容易被模型智能迭代所淘汰，第二方面，确实跟用户体验是有一定的影响

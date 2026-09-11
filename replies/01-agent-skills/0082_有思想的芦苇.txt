@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0082
+Asker: 有思想的芦苇
+Comment ID: 6a9f8405000000001402f58a
+Source: comments/0082_有思想的芦苇_1402f58a.txt
+Title: Business-algorithm career in a fast-changing market
+
+About
+A third-year master's student on the fall recruiting market feels lost in applied algorithms. Li Mu's test: can you, plus agents, finish work that used to take five people.
+
+Question
+怀念研一跟着您学习AI的日子，目前已经研三正在秋招，感觉这行的变化特别大，对未来特别迷茫，目前在做业务算法，将来该向着哪个方向发展呢？应该提升自己哪方面的能力？
+
+Li Mu
+简单来看，就是以前要五个人才能完成的工作，现在能不能你带着agent能完成？

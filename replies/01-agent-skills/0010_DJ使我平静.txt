@@ -1,0 +1,16 @@
+Topic: Agent skills
+Category: 01-agent-skills
+Dialog: 0010
+Asker: DJ使我平静
+Comment ID: 6a9f7db0000000000f0319b7
+Source: comments/0010_DJ使我平静_0f0319b7.txt
+Title: Agents multiply ability, they do not add it
+
+About
+The asker argues that agents shrink hard-skill gaps and raise the value of problem-finding and decomposition. Li Mu agrees in a sharper form: an agent is a multiplier (x10), not an adder (+10).
+
+Question
+硬实力差距因为 agent 缩小，软实力相对价值被放大。执行力，社交能力，分层的逻辑能力，变得尤为重要，本质上什么能力能让人更快的发现问题和分解问题，什么能力就重要，而具体的细节知识 agent 比人强没必要去肌肉碰钢铁。沐哥你觉得呢[doge]
+
+Li Mu
+agent是能力放大器，就是能力x10，而不是加法器，不是能力+10
